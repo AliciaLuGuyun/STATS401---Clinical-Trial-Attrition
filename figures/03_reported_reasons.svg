@@ -54,7 +54,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_1">
-      <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="225.192187" y="416.265926" transform="rotate(-0 225.192187 416.265926)">0</text>
+      <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="225.192187" y="416.265926" transform="rotate(-0 225.192187 416.265926)">0</text>
      </g>
     </g>
     <g id="xtick_2">
@@ -69,7 +69,7 @@ L 314.322135 23.229937
       </g>
      </g>
      <g id="text_2">
-      <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="314.322135" y="416.265926" transform="rotate(-0 314.322135 416.265926)">100</text>
+      <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="314.322135" y="416.265926" transform="rotate(-0 314.322135 416.265926)">100</text>
      </g>
     </g>
     <g id="xtick_3">
@@ -84,7 +84,7 @@ L 403.452083 23.229937
       </g>
      </g>
      <g id="text_3">
-      <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="403.452083" y="416.265926" transform="rotate(-0 403.452083 416.265926)">200</text>
+      <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="403.452083" y="416.265926" transform="rotate(-0 403.452083 416.265926)">200</text>
      </g>
     </g>
     <g id="xtick_4">
@@ -99,7 +99,7 @@ L 492.582031 23.229937
       </g>
      </g>
      <g id="text_4">
-      <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="492.582031" y="416.265926" transform="rotate(-0 492.582031 416.265926)">300</text>
+      <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="492.582031" y="416.265926" transform="rotate(-0 492.582031 416.265926)">300</text>
      </g>
     </g>
     <g id="xtick_5">
@@ -114,7 +114,7 @@ L 581.711979 23.229937
       </g>
      </g>
      <g id="text_5">
-      <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="581.711979" y="416.265926" transform="rotate(-0 581.711979 416.265926)">400</text>
+      <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="581.711979" y="416.265926" transform="rotate(-0 581.711979 416.265926)">400</text>
      </g>
     </g>
     <g id="xtick_6">
@@ -129,7 +129,7 @@ L 670.841927 23.229937
       </g>
      </g>
      <g id="text_6">
-      <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="670.841927" y="416.265926" transform="rotate(-0 670.841927 416.265926)">500</text>
+      <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="670.841927" y="416.265926" transform="rotate(-0 670.841927 416.265926)">500</text>
      </g>
     </g>
     <g id="xtick_7">
@@ -144,11 +144,11 @@ L 759.971875 23.229937
       </g>
      </g>
      <g id="text_7">
-      <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="759.971875" y="416.265926" transform="rotate(-0 759.971875 416.265926)">600</text>
+      <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="759.971875" y="416.265926" transform="rotate(-0 759.971875 416.265926)">600</text>
      </g>
     </g>
     <g id="text_8">
-     <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="509.195854" y="430.911864" transform="rotate(-0 509.195854 430.911864)">Reported non-completions (participants)</text>
+     <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="509.195854" y="430.911864" transform="rotate(-0 509.195854 430.911864)">Reported non-completions (participants)</text>
     </g>
    </g>
    <g id="matplotlib.axis_2">
@@ -164,7 +164,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_9">
-      <text style="font: 10px 'DejaVu Sans'; text-anchor: end" x="218.192187" y="55.759703" transform="rotate(-0 218.192187 55.759703)">Adverse Event</text>
+      <text style="font: 10px 'DejaVu Sans', sans-serif; text-anchor: end" x="218.192187" y="55.759703" transform="rotate(-0 218.192187 55.759703)">Adverse Event</text>
      </g>
     </g>
     <g id="ytick_2">
@@ -174,7 +174,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_10">
-      <text style="font: 10px 'DejaVu Sans'; text-anchor: end" x="218.192187" y="91.339326" transform="rotate(-0 218.192187 91.339326)">Withdrawal by Subject</text>
+      <text style="font: 10px 'DejaVu Sans', sans-serif; text-anchor: end" x="218.192187" y="91.339326" transform="rotate(-0 218.192187 91.339326)">Withdrawal by Subject</text>
      </g>
     </g>
     <g id="ytick_3">
@@ -184,7 +184,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_11">
-      <text style="font: 10px 'DejaVu Sans'; text-anchor: end" x="218.192187" y="126.91895" transform="rotate(-0 218.192187 126.91895)">Lost to Follow-up</text>
+      <text style="font: 10px 'DejaVu Sans', sans-serif; text-anchor: end" x="218.192187" y="126.91895" transform="rotate(-0 218.192187 126.91895)">Lost to Follow-up</text>
      </g>
     </g>
     <g id="ytick_4">
@@ -194,7 +194,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_12">
-      <text style="font: 10px 'DejaVu Sans'; text-anchor: end" x="218.192187" y="162.498574" transform="rotate(-0 218.192187 162.498574)">Withdrawal of Consent</text>
+      <text style="font: 10px 'DejaVu Sans', sans-serif; text-anchor: end" x="218.192187" y="162.498574" transform="rotate(-0 218.192187 162.498574)">Withdrawal of Consent</text>
      </g>
     </g>
     <g id="ytick_5">
@@ -204,7 +204,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_13">
-      <text style="font: 10px 'DejaVu Sans'; text-anchor: end" x="218.192187" y="198.078198" transform="rotate(-0 218.192187 198.078198)">Lack of Efficacy</text>
+      <text style="font: 10px 'DejaVu Sans', sans-serif; text-anchor: end" x="218.192187" y="198.078198" transform="rotate(-0 218.192187 198.078198)">Lack of Efficacy</text>
      </g>
     </g>
     <g id="ytick_6">
@@ -214,7 +214,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_14">
-      <text style="font: 10px 'DejaVu Sans'; text-anchor: end" x="218.192187" y="233.657822" transform="rotate(-0 218.192187 233.657822)">Protocol Violation</text>
+      <text style="font: 10px 'DejaVu Sans', sans-serif; text-anchor: end" x="218.192187" y="233.657822" transform="rotate(-0 218.192187 233.657822)">Protocol Violation</text>
      </g>
     </g>
     <g id="ytick_7">
@@ -224,7 +224,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_15">
-      <text style="font: 10px 'DejaVu Sans'; text-anchor: end" x="218.192187" y="269.237446" transform="rotate(-0 218.192187 269.237446)">Pretreatment Event or Adverse Event</text>
+      <text style="font: 10px 'DejaVu Sans', sans-serif; text-anchor: end" x="218.192187" y="269.237446" transform="rotate(-0 218.192187 269.237446)">Pretreatment Event or Adverse Event</text>
      </g>
     </g>
     <g id="ytick_8">
@@ -234,7 +234,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_16">
-      <text style="font: 10px 'DejaVu Sans'; text-anchor: end" x="218.192187" y="304.81707" transform="rotate(-0 218.192187 304.81707)">Protocol Deviations</text>
+      <text style="font: 10px 'DejaVu Sans', sans-serif; text-anchor: end" x="218.192187" y="304.81707" transform="rotate(-0 218.192187 304.81707)">Protocol Deviations</text>
      </g>
     </g>
     <g id="ytick_9">
@@ -244,7 +244,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_17">
-      <text style="font: 10px 'DejaVu Sans'; text-anchor: end" x="218.192187" y="340.396694" transform="rotate(-0 218.192187 340.396694)">Pretreatment Event or Adverse Event (AE)</text>
+      <text style="font: 10px 'DejaVu Sans', sans-serif; text-anchor: end" x="218.192187" y="340.396694" transform="rotate(-0 218.192187 340.396694)">Pretreatment Event or Adverse Event (AE)</text>
      </g>
     </g>
     <g id="ytick_10">
@@ -254,7 +254,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_18">
-      <text style="font: 10px 'DejaVu Sans'; text-anchor: end" x="218.192187" y="375.976317" transform="rotate(-0 218.192187 375.976317)">Other</text>
+      <text style="font: 10px 'DejaVu Sans', sans-serif; text-anchor: end" x="218.192187" y="375.976317" transform="rotate(-0 218.192187 375.976317)">Other</text>
      </g>
     </g>
    </g>
@@ -349,37 +349,37 @@ L 793.19952 400.907645
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_19">
-    <text style="font: 10px 'DejaVu Sans'; text-anchor: start" x="736.798089" y="54.719859" transform="rotate(-0 736.798089 54.719859)">569</text>
+    <text style="font: 10px 'DejaVu Sans', sans-serif; text-anchor: start" x="736.798089" y="54.719859" transform="rotate(-0 736.798089 54.719859)">569</text>
    </g>
    <g id="text_20">
-    <text style="font: 10px 'DejaVu Sans'; text-anchor: start" x="644.102943" y="90.299483" transform="rotate(-0 644.102943 90.299483)">465</text>
+    <text style="font: 10px 'DejaVu Sans', sans-serif; text-anchor: start" x="644.102943" y="90.299483" transform="rotate(-0 644.102943 90.299483)">465</text>
    </g>
    <g id="text_21">
-    <text style="font: 10px 'DejaVu Sans'; text-anchor: start" x="568.342487" y="125.879107" transform="rotate(-0 568.342487 125.879107)">380</text>
+    <text style="font: 10px 'DejaVu Sans', sans-serif; text-anchor: start" x="568.342487" y="125.879107" transform="rotate(-0 568.342487 125.879107)">380</text>
    </g>
    <g id="text_22">
-    <text style="font: 10px 'DejaVu Sans'; text-anchor: start" x="416.821576" y="161.45873" transform="rotate(-0 416.821576 161.45873)">210</text>
+    <text style="font: 10px 'DejaVu Sans', sans-serif; text-anchor: start" x="416.821576" y="161.45873" transform="rotate(-0 416.821576 161.45873)">210</text>
    </g>
    <g id="text_23">
-    <text style="font: 10px 'DejaVu Sans'; text-anchor: start" x="390.082591" y="197.038354" transform="rotate(-0 390.082591 197.038354)">180</text>
+    <text style="font: 10px 'DejaVu Sans', sans-serif; text-anchor: start" x="390.082591" y="197.038354" transform="rotate(-0 390.082591 197.038354)">180</text>
    </g>
    <g id="text_24">
-    <text style="font: 10px 'DejaVu Sans'; text-anchor: start" x="320.561232" y="232.617978" transform="rotate(-0 320.561232 232.617978)">102</text>
+    <text style="font: 10px 'DejaVu Sans', sans-serif; text-anchor: start" x="320.561232" y="232.617978" transform="rotate(-0 320.561232 232.617978)">102</text>
    </g>
    <g id="text_25">
-    <text style="font: 10px 'DejaVu Sans'; text-anchor: start" x="280.452755" y="268.197602" transform="rotate(-0 280.452755 268.197602)">57</text>
+    <text style="font: 10px 'DejaVu Sans', sans-serif; text-anchor: start" x="280.452755" y="268.197602" transform="rotate(-0 280.452755 268.197602)">57</text>
    </g>
    <g id="text_26">
-    <text style="font: 10px 'DejaVu Sans'; text-anchor: start" x="274.213659" y="303.777226" transform="rotate(-0 274.213659 303.777226)">50</text>
+    <text style="font: 10px 'DejaVu Sans', sans-serif; text-anchor: start" x="274.213659" y="303.777226" transform="rotate(-0 274.213659 303.777226)">50</text>
    </g>
    <g id="text_27">
-    <text style="font: 10px 'DejaVu Sans'; text-anchor: start" x="267.974563" y="339.35685" transform="rotate(-0 267.974563 339.35685)">43</text>
+    <text style="font: 10px 'DejaVu Sans', sans-serif; text-anchor: start" x="267.974563" y="339.35685" transform="rotate(-0 267.974563 339.35685)">43</text>
    </g>
    <g id="text_28">
-    <text style="font: 10px 'DejaVu Sans'; text-anchor: start" x="258.170268" y="374.936474" transform="rotate(-0 258.170268 374.936474)">32</text>
+    <text style="font: 10px 'DejaVu Sans', sans-serif; text-anchor: start" x="258.170268" y="374.936474" transform="rotate(-0 258.170268 374.936474)">32</text>
    </g>
    <g id="text_29">
-    <text style="font: 700 13.2px 'DejaVu Sans'; text-anchor: middle" x="509.195854" y="17.229937" transform="rotate(-0 509.195854 17.229937)">Ten most frequent original non-completion labels</text>
+    <text style="font: 700 13.2px 'DejaVu Sans', sans-serif; text-anchor: middle" x="509.195854" y="17.229937" transform="rotate(-0 509.195854 17.229937)">Ten most frequent original non-completion labels</text>
    </g>
   </g>
  </g>

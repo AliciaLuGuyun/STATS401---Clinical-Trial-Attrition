@@ -28,7 +28,7 @@ write_csv(P/'plot_landscape.csv',trials);write_csv(P/'plot_pairs.csv',pairs);wri
 plt.rcParams.update({'font.family':'DejaVu Sans','font.size':11,'axes.spines.top':False,'axes.spines.right':False,'axes.titleweight':'bold','svg.fonttype':'none','svg.hashsalt':'stats401-interim'})
 def save(fig,name):
  fig.savefig(F/(name+'.svg'),bbox_inches='tight',metadata={'Date':None})
- svg=F/(name+'.svg');svg.write_text('\n'.join(line.rstrip() for line in svg.read_text().splitlines())+'\n')
+ svg=F/(name+'.svg');svg.write_text('\n'.join(line.rstrip() for line in svg.read_text().replace("'DejaVu Sans'", "'DejaVu Sans', sans-serif").splitlines())+'\n')
  fig.savefig(F/(name+'.png'),dpi=160,bbox_inches='tight',metadata={'Software':'STATS401 Matplotlib'})
  plt.close(fig)
 fig,ax=plt.subplots(figsize=(10.5,5.7),layout='constrained')

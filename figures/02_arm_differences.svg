@@ -54,7 +54,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_1">
-      <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="78.524687" y="560.265926" transform="rotate(-0 78.524687 560.265926)">−30</text>
+      <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="78.524687" y="560.265926" transform="rotate(-0 78.524687 560.265926)">−30</text>
      </g>
     </g>
     <g id="xtick_2">
@@ -69,7 +69,7 @@ L 136.250741 41.217511
       </g>
      </g>
      <g id="text_2">
-      <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="136.250741" y="560.265926" transform="rotate(-0 136.250741 560.265926)">−20</text>
+      <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="136.250741" y="560.265926" transform="rotate(-0 136.250741 560.265926)">−20</text>
      </g>
     </g>
     <g id="xtick_3">
@@ -84,7 +84,7 @@ L 193.976795 41.217511
       </g>
      </g>
      <g id="text_3">
-      <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="193.976795" y="560.265926" transform="rotate(-0 193.976795 560.265926)">−10</text>
+      <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="193.976795" y="560.265926" transform="rotate(-0 193.976795 560.265926)">−10</text>
      </g>
     </g>
     <g id="xtick_4">
@@ -99,7 +99,7 @@ L 251.702849 41.217511
       </g>
      </g>
      <g id="text_4">
-      <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="251.702849" y="560.265926" transform="rotate(-0 251.702849 560.265926)">0</text>
+      <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="251.702849" y="560.265926" transform="rotate(-0 251.702849 560.265926)">0</text>
      </g>
     </g>
     <g id="xtick_5">
@@ -114,7 +114,7 @@ L 309.428903 41.217511
       </g>
      </g>
      <g id="text_5">
-      <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="309.428903" y="560.265926" transform="rotate(-0 309.428903 560.265926)">10</text>
+      <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="309.428903" y="560.265926" transform="rotate(-0 309.428903 560.265926)">10</text>
      </g>
     </g>
     <g id="xtick_6">
@@ -129,7 +129,7 @@ L 367.154956 41.217511
       </g>
      </g>
      <g id="text_6">
-      <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="367.154956" y="560.265926" transform="rotate(-0 367.154956 560.265926)">20</text>
+      <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="367.154956" y="560.265926" transform="rotate(-0 367.154956 560.265926)">20</text>
      </g>
     </g>
     <g id="xtick_7">
@@ -144,11 +144,11 @@ L 424.88101 41.217511
       </g>
      </g>
      <g id="text_7">
-      <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="424.88101" y="560.265926" transform="rotate(-0 424.88101 560.265926)">30</text>
+      <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="424.88101" y="560.265926" transform="rotate(-0 424.88101 560.265926)">30</text>
      </g>
     </g>
     <g id="text_8">
-     <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="251.702849" y="574.911864" transform="rotate(-0 251.702849 574.911864)">Experimental − comparator (percentage points)</text>
+     <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="251.702849" y="574.911864" transform="rotate(-0 251.702849 574.911864)">Experimental − comparator (percentage points)</text>
     </g>
    </g>
    <g id="matplotlib.axis_2">
@@ -164,7 +164,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_9">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="71.524687" y="67.531814" transform="rotate(-0 71.524687 67.531814)">NCT03433339</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="71.524687" y="67.531814" transform="rotate(-0 71.524687 67.531814)">NCT03433339</text>
      </g>
     </g>
     <g id="ytick_2">
@@ -174,7 +174,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_10">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="71.524687" y="92.97071" transform="rotate(-0 71.524687 92.97071)">NCT03866174</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="71.524687" y="92.97071" transform="rotate(-0 71.524687 92.97071)">NCT03866174</text>
      </g>
     </g>
     <g id="ytick_3">
@@ -184,7 +184,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_11">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="71.524687" y="118.409605" transform="rotate(-0 71.524687 118.409605)">NCT01421134</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="71.524687" y="118.409605" transform="rotate(-0 71.524687 118.409605)">NCT01421134</text>
      </g>
     </g>
     <g id="ytick_4">
@@ -194,7 +194,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_12">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="71.524687" y="143.848501" transform="rotate(-0 71.524687 143.848501)">NCT03595579</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="71.524687" y="143.848501" transform="rotate(-0 71.524687 143.848501)">NCT03595579</text>
      </g>
     </g>
     <g id="ytick_5">
@@ -204,7 +204,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_13">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="71.524687" y="169.287397" transform="rotate(-0 71.524687 169.287397)">NCT04688164</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="71.524687" y="169.287397" transform="rotate(-0 71.524687 169.287397)">NCT04688164</text>
      </g>
     </g>
     <g id="ytick_6">
@@ -214,7 +214,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_14">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="71.524687" y="194.726292" transform="rotate(-0 71.524687 194.726292)">NCT00759395</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="71.524687" y="194.726292" transform="rotate(-0 71.524687 194.726292)">NCT00759395</text>
      </g>
     </g>
     <g id="ytick_7">
@@ -224,7 +224,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_15">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="71.524687" y="220.165188" transform="rotate(-0 71.524687 220.165188)">NCT01370733</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="71.524687" y="220.165188" transform="rotate(-0 71.524687 220.165188)">NCT01370733</text>
      </g>
     </g>
     <g id="ytick_8">
@@ -234,7 +234,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_16">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="71.524687" y="245.604084" transform="rotate(-0 71.524687 245.604084)">NCT04437485</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="71.524687" y="245.604084" transform="rotate(-0 71.524687 245.604084)">NCT04437485</text>
      </g>
     </g>
     <g id="ytick_9">
@@ -244,7 +244,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_17">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="71.524687" y="271.042979" transform="rotate(-0 71.524687 271.042979)">NCT05081167</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="71.524687" y="271.042979" transform="rotate(-0 71.524687 271.042979)">NCT05081167</text>
      </g>
     </g>
     <g id="ytick_10">
@@ -254,7 +254,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_18">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="71.524687" y="296.481875" transform="rotate(-0 71.524687 296.481875)">NCT01488071</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="71.524687" y="296.481875" transform="rotate(-0 71.524687 296.481875)">NCT01488071</text>
      </g>
     </g>
     <g id="ytick_11">
@@ -264,7 +264,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_19">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="71.524687" y="321.920771" transform="rotate(-0 71.524687 321.920771)">NCT03018340</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="71.524687" y="321.920771" transform="rotate(-0 71.524687 321.920771)">NCT03018340</text>
      </g>
     </g>
     <g id="ytick_12">
@@ -274,7 +274,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_20">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="71.524687" y="347.359666" transform="rotate(-0 71.524687 347.359666)">NCT03193398</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="71.524687" y="347.359666" transform="rotate(-0 71.524687 347.359666)">NCT03193398</text>
      </g>
     </g>
     <g id="ytick_13">
@@ -284,7 +284,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_21">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="71.524687" y="372.798562" transform="rotate(-0 71.524687 372.798562)">NCT04442490</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="71.524687" y="372.798562" transform="rotate(-0 71.524687 372.798562)">NCT04442490</text>
      </g>
     </g>
     <g id="ytick_14">
@@ -294,7 +294,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_22">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="71.524687" y="398.237458" transform="rotate(-0 71.524687 398.237458)">NCT02046564</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="71.524687" y="398.237458" transform="rotate(-0 71.524687 398.237458)">NCT02046564</text>
      </g>
     </g>
     <g id="ytick_15">
@@ -304,7 +304,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_23">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="71.524687" y="423.676353" transform="rotate(-0 71.524687 423.676353)">NCT00672958</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="71.524687" y="423.676353" transform="rotate(-0 71.524687 423.676353)">NCT00672958</text>
      </g>
     </g>
     <g id="ytick_16">
@@ -314,7 +314,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_24">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="71.524687" y="449.115249" transform="rotate(-0 71.524687 449.115249)">NCT04476030</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="71.524687" y="449.115249" transform="rotate(-0 71.524687 449.115249)">NCT04476030</text>
      </g>
     </g>
     <g id="ytick_17">
@@ -324,7 +324,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_25">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="71.524687" y="474.554145" transform="rotate(-0 71.524687 474.554145)">NCT01180400</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="71.524687" y="474.554145" transform="rotate(-0 71.524687 474.554145)">NCT01180400</text>
      </g>
     </g>
     <g id="ytick_18">
@@ -334,7 +334,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_26">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="71.524687" y="499.99304" transform="rotate(-0 71.524687 499.99304)">NCT02458690</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="71.524687" y="499.99304" transform="rotate(-0 71.524687 499.99304)">NCT02458690</text>
      </g>
     </g>
     <g id="ytick_19">
@@ -344,7 +344,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_27">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="71.524687" y="525.431936" transform="rotate(-0 71.524687 525.431936)">NCT01157078</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="71.524687" y="525.431936" transform="rotate(-0 71.524687 525.431936)">NCT01157078</text>
      </g>
     </g>
    </g>
@@ -495,7 +495,7 @@ L 424.88101 544.907645
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_28">
-    <text style="font: 700 11px 'DejaVu Sans'; text-anchor: middle" x="251.702849" y="35.217511" transform="rotate(-0 251.702849 35.217511)">← Higher in comparator</text>
+    <text style="font: 700 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="251.702849" y="35.217511" transform="rotate(-0 251.702849 35.217511)">← Higher in comparator</text>
    </g>
   </g>
   <g id="axes_2">
@@ -520,7 +520,7 @@ L 511.844448 41.217511
       </g>
      </g>
      <g id="text_29">
-      <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="511.844448" y="560.265926" transform="rotate(-0 511.844448 560.265926)">−30</text>
+      <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="511.844448" y="560.265926" transform="rotate(-0 511.844448 560.265926)">−30</text>
      </g>
     </g>
     <g id="xtick_9">
@@ -535,7 +535,7 @@ L 569.570501 41.217511
       </g>
      </g>
      <g id="text_30">
-      <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="569.570501" y="560.265926" transform="rotate(-0 569.570501 560.265926)">−20</text>
+      <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="569.570501" y="560.265926" transform="rotate(-0 569.570501 560.265926)">−20</text>
      </g>
     </g>
     <g id="xtick_10">
@@ -550,7 +550,7 @@ L 627.296555 41.217511
       </g>
      </g>
      <g id="text_31">
-      <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="627.296555" y="560.265926" transform="rotate(-0 627.296555 560.265926)">−10</text>
+      <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="627.296555" y="560.265926" transform="rotate(-0 627.296555 560.265926)">−10</text>
      </g>
     </g>
     <g id="xtick_11">
@@ -565,7 +565,7 @@ L 685.022609 41.217511
       </g>
      </g>
      <g id="text_32">
-      <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="685.022609" y="560.265926" transform="rotate(-0 685.022609 560.265926)">0</text>
+      <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="685.022609" y="560.265926" transform="rotate(-0 685.022609 560.265926)">0</text>
      </g>
     </g>
     <g id="xtick_12">
@@ -580,7 +580,7 @@ L 742.748663 41.217511
       </g>
      </g>
      <g id="text_33">
-      <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="742.748663" y="560.265926" transform="rotate(-0 742.748663 560.265926)">10</text>
+      <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="742.748663" y="560.265926" transform="rotate(-0 742.748663 560.265926)">10</text>
      </g>
     </g>
     <g id="xtick_13">
@@ -595,7 +595,7 @@ L 800.474716 41.217511
       </g>
      </g>
      <g id="text_34">
-      <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="800.474716" y="560.265926" transform="rotate(-0 800.474716 560.265926)">20</text>
+      <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="800.474716" y="560.265926" transform="rotate(-0 800.474716 560.265926)">20</text>
      </g>
     </g>
     <g id="xtick_14">
@@ -610,11 +610,11 @@ L 858.20077 41.217511
       </g>
      </g>
      <g id="text_35">
-      <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="858.20077" y="560.265926" transform="rotate(-0 858.20077 560.265926)">30</text>
+      <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="858.20077" y="560.265926" transform="rotate(-0 858.20077 560.265926)">30</text>
      </g>
     </g>
     <g id="text_36">
-     <text style="font: 11px 'DejaVu Sans'; text-anchor: middle" x="685.022609" y="574.911864" transform="rotate(-0 685.022609 574.911864)">Experimental − comparator (percentage points)</text>
+     <text style="font: 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="685.022609" y="574.911864" transform="rotate(-0 685.022609 574.911864)">Experimental − comparator (percentage points)</text>
     </g>
    </g>
    <g id="matplotlib.axis_4">
@@ -625,7 +625,7 @@ L 858.20077 41.217511
       </g>
      </g>
      <g id="text_37">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="504.844448" y="67.531814" transform="rotate(-0 504.844448 67.531814)">NCT00962598</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="504.844448" y="67.531814" transform="rotate(-0 504.844448 67.531814)">NCT00962598</text>
      </g>
     </g>
     <g id="ytick_21">
@@ -635,7 +635,7 @@ L 858.20077 41.217511
       </g>
      </g>
      <g id="text_38">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="504.844448" y="92.97071" transform="rotate(-0 504.844448 92.97071)">NCT01625845</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="504.844448" y="92.97071" transform="rotate(-0 504.844448 92.97071)">NCT01625845</text>
      </g>
     </g>
     <g id="ytick_22">
@@ -645,7 +645,7 @@ L 858.20077 41.217511
       </g>
      </g>
      <g id="text_39">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="504.844448" y="118.409605" transform="rotate(-0 504.844448 118.409605)">NCT01874951</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="504.844448" y="118.409605" transform="rotate(-0 504.844448 118.409605)">NCT01874951</text>
      </g>
     </g>
     <g id="ytick_23">
@@ -655,7 +655,7 @@ L 858.20077 41.217511
       </g>
      </g>
      <g id="text_40">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="504.844448" y="143.848501" transform="rotate(-0 504.844448 143.848501)">NCT03429075</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="504.844448" y="143.848501" transform="rotate(-0 504.844448 143.848501)">NCT03429075</text>
      </g>
     </g>
     <g id="ytick_24">
@@ -665,7 +665,7 @@ L 858.20077 41.217511
       </g>
      </g>
      <g id="text_41">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="504.844448" y="169.287397" transform="rotate(-0 504.844448 169.287397)">NCT04504253</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="504.844448" y="169.287397" transform="rotate(-0 504.844448 169.287397)">NCT04504253</text>
      </g>
     </g>
     <g id="ytick_25">
@@ -675,7 +675,7 @@ L 858.20077 41.217511
       </g>
      </g>
      <g id="text_42">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="504.844448" y="194.726292" transform="rotate(-0 504.844448 194.726292)">NCT02943577</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="504.844448" y="194.726292" transform="rotate(-0 504.844448 194.726292)">NCT02943577</text>
      </g>
     </g>
     <g id="ytick_26">
@@ -685,7 +685,7 @@ L 858.20077 41.217511
       </g>
      </g>
      <g id="text_43">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="504.844448" y="220.165188" transform="rotate(-0 504.844448 220.165188)">NCT02932943</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="504.844448" y="220.165188" transform="rotate(-0 504.844448 220.165188)">NCT02932943</text>
      </g>
     </g>
     <g id="ytick_27">
@@ -695,7 +695,7 @@ L 858.20077 41.217511
       </g>
      </g>
      <g id="text_44">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="504.844448" y="245.604084" transform="rotate(-0 504.844448 245.604084)">NCT02914769</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="504.844448" y="245.604084" transform="rotate(-0 504.844448 245.604084)">NCT02914769</text>
      </g>
     </g>
     <g id="ytick_28">
@@ -705,7 +705,7 @@ L 858.20077 41.217511
       </g>
      </g>
      <g id="text_45">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="504.844448" y="271.042979" transform="rotate(-0 504.844448 271.042979)">NCT04479852</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="504.844448" y="271.042979" transform="rotate(-0 504.844448 271.042979)">NCT04479852</text>
      </g>
     </g>
     <g id="ytick_29">
@@ -715,7 +715,7 @@ L 858.20077 41.217511
       </g>
      </g>
      <g id="text_46">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="504.844448" y="296.481875" transform="rotate(-0 504.844448 296.481875)">NCT05686408</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="504.844448" y="296.481875" transform="rotate(-0 504.844448 296.481875)">NCT05686408</text>
      </g>
     </g>
     <g id="ytick_30">
@@ -725,7 +725,7 @@ L 858.20077 41.217511
       </g>
      </g>
      <g id="text_47">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="504.844448" y="321.920771" transform="rotate(-0 504.844448 321.920771)">NCT00742573</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="504.844448" y="321.920771" transform="rotate(-0 504.844448 321.920771)">NCT00742573</text>
      </g>
     </g>
     <g id="ytick_31">
@@ -735,7 +735,7 @@ L 858.20077 41.217511
       </g>
      </g>
      <g id="text_48">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="504.844448" y="347.359666" transform="rotate(-0 504.844448 347.359666)">NCT04985942</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="504.844448" y="347.359666" transform="rotate(-0 504.844448 347.359666)">NCT04985942</text>
      </g>
     </g>
     <g id="ytick_32">
@@ -745,7 +745,7 @@ L 858.20077 41.217511
       </g>
      </g>
      <g id="text_49">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="504.844448" y="372.798562" transform="rotate(-0 504.844448 372.798562)">NCT06340958</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="504.844448" y="372.798562" transform="rotate(-0 504.844448 372.798562)">NCT06340958</text>
      </g>
     </g>
     <g id="ytick_33">
@@ -755,7 +755,7 @@ L 858.20077 41.217511
       </g>
      </g>
      <g id="text_50">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="504.844448" y="398.237458" transform="rotate(-0 504.844448 398.237458)">NCT05061706</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="504.844448" y="398.237458" transform="rotate(-0 504.844448 398.237458)">NCT05061706</text>
      </g>
     </g>
     <g id="ytick_34">
@@ -765,7 +765,7 @@ L 858.20077 41.217511
       </g>
      </g>
      <g id="text_51">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="504.844448" y="423.676353" transform="rotate(-0 504.844448 423.676353)">NCT01407575</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="504.844448" y="423.676353" transform="rotate(-0 504.844448 423.676353)">NCT01407575</text>
      </g>
     </g>
     <g id="ytick_35">
@@ -775,7 +775,7 @@ L 858.20077 41.217511
       </g>
      </g>
      <g id="text_52">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="504.844448" y="449.115249" transform="rotate(-0 504.844448 449.115249)">NCT01368432</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="504.844448" y="449.115249" transform="rotate(-0 504.844448 449.115249)">NCT01368432</text>
      </g>
     </g>
     <g id="ytick_36">
@@ -785,7 +785,7 @@ L 858.20077 41.217511
       </g>
      </g>
      <g id="text_53">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="504.844448" y="474.554145" transform="rotate(-0 504.844448 474.554145)">NCT00149825</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="504.844448" y="474.554145" transform="rotate(-0 504.844448 474.554145)">NCT00149825</text>
      </g>
     </g>
     <g id="ytick_37">
@@ -795,7 +795,7 @@ L 858.20077 41.217511
       </g>
      </g>
      <g id="text_54">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="504.844448" y="499.99304" transform="rotate(-0 504.844448 499.99304)">NCT04019704</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="504.844448" y="499.99304" transform="rotate(-0 504.844448 499.99304)">NCT04019704</text>
      </g>
     </g>
     <g id="ytick_38">
@@ -805,7 +805,7 @@ L 858.20077 41.217511
       </g>
      </g>
      <g id="text_55">
-      <text style="font: 9px 'DejaVu Sans'; text-anchor: end" x="504.844448" y="525.431936" transform="rotate(-0 504.844448 525.431936)">NCT02176291</text>
+      <text style="font: 9px 'DejaVu Sans', sans-serif; text-anchor: end" x="504.844448" y="525.431936" transform="rotate(-0 504.844448 525.431936)">NCT02176291</text>
      </g>
     </g>
    </g>
@@ -956,11 +956,11 @@ L 858.20077 544.907645
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_56">
-    <text style="font: 700 11px 'DejaVu Sans'; text-anchor: middle" x="685.022609" y="35.217511" transform="rotate(-0 685.022609 35.217511)">Higher in experimental →</text>
+    <text style="font: 700 11px 'DejaVu Sans', sans-serif; text-anchor: middle" x="685.022609" y="35.217511" transform="rotate(-0 685.022609 35.217511)">Higher in experimental →</text>
    </g>
   </g>
   <g id="text_57">
-   <text style="font: 700 14px 'DejaVu Sans'; text-anchor: middle" x="436.19976" y="17.837812" transform="rotate(-0 436.19976 17.837812)">Within-trial attrition differences · 38 unambiguous two-arm trials</text>
+   <text style="font: 700 14px 'DejaVu Sans', sans-serif; text-anchor: middle" x="436.19976" y="17.837812" transform="rotate(-0 436.19976 17.837812)">Within-trial attrition differences · 38 unambiguous two-arm trials</text>
   </g>
  </g>
  <defs>

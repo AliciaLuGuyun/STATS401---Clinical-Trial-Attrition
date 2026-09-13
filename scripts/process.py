@@ -93,7 +93,7 @@ def main():
         assert rows, name+' unexpectedly empty';write_csv(out/(name+'.csv'),rows)
     usable=[t for t in trials if t['usable']]
     ids={t['nct_id'] for t in usable}
-    summary={'raw_snapshot':args.raw,'retrieved_start_utc':manifest['retrieved_start_utc'],'candidate_count':len(studies),'sequential_filters':dict(stages),'eligible_trials':len(trials),'single_period_arm_rows':len(arms),'single_period_reason_rows':len(reasons),'usable_trials':len(usable),'usable_arms':sum(a['nct_id'] in ids for a in arms),'paired_trials':len(pairs),'qc_flags':dict(collections.Counter(flag for t in trials for flag in t['qc_flags'].split(';') if flag)),'reason_reconciliation':dict(collections.Counter(str(a['reason_reconciles']) for a in arms if a['nct_id'] in ids))}
+    summary={'source_processing_dates':sorted({s.get('derivedSection',{}).get('miscInfoModule',{}).get('versionHolder','UNKNOWN') for s in studies}), 'raw_snapshot':args.raw,'retrieved_start_utc':manifest['retrieved_start_utc'],'candidate_count':len(studies),'sequential_filters':dict(stages),'eligible_trials':len(trials),'single_period_arm_rows':len(arms),'single_period_reason_rows':len(reasons),'usable_trials':len(usable),'usable_arms':sum(a['nct_id'] in ids for a in arms),'paired_trials':len(pairs),'qc_flags':dict(collections.Counter(flag for t in trials for flag in t['qc_flags'].split(';') if flag)),'reason_reconciliation':dict(collections.Counter(str(a['reason_reconciles']) for a in arms if a['nct_id'] in ids))}
     (out/'summary.json').write_text(json.dumps(summary,indent=2)+'\n')
     (out/'source_manifest.json').write_text(json.dumps(manifest,indent=2)+'\n')
     print(json.dumps(summary,indent=2))

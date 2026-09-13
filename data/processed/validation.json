@@ -21,9 +21,9 @@
     "data/processed/plot_pairs.csv": "1c639fd5ae2e306cb8b6f7bbe5c4eb3679b9a527bf45a9d24c20f95dbf127fb9",
     "data/processed/plot_reasons_all.csv": "909c2d1369b5dafcf72610cce782592453b71961df7ec0f5fed5071581494cd2",
     "data/processed/plot_landscape.csv": "5b7db629c4770202af70d0932ecfa26d3c570a43817ee346fa8c9d23cab632a5",
-    "figures/03_reported_reasons.svg": "a513658db68e662af8ce6343c26609873951aca9b34d60170c85af539b4f3d98",
-    "figures/02_arm_differences.svg": "866cb5d0153de00e7f62ed87450351f9fe5635a5744db3a284fd359d1c29346e",
-    "figures/01_attrition_landscape.svg": "97718ead8b7a32b225383c8c76865ffb9fa9407ee4876686625549114cba81dc",
+    "figures/03_reported_reasons.svg": "7a5f880c1a3631ca411371ab2d707b77dc8a1ef4b359f936d6a41f15622d1095",
+    "figures/02_arm_differences.svg": "e117e717391d9253229e32ca92fefa98c9de9c94b55b3ae0cc07ad417123d616",
+    "figures/01_attrition_landscape.svg": "93db470765ddd7cc14913e12ed5eea19a2f12179f45b9f960b625683f7a965e1",
     "data/processed/findings.json": "404698b9686ccfd2b0acbc9722a8a0c1e8764a4651ff5eff231518a2febd1b2d"
   }
 }

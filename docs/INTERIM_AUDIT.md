@@ -1,6 +1,6 @@
 # Interim check-in audit
 
-Status: publication/browser verification pending. Requirement source: user-supplied official interim instructions on 2026-09-13; no deadline inferred, no slides required.
+Status: all interim requirements verified on the published GitHub Page, 2026-09-13. Requirement source: user-supplied official interim instructions on 2026-09-13; no deadline inferred, no slides required.
 
 | Interim requirement | Evidence | Status |
 |---|---|---|
@@ -16,6 +16,10 @@ Status: publication/browser verification pending. Requirement source: user-suppl
 | Evaluation: what | index.html#evaluation; design document | DONE |
 | Evaluation: how | index.html#evaluation; five tasks, 4–6 classmates planned | DONE |
 | Evaluation: data/feedback | index.html#evaluation; accuracy/time/ratings/comments | DONE |
-| GitHub Page works | Await deployment and browser verification | IN PROGRESS |
+| GitHub Page works | https://alicialuguyun.github.io/STATS401---Clinical-Trial-Attrition/ — loaded in Chrome, all three SVGs rendered, sections and console checked | DONE |
 
-Figures were viewed locally and numeric validation passed; this does not yet establish that the public page works.
+GitHub Pages main/root build for b8a330b69ba7f5bc179145f94df2137c03a4f3be succeeded. Native Chrome loaded the public page, exposed dataset and evaluation sections, and rendered all three linked SVGs with readable labels and relative paths. DevTools Console reported 0 messages. All three PNGs were also reviewed locally. Source-date and font-fallback refinements are included in the subsequent audit/provenance commit; the final release is checked again before delivery.
+
+Submit this URL: https://alicialuguyun.github.io/STATS401---Clinical-Trial-Attrition/
+
+Numerical evidence: data/processed/validation.json (all 403 arms, 1,896 reasons, 38 pairs; raw hashes and deterministic rebuilds). Manual evidence: docs/MANUAL_RECORD_CHECKS.md. Recheck deployed bytes with `python3 scripts/check_site.py`; a network-enabled environment is required.

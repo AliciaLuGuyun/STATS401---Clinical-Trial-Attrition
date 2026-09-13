@@ -86,8 +86,8 @@ Only counts, QC, rate distribution, paired differences and original reason frequ
 | I04 | Three static plots | I03 | figures/01–03; scripts/figures.py | DONE |
 | I05 | Interaction and evaluation plans | I04 | docs/VISUALIZATION_DESIGN.md; index.html | DONE |
 | I06 | Interim webpage/reproduction | I03–I05 | index.html; README.md | DONE |
-| I07 | Numerical/visual/source checks | I06 | validation.json; manual record audit | IN PROGRESS |
-| I08 | Review diff, commit, push, Pages | I07 | Existing remote; docs/INTERIM_AUDIT.md | IN PROGRESS |
-| I09 | Verify published page in browser | I08 | docs/INTERIM_AUDIT.md | TODO |
+| I07 | Numerical/visual/source checks | I06 | validation.json; manual record audit | DONE |
+| I08 | Review diff, commit, push, Pages | I07 | Existing remote; docs/INTERIM_AUDIT.md | DONE |
+| I09 | Verify published page in browser | I08 | docs/INTERIM_AUDIT.md | DONE |
 
 Final report, poster, Sankey and five interactive views are deferred, not interim requirements. Next scientific work: team review of ambiguous multi-period/arm/diagnosis records and the all-zero-completion anomaly. No silent override of these records.

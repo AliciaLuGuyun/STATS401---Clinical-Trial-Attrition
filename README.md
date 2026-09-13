@@ -6,7 +6,9 @@ We examine variation in registry-reported non-completion, within-trial arm diffe
 
 ## Interim page
 
-The static page source is [index.html](index.html). Publication status and the verified submission URL are recorded in [the interim audit](docs/INTERIM_AUDIT.md). Do not assume publication merely from the presence of source files.
+**Submission link: [Final Project GitHub Page](https://alicialuguyun.github.io/STATS401---Clinical-Trial-Attrition/).**
+
+The page and all three figures were verified in Chrome. [Interim audit](docs/INTERIM_AUDIT.md) records the checks. The static source is [index.html](index.html).
 
 ## Data and methods
 

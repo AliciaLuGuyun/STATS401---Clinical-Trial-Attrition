@@ -1,4 +1,7 @@
 {
+  "source_processing_dates": [
+    "2026-09-11"
+  ],
   "raw_snapshot": "data/raw/2026-09-13",
   "retrieved_start_utc": "2026-09-13T15:20:22.723422+00:00",
   "candidate_count": 335,
