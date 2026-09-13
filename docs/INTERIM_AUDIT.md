@@ -23,3 +23,6 @@ GitHub Pages main/root build for b8a330b69ba7f5bc179145f94df2137c03a4f3be succee
 Submit this URL: https://alicialuguyun.github.io/STATS401---Clinical-Trial-Attrition/
 
 Numerical evidence: data/processed/validation.json (all 403 arms, 1,896 reasons, 38 pairs; raw hashes and deterministic rebuilds). Manual evidence: docs/MANUAL_RECORD_CHECKS.md. Recheck deployed bytes with `python3 scripts/check_site.py`; a network-enabled environment is required.
+
+## Final release confirmation
+Commit `45a8854e73702baac33bce8d44f0e20a605833e2` deployed successfully (GitHub Actions run `34766831699`). Chrome hard-refresh verified the source-processing date and final SVG font fallback. Required sections and figures work. A subsequent console read showed only an optional `favicon.ico` 404, with no page-breaking error. The supplemental complete HTTP checksum audit timed out on CSV requests; it is **not** recorded as passing. Numerical reproduction and actual browser rendering checks passed. This receipt changes documentation only.
