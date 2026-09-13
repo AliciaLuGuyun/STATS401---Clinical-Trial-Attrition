@@ -1,0 +1,2 @@
+# Preserve the user-supplied assignment verbatim, including its final blank lines.
+docs/STATS401_assignment_user_supplied.txt whitespace=-blank-at-eof

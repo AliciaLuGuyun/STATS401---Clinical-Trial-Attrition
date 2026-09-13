@@ -1,0 +1,45 @@
+{
+  "retrieved_start_utc": "2026-09-13T15:20:22.723422+00:00",
+  "endpoint": "https://clinicaltrials.gov/api/v2/studies",
+  "query": {
+    "query.cond": "Major Depressive Disorder",
+    "filter.overallStatus": "COMPLETED",
+    "filter.advanced": "AREA[StudyType]INTERVENTIONAL AND AREA[Phase](PHASE2 OR PHASE3) AND AREA[HasResults]true",
+    "format": "json",
+    "pageSize": "100",
+    "countTotal": "true"
+  },
+  "pages": [
+    {
+      "file": "page_001.json",
+      "url": "https://clinicaltrials.gov/api/v2/studies?query.cond=Major+Depressive+Disorder&filter.overallStatus=COMPLETED&filter.advanced=AREA%5BStudyType%5DINTERVENTIONAL+AND+AREA%5BPhase%5D%28PHASE2+OR+PHASE3%29+AND+AREA%5BHasResults%5Dtrue&format=json&pageSize=100&countTotal=true",
+      "bytes": 6401863,
+      "sha256": "7652aa65551543ee2e9a26f5bbde5e0500184ca7b68f1c98dce84a8af3d9ea25",
+      "studies": 100
+    },
+    {
+      "file": "page_002.json",
+      "url": "https://clinicaltrials.gov/api/v2/studies?query.cond=Major+Depressive+Disorder&filter.overallStatus=COMPLETED&filter.advanced=AREA%5BStudyType%5DINTERVENTIONAL+AND+AREA%5BPhase%5D%28PHASE2+OR+PHASE3%29+AND+AREA%5BHasResults%5Dtrue&format=json&pageSize=100&countTotal=true&pageToken=ZVt07cGHkvI2wRk2CJf6_LLtz5GYPNRrd7KrgP4bnT6TsPQ-IQ",
+      "bytes": 6876775,
+      "sha256": "0f1934abdd4720eb05fb8787d6d2fe0e01e8fa31b478e2bac946ec8532c71956",
+      "studies": 100
+    },
+    {
+      "file": "page_003.json",
+      "url": "https://clinicaltrials.gov/api/v2/studies?query.cond=Major+Depressive+Disorder&filter.overallStatus=COMPLETED&filter.advanced=AREA%5BStudyType%5DINTERVENTIONAL+AND+AREA%5BPhase%5D%28PHASE2+OR+PHASE3%29+AND+AREA%5BHasResults%5Dtrue&format=json&pageSize=100&countTotal=true&pageToken=ZVt07cGHkvI2wRk2CJf6_LLtz5GYPNRrd7KrgP4Ynz6WuPU8IQ",
+      "bytes": 7079301,
+      "sha256": "d52595263c18576ccb52428fee5cc1bcc1a9115b25f76ee4b474835ed22581ed",
+      "studies": 100
+    },
+    {
+      "file": "page_004.json",
+      "url": "https://clinicaltrials.gov/api/v2/studies?query.cond=Major+Depressive+Disorder&filter.overallStatus=COMPLETED&filter.advanced=AREA%5BStudyType%5DINTERVENTIONAL+AND+AREA%5BPhase%5D%28PHASE2+OR+PHASE3%29+AND+AREA%5BHasResults%5Dtrue&format=json&pageSize=100&countTotal=true&pageToken=ZVt07cGHkvI2wRk2CJf6_LLtz5GYPNRrd7KrgP4ZmjmRuvg4IQ",
+      "bytes": 2306360,
+      "sha256": "5668fe2205ab55c05226e322ee5191d9f68d361aef21f04fbb060111ab26cb82",
+      "studies": 35
+    }
+  ],
+  "api_total_count": 335,
+  "candidate_count": 335,
+  "retrieved_end_utc": "2026-09-13T15:20:34.057931+00:00"
+}

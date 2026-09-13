@@ -1,0 +1,84 @@
+reason_label,reported_count,reporting_trials
+Adverse Event,569,36
+Withdrawal by Subject,465,36
+Lost to Follow-up,380,39
+Withdrawal of Consent,210,11
+Lack of Efficacy,180,28
+Protocol Violation,102,20
+Pretreatment Event or Adverse Event,57,3
+Protocol Deviations,50,4
+Pretreatment Event or Adverse Event (AE),43,2
+Other,32,7
+Physician Decision,29,6
+Protocol Deviation,29,2
+Other than listed,21,2
+Protocol deviations,21,2
+Administrative or Other Reason(s),20,2
+Voluntary withdrawal,20,1
+Noncompliance with Study Drug,18,4
+Severe non-compliance to protocol,16,3
+Voluntary Withdrawal,16,1
+Reason not Specified,14,3
+No reason available,10,2
+Other reason than listed,10,1
+Randomized but not Dosed,10,1
+Study-specific withdrawal criteria,10,3
+Non-compliance with study drug,9,4
+Noncompliance with Study Medication,9,1
+Condition under investigation worsened,8,3
+Major Protocol Deviation,8,3
+Insufficient Therapeutic Response,7,1
+Non-compliance with study drug/procedure,7,1
+Sponsor Decision,7,1
+Subject met withdrawal criteria,7,1
+non-compliance; lack of efficacy; etc.,7,1
+Protocol deviation,6,2
+Randomized but not Treated,6,1
+Screem Failure,6,1
+Administrative or Other Reasons,5,1
+Noncompliance,5,2
+Change of residence,4,2
+Eligibility criteria not fulfilled,4,2
+Pregnancy,4,3
+2 participants did not complete Day 43 assessments. 1 participant did not complete follow-up visits.,3,1
+Burden of Study Procedures,3,1
+Burden of study procedures,3,1
+Intolerance to medication side effects,3,1
+Miscellaneous Reasons,3,1
+No Reason Available,3,1
+Non Compliance with Study Drug,3,1
+Reason not specified,3,1
+Time commitments,3,1
+Coronavirus disease (COVID-19) Pandemic Related Restrictions,2,1
+Eligiblity criteria not fulfilled,2,1
+Exacerbation of Target Disease,2,1
+Excluded medication,2,1
+Non compliance with study drug,2,1
+Other Miscellaneous Reasons,2,1
+Perceived lack of efficacy,2,2
+Requirement of prohibited concomitant medication,2,1
+non compliance with protocol,2,1
+Administrative,1,1
+Constipation and sleepiness,1,1
+Death,1,1
+Death in family; participant unable to continue in study,1,1
+Dropped out of study due to sleep difficulties. Sleep difficulties were also reported at screening,1,1
+Entry Criteria Not Met,1,1
+Fatigue and difficulty falling asleep,1,1
+Inability to complete the study visits,1,1
+Met Exclusion Criteria,1,1
+Nausea and headaches,1,1
+Non Compliance with Study Medication,1,1
+Non-compliance with Investigational Product (IP),1,1
+Noncompliance with study drug,1,1
+Not further specified,1,1
+Not liking insomnia therapy,1,1
+Not treated,1,1
+Protocol specified withdrawal criterion met,1,1
+Randomized but Not Treated,1,1
+Refused second scn,1,1
+Shortness of breath and muscle spasms,1,1
+Site terminated by sponsor,1,1
+Study Site Withdrawal,1,1
+Suicidal ideation,1,1
+Technical Problems,1,1

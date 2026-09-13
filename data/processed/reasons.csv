@@ -1,0 +1,1897 @@
+nct_id,group_id,period_index,period_title,reason_index,entry_index,reason_label,count,count_valid
+NCT00086307,FG000,0,Overall Study,0,0,Lack of Efficacy,1,True
+NCT00086307,FG000,0,Overall Study,1,0,Shortness of breath and muscle spasms,1,True
+NCT00086307,FG000,0,Overall Study,2,0,Nausea and headaches,0,True
+NCT00086307,FG000,0,Overall Study,3,0,Constipation and sleepiness,0,True
+NCT00086307,FG000,0,Overall Study,4,0,Suicidal ideation,0,True
+NCT00086307,FG000,0,Overall Study,5,0,Fatigue and difficulty falling asleep,0,True
+NCT00086307,FG000,0,Overall Study,6,0,Withdrawal by Subject,0,True
+NCT00086307,FG001,0,Overall Study,0,1,Lack of Efficacy,1,True
+NCT00086307,FG001,0,Overall Study,1,1,Shortness of breath and muscle spasms,0,True
+NCT00086307,FG001,0,Overall Study,2,1,Nausea and headaches,0,True
+NCT00086307,FG001,0,Overall Study,3,1,Constipation and sleepiness,0,True
+NCT00086307,FG001,0,Overall Study,4,1,Suicidal ideation,0,True
+NCT00086307,FG001,0,Overall Study,5,1,Fatigue and difficulty falling asleep,0,True
+NCT00086307,FG001,0,Overall Study,6,1,Withdrawal by Subject,0,True
+NCT00086307,FG002,0,Overall Study,0,2,Lack of Efficacy,2,True
+NCT00086307,FG002,0,Overall Study,1,2,Shortness of breath and muscle spasms,0,True
+NCT00086307,FG002,0,Overall Study,2,2,Nausea and headaches,1,True
+NCT00086307,FG002,0,Overall Study,3,2,Constipation and sleepiness,1,True
+NCT00086307,FG002,0,Overall Study,4,2,Suicidal ideation,1,True
+NCT00086307,FG002,0,Overall Study,5,2,Fatigue and difficulty falling asleep,1,True
+NCT00086307,FG002,0,Overall Study,6,2,Withdrawal by Subject,2,True
+NCT00105196,FG000,0,Overall Study,0,0,Lack of Efficacy,2,True
+NCT00105196,FG000,0,Overall Study,1,0,Adverse Event,11,True
+NCT00105196,FG000,0,Overall Study,2,0,Withdrawal by Subject,6,True
+NCT00105196,FG000,0,Overall Study,3,0,Lost to Follow-up,3,True
+NCT00105196,FG000,0,Overall Study,4,0,Poor/noncompliance,3,True
+NCT00105196,FG000,0,Overall Study,5,0,Protocol Violation,5,True
+NCT00105196,FG000,0,Overall Study,6,0,pending surgery,0,True
+NCT00105196,FG000,0,Overall Study,7,0,marijuana use,0,True
+NCT00105196,FG000,0,Overall Study,8,0,Subject became unblinded,0,True
+NCT00105196,FG001,0,Overall Study,0,1,Lack of Efficacy,3,True
+NCT00105196,FG001,0,Overall Study,1,1,Adverse Event,3,True
+NCT00105196,FG001,0,Overall Study,2,1,Withdrawal by Subject,6,True
+NCT00105196,FG001,0,Overall Study,3,1,Lost to Follow-up,2,True
+NCT00105196,FG001,0,Overall Study,4,1,Poor/noncompliance,4,True
+NCT00105196,FG001,0,Overall Study,5,1,Protocol Violation,2,True
+NCT00105196,FG001,0,Overall Study,6,1,pending surgery,1,True
+NCT00105196,FG001,0,Overall Study,7,1,marijuana use,1,True
+NCT00105196,FG001,0,Overall Study,8,1,Subject became unblinded,1,True
+NCT00107120,FG000,0,Overall Study,0,0,Adverse Event,4,True
+NCT00107120,FG000,0,Overall Study,1,0,Lack of Efficacy,5,True
+NCT00107120,FG000,0,Overall Study,2,0,Protocol Violation,3,True
+NCT00107120,FG000,0,Overall Study,3,0,Withdrawal by Subject,8,True
+NCT00107120,FG000,0,Overall Study,4,0,Lost to Follow-up,8,True
+NCT00107120,FG000,0,Overall Study,5,0,Pregnancy,0,True
+NCT00107120,FG000,0,Overall Study,6,0,moving away from site,1,True
+NCT00107120,FG000,0,Overall Study,7,0,death of parent,0,True
+NCT00107120,FG001,0,Overall Study,0,1,Adverse Event,1,True
+NCT00107120,FG001,0,Overall Study,1,1,Lack of Efficacy,5,True
+NCT00107120,FG001,0,Overall Study,2,1,Protocol Violation,0,True
+NCT00107120,FG001,0,Overall Study,3,1,Withdrawal by Subject,9,True
+NCT00107120,FG001,0,Overall Study,4,1,Lost to Follow-up,6,True
+NCT00107120,FG001,0,Overall Study,5,1,Pregnancy,1,True
+NCT00107120,FG001,0,Overall Study,6,1,moving away from site,1,True
+NCT00107120,FG001,0,Overall Study,7,1,death of parent,1,True
+NCT00149825,FG000,0,Overall Study,0,0,Intolerance to medication side effects,1,True
+NCT00149825,FG000,0,Overall Study,1,0,Time commitments,2,True
+NCT00149825,FG000,0,Overall Study,2,0,Not liking insomnia therapy,1,True
+NCT00149825,FG000,0,Overall Study,3,0,Other,1,True
+NCT00149825,FG001,0,Overall Study,0,1,Intolerance to medication side effects,2,True
+NCT00149825,FG001,0,Overall Study,1,1,Time commitments,1,True
+NCT00149825,FG001,0,Overall Study,2,1,Not liking insomnia therapy,0,True
+NCT00149825,FG001,0,Overall Study,3,1,Other,0,True
+NCT00166296,FG000,0,Overall Study,0,0,Withdrawal by Subject,1,True
+NCT00166296,FG000,0,Overall Study,1,0,Adverse Event,2,True
+NCT00166296,FG000,0,Overall Study,2,0,Lost to Follow-up,4,True
+NCT00166296,FG001,0,Overall Study,0,1,Withdrawal by Subject,3,True
+NCT00166296,FG001,0,Overall Study,1,1,Adverse Event,4,True
+NCT00166296,FG001,0,Overall Study,2,1,Lost to Follow-up,2,True
+NCT00384033,FG000,0,Overall Study,0,0,Adverse Event,10,True
+NCT00384033,FG000,0,Overall Study,1,0,Failed to return,1,True
+NCT00384033,FG000,0,Overall Study,2,0,Physician Decision,1,True
+NCT00384033,FG000,0,Overall Study,3,0,Lost to Follow-up,6,True
+NCT00384033,FG000,0,Overall Study,4,0,Other,2,True
+NCT00384033,FG000,0,Overall Study,5,0,Protocol Violation,5,True
+NCT00384033,FG000,0,Overall Study,6,0,Withdrawal by Subject,6,True
+NCT00384033,FG000,0,Overall Study,7,0,Lack of Efficacy,7,True
+NCT00384033,FG000,0,Overall Study,8,0,Randomized but not treated,3,True
+NCT00384033,FG001,0,Overall Study,0,1,Adverse Event,8,True
+NCT00384033,FG001,0,Overall Study,1,1,Failed to return,3,True
+NCT00384033,FG001,0,Overall Study,2,1,Physician Decision,0,True
+NCT00384033,FG001,0,Overall Study,3,1,Lost to Follow-up,12,True
+NCT00384033,FG001,0,Overall Study,4,1,Other,0,True
+NCT00384033,FG001,0,Overall Study,5,1,Protocol Violation,0,True
+NCT00384033,FG001,0,Overall Study,6,1,Withdrawal by Subject,2,True
+NCT00384033,FG001,0,Overall Study,7,1,Lack of Efficacy,3,True
+NCT00384033,FG001,0,Overall Study,8,1,Randomized but not treated,7,True
+NCT00384033,FG002,0,Overall Study,0,2,Adverse Event,11,True
+NCT00384033,FG002,0,Overall Study,1,2,Failed to return,2,True
+NCT00384033,FG002,0,Overall Study,2,2,Physician Decision,0,True
+NCT00384033,FG002,0,Overall Study,3,2,Lost to Follow-up,7,True
+NCT00384033,FG002,0,Overall Study,4,2,Other,0,True
+NCT00384033,FG002,0,Overall Study,5,2,Protocol Violation,5,True
+NCT00384033,FG002,0,Overall Study,6,2,Withdrawal by Subject,5,True
+NCT00384033,FG002,0,Overall Study,7,2,Lack of Efficacy,3,True
+NCT00384033,FG002,0,Overall Study,8,2,Randomized but not treated,10,True
+NCT00384033,FG003,0,Overall Study,0,3,Adverse Event,20,True
+NCT00384033,FG003,0,Overall Study,1,3,Failed to return,2,True
+NCT00384033,FG003,0,Overall Study,2,3,Physician Decision,0,True
+NCT00384033,FG003,0,Overall Study,3,3,Lost to Follow-up,7,True
+NCT00384033,FG003,0,Overall Study,4,3,Other,0,True
+NCT00384033,FG003,0,Overall Study,5,3,Protocol Violation,6,True
+NCT00384033,FG003,0,Overall Study,6,3,Withdrawal by Subject,2,True
+NCT00384033,FG003,0,Overall Study,7,3,Lack of Efficacy,1,True
+NCT00384033,FG003,0,Overall Study,8,3,Randomized but not treated,2,True
+NCT00388973,FG000,0,Overall Study,0,0,Adverse Event,16,True
+NCT00388973,FG000,0,Overall Study,1,0,Lack of Efficacy,1,True
+NCT00388973,FG000,0,Overall Study,2,0,Protocol Violation,3,True
+NCT00388973,FG000,0,Overall Study,3,0,Withdrawal by Subject,14,True
+NCT00388973,FG000,0,Overall Study,4,0,Study specific Discontinuation Criteria,0,True
+NCT00388973,FG000,0,Overall Study,5,0,Did not complete 61 days of treatment,5,True
+NCT00388973,FG000,0,Overall Study,6,0,Left region,0,True
+NCT00388973,FG000,0,Overall Study,7,0,Did not complete 2-week follow-up visit,17,True
+NCT00388973,FG001,0,Overall Study,0,1,Adverse Event,6,True
+NCT00388973,FG001,0,Overall Study,1,1,Lack of Efficacy,12,True
+NCT00388973,FG001,0,Overall Study,2,1,Protocol Violation,0,True
+NCT00388973,FG001,0,Overall Study,3,1,Withdrawal by Subject,17,True
+NCT00388973,FG001,0,Overall Study,4,1,Study specific Discontinuation Criteria,1,True
+NCT00388973,FG001,0,Overall Study,5,1,Did not complete 61 days of treatment,4,True
+NCT00388973,FG001,0,Overall Study,6,1,Left region,1,True
+NCT00388973,FG001,0,Overall Study,7,1,Did not complete 2-week follow-up visit,17,True
+NCT00420004,FG000,0,Overall Study,0,0,Adverse Event,4,True
+NCT00420004,FG000,0,Overall Study,1,0,Lack of Efficacy,5,True
+NCT00420004,FG000,0,Overall Study,2,0,Lost to Follow-up,31,True
+NCT00420004,FG000,0,Overall Study,3,0,Entry Criteria Not Met,0,True
+NCT00420004,FG000,0,Overall Study,4,0,Physician Decision,14,True
+NCT00420004,FG000,0,Overall Study,5,0,Protocol Violation,5,True
+NCT00420004,FG000,0,Overall Study,6,0,Withdrawal by Subject,67,True
+NCT00420004,FG000,0,Overall Study,7,0,Sponsor Decision,3,True
+NCT00420004,FG001,0,Overall Study,0,1,Adverse Event,1,True
+NCT00420004,FG001,0,Overall Study,1,1,Lack of Efficacy,4,True
+NCT00420004,FG001,0,Overall Study,2,1,Lost to Follow-up,12,True
+NCT00420004,FG001,0,Overall Study,3,1,Entry Criteria Not Met,1,True
+NCT00420004,FG001,0,Overall Study,4,1,Physician Decision,4,True
+NCT00420004,FG001,0,Overall Study,5,1,Protocol Violation,4,True
+NCT00420004,FG001,0,Overall Study,6,1,Withdrawal by Subject,42,True
+NCT00420004,FG001,0,Overall Study,7,1,Sponsor Decision,3,True
+NCT00420004,FG002,0,Overall Study,0,2,Adverse Event,1,True
+NCT00420004,FG002,0,Overall Study,1,2,Lack of Efficacy,1,True
+NCT00420004,FG002,0,Overall Study,2,2,Lost to Follow-up,10,True
+NCT00420004,FG002,0,Overall Study,3,2,Entry Criteria Not Met,0,True
+NCT00420004,FG002,0,Overall Study,4,2,Physician Decision,2,True
+NCT00420004,FG002,0,Overall Study,5,2,Protocol Violation,3,True
+NCT00420004,FG002,0,Overall Study,6,2,Withdrawal by Subject,14,True
+NCT00420004,FG002,0,Overall Study,7,2,Sponsor Decision,1,True
+NCT00445679,FG000,0,Overall Study,0,0,Adverse Event,22,True
+NCT00445679,FG000,0,Overall Study,1,0,Failed to return,1,True
+NCT00445679,FG000,0,Overall Study,2,0,Physician Decision,0,True
+NCT00445679,FG000,0,Overall Study,3,0,Lost to Follow-up,10,True
+NCT00445679,FG000,0,Overall Study,4,0,Compliance,3,True
+NCT00445679,FG000,0,Overall Study,5,0,Withdrawal of Informed Consent,0,True
+NCT00445679,FG000,0,Overall Study,6,0,Protocol Violation,2,True
+NCT00445679,FG000,0,Overall Study,7,0,Withdrawal by Subject,8,True
+NCT00445679,FG000,0,Overall Study,8,0,Lack of Efficacy,2,True
+NCT00445679,FG001,0,Overall Study,0,1,Adverse Event,12,True
+NCT00445679,FG001,0,Overall Study,1,1,Failed to return,3,True
+NCT00445679,FG001,0,Overall Study,2,1,Physician Decision,0,True
+NCT00445679,FG001,0,Overall Study,3,1,Lost to Follow-up,6,True
+NCT00445679,FG001,0,Overall Study,4,1,Compliance,2,True
+NCT00445679,FG001,0,Overall Study,5,1,Withdrawal of Informed Consent,0,True
+NCT00445679,FG001,0,Overall Study,6,1,Protocol Violation,3,True
+NCT00445679,FG001,0,Overall Study,7,1,Withdrawal by Subject,14,True
+NCT00445679,FG001,0,Overall Study,8,1,Lack of Efficacy,6,True
+NCT00445679,FG002,0,Overall Study,0,2,Adverse Event,30,True
+NCT00445679,FG002,0,Overall Study,1,2,Failed to return,2,True
+NCT00445679,FG002,0,Overall Study,2,2,Physician Decision,1,True
+NCT00445679,FG002,0,Overall Study,3,2,Lost to Follow-up,6,True
+NCT00445679,FG002,0,Overall Study,4,2,Compliance,1,True
+NCT00445679,FG002,0,Overall Study,5,2,Withdrawal of Informed Consent,1,True
+NCT00445679,FG002,0,Overall Study,6,2,Protocol Violation,3,True
+NCT00445679,FG002,0,Overall Study,7,2,Withdrawal by Subject,20,True
+NCT00445679,FG002,0,Overall Study,8,2,Lack of Efficacy,2,True
+NCT00445679,FG003,0,Overall Study,0,3,Adverse Event,19,True
+NCT00445679,FG003,0,Overall Study,1,3,Failed to return,2,True
+NCT00445679,FG003,0,Overall Study,2,3,Physician Decision,0,True
+NCT00445679,FG003,0,Overall Study,3,3,Lost to Follow-up,5,True
+NCT00445679,FG003,0,Overall Study,4,3,Compliance,2,True
+NCT00445679,FG003,0,Overall Study,5,3,Withdrawal of Informed Consent,0,True
+NCT00445679,FG003,0,Overall Study,6,3,Protocol Violation,1,True
+NCT00445679,FG003,0,Overall Study,7,3,Withdrawal by Subject,18,True
+NCT00445679,FG003,0,Overall Study,8,3,Lack of Efficacy,0,True
+NCT00497874,FG000,0,Overall Study,0,0,Withdrawal by Subject,48,True
+NCT00497874,FG000,0,Overall Study,1,0,Illness,8,True
+NCT00497874,FG000,0,Overall Study,2,0,Death,2,True
+NCT00497874,FG000,0,Overall Study,3,0,Unable to contact,52,True
+NCT00497874,FG000,0,Overall Study,4,0,Unable to schedule,37,True
+NCT00497874,FG001,0,Overall Study,0,1,Withdrawal by Subject,17,True
+NCT00497874,FG001,0,Overall Study,1,1,Illness,4,True
+NCT00497874,FG001,0,Overall Study,2,1,Death,4,True
+NCT00497874,FG001,0,Overall Study,3,1,Unable to contact,67,True
+NCT00497874,FG001,0,Overall Study,4,1,Unable to schedule,24,True
+NCT00511810,FG000,0,Overall Study,0,0,Lost to Follow-up,1,True
+NCT00511810,FG000,0,Overall Study,1,0,Lack of Efficacy,0,True
+NCT00511810,FG000,0,Overall Study,2,0,Refused second scn,0,True
+NCT00511810,FG001,0,Overall Study,0,1,Lost to Follow-up,2,True
+NCT00511810,FG001,0,Overall Study,1,1,Lack of Efficacy,2,True
+NCT00511810,FG001,0,Overall Study,2,1,Refused second scn,1,True
+NCT00612807,FG000,0,Overall Study,0,0,Withdrawal by Subject,2,True
+NCT00612807,FG001,0,Overall Study,0,1,Withdrawal by Subject,0,True
+NCT00635219,FG000,0,Overall Study,0,0,Adverse Event,12,True
+NCT00635219,FG000,0,Overall Study,1,0,Lack of Efficacy,5,True
+NCT00635219,FG000,0,Overall Study,2,0,Non-compliance With Study Product,0,True
+NCT00635219,FG000,0,Overall Study,3,0,Protocol Violation,0,True
+NCT00635219,FG000,0,Overall Study,4,0,Withdrawal of Consent,8,True
+NCT00635219,FG000,0,Overall Study,5,0,Lost to Follow-up,0,True
+NCT00635219,FG000,0,Overall Study,6,0,Administrative or Other Reasons,0,True
+NCT00635219,FG001,0,Overall Study,0,1,Adverse Event,10,True
+NCT00635219,FG001,0,Overall Study,1,1,Lack of Efficacy,6,True
+NCT00635219,FG001,0,Overall Study,2,1,Non-compliance With Study Product,0,True
+NCT00635219,FG001,0,Overall Study,3,1,Protocol Violation,2,True
+NCT00635219,FG001,0,Overall Study,4,1,Withdrawal of Consent,6,True
+NCT00635219,FG001,0,Overall Study,5,1,Lost to Follow-up,0,True
+NCT00635219,FG001,0,Overall Study,6,1,Administrative or Other Reasons,1,True
+NCT00635219,FG002,0,Overall Study,0,2,Adverse Event,18,True
+NCT00635219,FG002,0,Overall Study,1,2,Lack of Efficacy,3,True
+NCT00635219,FG002,0,Overall Study,2,2,Non-compliance With Study Product,0,True
+NCT00635219,FG002,0,Overall Study,3,2,Protocol Violation,3,True
+NCT00635219,FG002,0,Overall Study,4,2,Withdrawal of Consent,8,True
+NCT00635219,FG002,0,Overall Study,5,2,Lost to Follow-up,2,True
+NCT00635219,FG002,0,Overall Study,6,2,Administrative or Other Reasons,1,True
+NCT00635219,FG003,0,Overall Study,0,3,Adverse Event,15,True
+NCT00635219,FG003,0,Overall Study,1,3,Lack of Efficacy,4,True
+NCT00635219,FG003,0,Overall Study,2,3,Non-compliance With Study Product,2,True
+NCT00635219,FG003,0,Overall Study,3,3,Protocol Violation,2,True
+NCT00635219,FG003,0,Overall Study,4,3,Withdrawal of Consent,11,True
+NCT00635219,FG003,0,Overall Study,5,3,Lost to Follow-up,0,True
+NCT00635219,FG003,0,Overall Study,6,3,Administrative or Other Reasons,0,True
+NCT00635219,FG004,0,Overall Study,0,4,Adverse Event,19,True
+NCT00635219,FG004,0,Overall Study,1,4,Lack of Efficacy,6,True
+NCT00635219,FG004,0,Overall Study,2,4,Non-compliance With Study Product,1,True
+NCT00635219,FG004,0,Overall Study,3,4,Protocol Violation,4,True
+NCT00635219,FG004,0,Overall Study,4,4,Withdrawal of Consent,8,True
+NCT00635219,FG004,0,Overall Study,5,4,Lost to Follow-up,3,True
+NCT00635219,FG004,0,Overall Study,6,4,Administrative or Other Reasons,1,True
+NCT00672620,FG000,0,Overall Study,0,0,Adverse Event,7,True
+NCT00672620,FG000,0,Overall Study,1,0,Lack of Efficacy,1,True
+NCT00672620,FG000,0,Overall Study,2,0,Noncompliance with Study Drug,3,True
+NCT00672620,FG000,0,Overall Study,3,0,Protocol Deviations,5,True
+NCT00672620,FG000,0,Overall Study,4,0,Withdrawal of Consent,6,True
+NCT00672620,FG000,0,Overall Study,5,0,Lost to Follow-up,8,True
+NCT00672620,FG000,0,Overall Study,6,0,Reason not Specified,3,True
+NCT00672620,FG001,0,Overall Study,0,1,Adverse Event,7,True
+NCT00672620,FG001,0,Overall Study,1,1,Lack of Efficacy,2,True
+NCT00672620,FG001,0,Overall Study,2,1,Noncompliance with Study Drug,4,True
+NCT00672620,FG001,0,Overall Study,3,1,Protocol Deviations,7,True
+NCT00672620,FG001,0,Overall Study,4,1,Withdrawal of Consent,12,True
+NCT00672620,FG001,0,Overall Study,5,1,Lost to Follow-up,19,True
+NCT00672620,FG001,0,Overall Study,6,1,Reason not Specified,3,True
+NCT00672620,FG002,0,Overall Study,0,2,Adverse Event,12,True
+NCT00672620,FG002,0,Overall Study,1,2,Lack of Efficacy,2,True
+NCT00672620,FG002,0,Overall Study,2,2,Noncompliance with Study Drug,0,True
+NCT00672620,FG002,0,Overall Study,3,2,Protocol Deviations,2,True
+NCT00672620,FG002,0,Overall Study,4,2,Withdrawal of Consent,5,True
+NCT00672620,FG002,0,Overall Study,5,2,Lost to Follow-up,8,True
+NCT00672620,FG002,0,Overall Study,6,2,Reason not Specified,2,True
+NCT00672620,FG003,0,Overall Study,0,3,Adverse Event,17,True
+NCT00672620,FG003,0,Overall Study,1,3,Lack of Efficacy,0,True
+NCT00672620,FG003,0,Overall Study,2,3,Noncompliance with Study Drug,2,True
+NCT00672620,FG003,0,Overall Study,3,3,Protocol Deviations,5,True
+NCT00672620,FG003,0,Overall Study,4,3,Withdrawal of Consent,6,True
+NCT00672620,FG003,0,Overall Study,5,3,Lost to Follow-up,11,True
+NCT00672620,FG003,0,Overall Study,6,3,Reason not Specified,1,True
+NCT00672958,FG000,0,Overall Study,0,0,Adverse Event,11,True
+NCT00672958,FG000,0,Overall Study,1,0,Lack of Efficacy,6,True
+NCT00672958,FG000,0,Overall Study,2,0,Non-compliance with study drug,2,True
+NCT00672958,FG000,0,Overall Study,3,0,Protocol deviations,11,True
+NCT00672958,FG000,0,Overall Study,4,0,Voluntary withdrawal,12,True
+NCT00672958,FG000,0,Overall Study,5,0,Lost to Follow-up,22,True
+NCT00672958,FG000,0,Overall Study,6,0,Reason not specified,0,True
+NCT00672958,FG001,0,Overall Study,0,1,Adverse Event,9,True
+NCT00672958,FG001,0,Overall Study,1,1,Lack of Efficacy,11,True
+NCT00672958,FG001,0,Overall Study,2,1,Non-compliance with study drug,3,True
+NCT00672958,FG001,0,Overall Study,3,1,Protocol deviations,5,True
+NCT00672958,FG001,0,Overall Study,4,1,Voluntary withdrawal,8,True
+NCT00672958,FG001,0,Overall Study,5,1,Lost to Follow-up,17,True
+NCT00672958,FG001,0,Overall Study,6,1,Reason not specified,3,True
+NCT00683592,FG000,0,Overall Study,0,0,Adverse Event,12,True
+NCT00683592,FG000,0,Overall Study,1,0,Withdrawal by Subject,11,True
+NCT00683592,FG000,0,Overall Study,2,0,Lost to Follow-up,17,True
+NCT00683592,FG000,0,Overall Study,3,0,Lack of Efficacy,3,True
+NCT00683592,FG000,0,Overall Study,4,0,Physician Decision,0,True
+NCT00683592,FG000,0,Overall Study,5,0,Non-compliance,3,True
+NCT00683592,FG000,0,Overall Study,6,0,Other,1,True
+NCT00683592,FG001,0,Overall Study,0,1,Adverse Event,4,True
+NCT00683592,FG001,0,Overall Study,1,1,Withdrawal by Subject,11,True
+NCT00683592,FG001,0,Overall Study,2,1,Lost to Follow-up,17,True
+NCT00683592,FG001,0,Overall Study,3,1,Lack of Efficacy,7,True
+NCT00683592,FG001,0,Overall Study,4,1,Physician Decision,1,True
+NCT00683592,FG001,0,Overall Study,5,1,Non-compliance,5,True
+NCT00683592,FG001,0,Overall Study,6,1,Other,1,True
+NCT00733980,FG000,0,Overall Study,0,0,Adverse Event,5,True
+NCT00733980,FG000,0,Overall Study,1,0,Lack of Efficacy,0,True
+NCT00733980,FG000,0,Overall Study,2,0,Protocol Violation,2,True
+NCT00733980,FG000,0,Overall Study,3,0,Protocol defined stopping criteria reach,1,True
+NCT00733980,FG000,0,Overall Study,4,0,Lost to Follow-up,6,True
+NCT00733980,FG000,0,Overall Study,5,0,Physician Decision,2,True
+NCT00733980,FG000,0,Overall Study,6,0,Withdrawal by Subject,6,True
+NCT00733980,FG001,0,Overall Study,0,1,Adverse Event,2,True
+NCT00733980,FG001,0,Overall Study,1,1,Lack of Efficacy,1,True
+NCT00733980,FG001,0,Overall Study,2,1,Protocol Violation,1,True
+NCT00733980,FG001,0,Overall Study,3,1,Protocol defined stopping criteria reach,1,True
+NCT00733980,FG001,0,Overall Study,4,1,Lost to Follow-up,11,True
+NCT00733980,FG001,0,Overall Study,5,1,Physician Decision,3,True
+NCT00733980,FG001,0,Overall Study,6,1,Withdrawal by Subject,2,True
+NCT00735709,FG000,0,Overall Study,0,0,Adverse Event,2,True
+NCT00735709,FG000,0,Overall Study,1,0,Lack of Efficacy,8,True
+NCT00735709,FG000,0,Overall Study,2,0,Noncompliance,0,True
+NCT00735709,FG000,0,Overall Study,3,0,Protocol deviations,1,True
+NCT00735709,FG000,0,Overall Study,4,0,Voluntary Withdrawal,1,True
+NCT00735709,FG000,0,Overall Study,5,0,Lost to Follow-up,0,True
+NCT00735709,FG000,0,Overall Study,6,0,Excluded medication,1,True
+NCT00735709,FG001,0,Overall Study,0,1,Adverse Event,3,True
+NCT00735709,FG001,0,Overall Study,1,1,Lack of Efficacy,4,True
+NCT00735709,FG001,0,Overall Study,2,1,Noncompliance,0,True
+NCT00735709,FG001,0,Overall Study,3,1,Protocol deviations,2,True
+NCT00735709,FG001,0,Overall Study,4,1,Voluntary Withdrawal,3,True
+NCT00735709,FG001,0,Overall Study,5,1,Lost to Follow-up,1,True
+NCT00735709,FG001,0,Overall Study,6,1,Excluded medication,0,True
+NCT00735709,FG002,0,Overall Study,0,2,Adverse Event,1,True
+NCT00735709,FG002,0,Overall Study,1,2,Lack of Efficacy,2,True
+NCT00735709,FG002,0,Overall Study,2,2,Noncompliance,1,True
+NCT00735709,FG002,0,Overall Study,3,2,Protocol deviations,1,True
+NCT00735709,FG002,0,Overall Study,4,2,Voluntary Withdrawal,5,True
+NCT00735709,FG002,0,Overall Study,5,2,Lost to Follow-up,1,True
+NCT00735709,FG002,0,Overall Study,6,2,Excluded medication,0,True
+NCT00735709,FG003,0,Overall Study,0,3,Adverse Event,5,True
+NCT00735709,FG003,0,Overall Study,1,3,Lack of Efficacy,3,True
+NCT00735709,FG003,0,Overall Study,2,3,Noncompliance,0,True
+NCT00735709,FG003,0,Overall Study,3,3,Protocol deviations,1,True
+NCT00735709,FG003,0,Overall Study,4,3,Voluntary Withdrawal,7,True
+NCT00735709,FG003,0,Overall Study,5,3,Lost to Follow-up,1,True
+NCT00735709,FG003,0,Overall Study,6,3,Excluded medication,1,True
+NCT00739908,FG000,0,Overall Study,0,0,Adverse Event,5,True
+NCT00739908,FG000,0,Overall Study,1,0,Withdrawal by Subject,4,True
+NCT00739908,FG000,0,Overall Study,2,0,Lost to Follow-up,14,True
+NCT00739908,FG000,0,Overall Study,3,0,Non-Compliance With Study Procedures,2,True
+NCT00739908,FG000,0,Overall Study,4,0,Non-Compliance With Study Medication,0,True
+NCT00739908,FG000,0,Overall Study,5,0,Lack of Efficacy,0,True
+NCT00739908,FG000,0,Overall Study,6,0,Relocation,0,True
+NCT00739908,FG001,0,Overall Study,0,1,Adverse Event,6,True
+NCT00739908,FG001,0,Overall Study,1,1,Withdrawal by Subject,2,True
+NCT00739908,FG001,0,Overall Study,2,1,Lost to Follow-up,9,True
+NCT00739908,FG001,0,Overall Study,3,1,Non-Compliance With Study Procedures,3,True
+NCT00739908,FG001,0,Overall Study,4,1,Non-Compliance With Study Medication,3,True
+NCT00739908,FG001,0,Overall Study,5,1,Lack of Efficacy,1,True
+NCT00739908,FG001,0,Overall Study,6,1,Relocation,1,True
+NCT00759395,FG000,0,Overall Study,0,0,Adverse Event,1,True
+NCT00759395,FG000,0,Overall Study,1,0,Withdrawal by Subject,1,True
+NCT00759395,FG000,0,Overall Study,2,0,Lack of Efficacy,0,True
+NCT00759395,FG001,0,Overall Study,0,1,Adverse Event,0,True
+NCT00759395,FG001,0,Overall Study,1,1,Withdrawal by Subject,0,True
+NCT00759395,FG001,0,Overall Study,2,1,Lack of Efficacy,2,True
+NCT00775203,FG000,0,Overall Study,0,0,Adverse Event,25,True
+NCT00775203,FG000,0,Overall Study,1,0,Lack of Efficacy,8,True
+NCT00775203,FG000,0,Overall Study,2,0,Withdrawal by Subject,11,True
+NCT00775203,FG000,0,Overall Study,3,0,Lost to Follow-up,11,True
+NCT00775203,FG000,0,Overall Study,4,0,Administrative reason,2,True
+NCT00775203,FG000,0,Overall Study,5,0,Noncompliance,4,True
+NCT00775203,FG000,0,Overall Study,6,0,Protocol Violation,0,True
+NCT00775203,FG000,0,Overall Study,7,0,Entered other study,1,True
+NCT00775203,FG000,0,Overall Study,8,0,Physician Decision,0,True
+NCT00775203,FG001,0,Overall Study,0,1,Adverse Event,6,True
+NCT00775203,FG001,0,Overall Study,1,1,Lack of Efficacy,9,True
+NCT00775203,FG001,0,Overall Study,2,1,Withdrawal by Subject,9,True
+NCT00775203,FG001,0,Overall Study,3,1,Lost to Follow-up,15,True
+NCT00775203,FG001,0,Overall Study,4,1,Administrative reason,0,True
+NCT00775203,FG001,0,Overall Study,5,1,Noncompliance,2,True
+NCT00775203,FG001,0,Overall Study,6,1,Protocol Violation,1,True
+NCT00775203,FG001,0,Overall Study,7,1,Entered other study,0,True
+NCT00775203,FG001,0,Overall Study,8,1,Physician Decision,1,True
+NCT00789854,FG000,0,Overall Study,0,0,Adverse Event,28,True
+NCT00789854,FG000,0,Overall Study,1,0,Lost to Follow-up,1,True
+NCT00789854,FG000,0,Overall Study,2,0,Withdrawal by Subject,9,True
+NCT00789854,FG000,0,Overall Study,3,0,Eligibility criteria not fulfilled,2,True
+NCT00789854,FG000,0,Overall Study,4,0,Severe non-compliance to the protocol,3,True
+NCT00789854,FG000,0,Overall Study,5,0,Safety reasons,0,True
+NCT00789854,FG000,0,Overall Study,6,0,Other,6,True
+NCT00789854,FG001,0,Overall Study,0,1,Adverse Event,23,True
+NCT00789854,FG001,0,Overall Study,1,1,Lost to Follow-up,1,True
+NCT00789854,FG001,0,Overall Study,2,1,Withdrawal by Subject,6,True
+NCT00789854,FG001,0,Overall Study,3,1,Eligibility criteria not fulfilled,5,True
+NCT00789854,FG001,0,Overall Study,4,1,Severe non-compliance to the protocol,0,True
+NCT00789854,FG001,0,Overall Study,5,1,Safety reasons,0,True
+NCT00789854,FG001,0,Overall Study,6,1,Other,0,True
+NCT00789854,FG002,0,Overall Study,0,2,Adverse Event,18,True
+NCT00789854,FG002,0,Overall Study,1,2,Lost to Follow-up,4,True
+NCT00789854,FG002,0,Overall Study,2,2,Withdrawal by Subject,17,True
+NCT00789854,FG002,0,Overall Study,3,2,Eligibility criteria not fulfilled,1,True
+NCT00789854,FG002,0,Overall Study,4,2,Severe non-compliance to the protocol,0,True
+NCT00789854,FG002,0,Overall Study,5,2,Safety reasons,2,True
+NCT00789854,FG002,0,Overall Study,6,2,Other,5,True
+NCT00798707,FG000,0,Overall Study,0,0,Adverse Event,6,True
+NCT00798707,FG000,0,Overall Study,1,0,Failed to return,2,True
+NCT00798707,FG000,0,Overall Study,2,0,Investigator,0,True
+NCT00798707,FG000,0,Overall Study,3,0,Lack of Efficacy,2,True
+NCT00798707,FG000,0,Overall Study,4,0,Lost to Follow-up,5,True
+NCT00798707,FG000,0,Overall Study,5,0,Other,0,True
+NCT00798707,FG000,0,Overall Study,6,0,Protocol Violation,4,True
+NCT00798707,FG000,0,Overall Study,7,0,Withdrawal by Subject,3,True
+NCT00798707,FG000,0,Overall Study,8,0,Randomized not treated,4,True
+NCT00798707,FG001,0,Overall Study,0,1,Adverse Event,8,True
+NCT00798707,FG001,0,Overall Study,1,1,Failed to return,2,True
+NCT00798707,FG001,0,Overall Study,2,1,Investigator,1,True
+NCT00798707,FG001,0,Overall Study,3,1,Lack of Efficacy,2,True
+NCT00798707,FG001,0,Overall Study,4,1,Lost to Follow-up,6,True
+NCT00798707,FG001,0,Overall Study,5,1,Other,1,True
+NCT00798707,FG001,0,Overall Study,6,1,Protocol Violation,0,True
+NCT00798707,FG001,0,Overall Study,7,1,Withdrawal by Subject,8,True
+NCT00798707,FG001,0,Overall Study,8,1,Randomized not treated,5,True
+NCT00798707,FG002,0,Overall Study,0,2,Adverse Event,8,True
+NCT00798707,FG002,0,Overall Study,1,2,Failed to return,0,True
+NCT00798707,FG002,0,Overall Study,2,2,Investigator,2,True
+NCT00798707,FG002,0,Overall Study,3,2,Lack of Efficacy,1,True
+NCT00798707,FG002,0,Overall Study,4,2,Lost to Follow-up,6,True
+NCT00798707,FG002,0,Overall Study,5,2,Other,0,True
+NCT00798707,FG002,0,Overall Study,6,2,Protocol Violation,2,True
+NCT00798707,FG002,0,Overall Study,7,2,Withdrawal by Subject,2,True
+NCT00798707,FG002,0,Overall Study,8,2,Randomized not treated,1,True
+NCT00807248,FG000,0,Overall Study,0,0,Adverse Event,1,True
+NCT00807248,FG000,0,Overall Study,1,0,Lack of Efficacy,14,True
+NCT00807248,FG000,0,Overall Study,2,0,Protocol Violation,0,True
+NCT00807248,FG000,0,Overall Study,3,0,Withdrawal of Consent,5,True
+NCT00807248,FG000,0,Overall Study,4,0,Lost to Follow-up,1,True
+NCT00807248,FG000,0,Overall Study,5,0,Other Reason,0,True
+NCT00807248,FG001,0,Overall Study,0,1,Adverse Event,2,True
+NCT00807248,FG001,0,Overall Study,1,1,Lack of Efficacy,4,True
+NCT00807248,FG001,0,Overall Study,2,1,Protocol Violation,1,True
+NCT00807248,FG001,0,Overall Study,3,1,Withdrawal of Consent,5,True
+NCT00807248,FG001,0,Overall Study,4,1,Lost to Follow-up,0,True
+NCT00807248,FG001,0,Overall Study,5,1,Other Reason,0,True
+NCT00807248,FG002,0,Overall Study,0,2,Adverse Event,2,True
+NCT00807248,FG002,0,Overall Study,1,2,Lack of Efficacy,8,True
+NCT00807248,FG002,0,Overall Study,2,2,Protocol Violation,1,True
+NCT00807248,FG002,0,Overall Study,3,2,Withdrawal of Consent,5,True
+NCT00807248,FG002,0,Overall Study,4,2,Lost to Follow-up,0,True
+NCT00807248,FG002,0,Overall Study,5,2,Other Reason,2,True
+NCT00807248,FG003,0,Overall Study,0,3,Adverse Event,6,True
+NCT00807248,FG003,0,Overall Study,1,3,Lack of Efficacy,3,True
+NCT00807248,FG003,0,Overall Study,2,3,Protocol Violation,0,True
+NCT00807248,FG003,0,Overall Study,3,3,Withdrawal of Consent,5,True
+NCT00807248,FG003,0,Overall Study,4,3,Lost to Follow-up,0,True
+NCT00807248,FG003,0,Overall Study,5,3,Other Reason,0,True
+NCT00811252,FG000,0,Overall Study,0,0,Adverse Event,6,True
+NCT00811252,FG000,0,Overall Study,1,0,Lack of Efficacy,7,True
+NCT00811252,FG000,0,Overall Study,2,0,Protocol Violation,3,True
+NCT00811252,FG000,0,Overall Study,3,0,Withdrawal of Consent,1,True
+NCT00811252,FG000,0,Overall Study,4,0,Lost to Follow-up,0,True
+NCT00811252,FG000,0,Overall Study,5,0,Administrative or Other Reasons,0,True
+NCT00811252,FG001,0,Overall Study,0,1,Adverse Event,10,True
+NCT00811252,FG001,0,Overall Study,1,1,Lack of Efficacy,2,True
+NCT00811252,FG001,0,Overall Study,2,1,Protocol Violation,3,True
+NCT00811252,FG001,0,Overall Study,3,1,Withdrawal of Consent,2,True
+NCT00811252,FG001,0,Overall Study,4,1,Lost to Follow-up,0,True
+NCT00811252,FG001,0,Overall Study,5,1,Administrative or Other Reasons,3,True
+NCT00811252,FG002,0,Overall Study,0,2,Adverse Event,15,True
+NCT00811252,FG002,0,Overall Study,1,2,Lack of Efficacy,0,True
+NCT00811252,FG002,0,Overall Study,2,2,Protocol Violation,2,True
+NCT00811252,FG002,0,Overall Study,3,2,Withdrawal of Consent,2,True
+NCT00811252,FG002,0,Overall Study,4,2,Lost to Follow-up,2,True
+NCT00811252,FG002,0,Overall Study,5,2,Administrative or Other Reasons,2,True
+NCT00824291,FG000,0,Overall Study,0,0,Adverse Event,15,True
+NCT00824291,FG000,0,Overall Study,1,0,Discontinuation of Study by Sponsor,1,True
+NCT00824291,FG000,0,Overall Study,2,0,Lost to Follow-up,11,True
+NCT00824291,FG000,0,Overall Study,3,0,Non-compliance,1,True
+NCT00824291,FG000,0,Overall Study,4,0,Protocol Violation,4,True
+NCT00824291,FG000,0,Overall Study,5,0,Withdrawal by Subject,14,True
+NCT00824291,FG000,0,Overall Study,6,0,Lack of Efficacy,7,True
+NCT00824291,FG000,0,Overall Study,7,0,Participant on prohibited medication,1,True
+NCT00824291,FG001,0,Overall Study,0,1,Adverse Event,6,True
+NCT00824291,FG001,0,Overall Study,1,1,Discontinuation of Study by Sponsor,2,True
+NCT00824291,FG001,0,Overall Study,2,1,Lost to Follow-up,9,True
+NCT00824291,FG001,0,Overall Study,3,1,Non-compliance,1,True
+NCT00824291,FG001,0,Overall Study,4,1,Protocol Violation,1,True
+NCT00824291,FG001,0,Overall Study,5,1,Withdrawal by Subject,8,True
+NCT00824291,FG001,0,Overall Study,6,1,Lack of Efficacy,8,True
+NCT00824291,FG001,0,Overall Study,7,1,Participant on prohibited medication,0,True
+NCT00839423,FG000,0,Overall Study,0,0,Adverse Event,4,True
+NCT00839423,FG000,0,Overall Study,1,0,Lack of Efficacy,6,True
+NCT00839423,FG000,0,Overall Study,2,0,Non-compliance,0,True
+NCT00839423,FG000,0,Overall Study,3,0,Protocol Violation,0,True
+NCT00839423,FG000,0,Overall Study,4,0,Withdrawal of consent,4,True
+NCT00839423,FG000,0,Overall Study,5,0,Lost to Follow-up,1,True
+NCT00839423,FG000,0,Overall Study,6,0,Administrative or other reasons,3,True
+NCT00839423,FG001,0,Overall Study,0,1,Adverse Event,3,True
+NCT00839423,FG001,0,Overall Study,1,1,Lack of Efficacy,6,True
+NCT00839423,FG001,0,Overall Study,2,1,Non-compliance,0,True
+NCT00839423,FG001,0,Overall Study,3,1,Protocol Violation,1,True
+NCT00839423,FG001,0,Overall Study,4,1,Withdrawal of consent,0,True
+NCT00839423,FG001,0,Overall Study,5,1,Lost to Follow-up,0,True
+NCT00839423,FG001,0,Overall Study,6,1,Administrative or other reasons,0,True
+NCT00839423,FG002,0,Overall Study,0,2,Adverse Event,7,True
+NCT00839423,FG002,0,Overall Study,1,2,Lack of Efficacy,3,True
+NCT00839423,FG002,0,Overall Study,2,2,Non-compliance,0,True
+NCT00839423,FG002,0,Overall Study,3,2,Protocol Violation,2,True
+NCT00839423,FG002,0,Overall Study,4,2,Withdrawal of consent,4,True
+NCT00839423,FG002,0,Overall Study,5,2,Lost to Follow-up,1,True
+NCT00839423,FG002,0,Overall Study,6,2,Administrative or other reasons,1,True
+NCT00839423,FG003,0,Overall Study,0,3,Adverse Event,16,True
+NCT00839423,FG003,0,Overall Study,1,3,Lack of Efficacy,2,True
+NCT00839423,FG003,0,Overall Study,2,3,Non-compliance,1,True
+NCT00839423,FG003,0,Overall Study,3,3,Protocol Violation,0,True
+NCT00839423,FG003,0,Overall Study,4,3,Withdrawal of consent,1,True
+NCT00839423,FG003,0,Overall Study,5,3,Lost to Follow-up,0,True
+NCT00839423,FG003,0,Overall Study,6,3,Administrative or other reasons,0,True
+NCT00854100,FG000,0,Overall Study,0,0,Inability to complete the study visits,0,True
+NCT00854100,FG000,0,Overall Study,1,0,Lost to Follow-up,2,True
+NCT00854100,FG000,0,Overall Study,2,0,Withdrawal by Subject,3,True
+NCT00854100,FG000,0,Overall Study,3,0,Protocol Violation,2,True
+NCT00854100,FG000,0,Overall Study,4,0,Adverse Event,2,True
+NCT00854100,FG001,0,Overall Study,0,1,Inability to complete the study visits,0,True
+NCT00854100,FG001,0,Overall Study,1,1,Lost to Follow-up,0,True
+NCT00854100,FG001,0,Overall Study,2,1,Withdrawal by Subject,1,True
+NCT00854100,FG001,0,Overall Study,3,1,Protocol Violation,4,True
+NCT00854100,FG001,0,Overall Study,4,1,Adverse Event,1,True
+NCT00854100,FG002,0,Overall Study,0,2,Inability to complete the study visits,1,True
+NCT00854100,FG002,0,Overall Study,1,2,Lost to Follow-up,3,True
+NCT00854100,FG002,0,Overall Study,2,2,Withdrawal by Subject,2,True
+NCT00854100,FG002,0,Overall Study,3,2,Protocol Violation,3,True
+NCT00854100,FG002,0,Overall Study,4,2,Adverse Event,2,True
+NCT00863798,FG000,0,Overall Study,0,0,Adverse Event,5,True
+NCT00863798,FG000,0,Overall Study,1,0,Participant failed to return,2,True
+NCT00863798,FG000,0,Overall Study,2,0,Investigator request,1,True
+NCT00863798,FG000,0,Overall Study,3,0,Lack of Efficacy,4,True
+NCT00863798,FG000,0,Overall Study,4,0,Lost to Follow-up,6,True
+NCT00863798,FG000,0,Overall Study,5,0,Other,2,True
+NCT00863798,FG000,0,Overall Study,6,0,Protocol Violation,0,True
+NCT00863798,FG000,0,Overall Study,7,0,Withdrawal by Subject,8,True
+NCT00863798,FG000,0,Overall Study,8,0,Randomized not treated,4,True
+NCT00863798,FG001,0,Overall Study,0,1,Adverse Event,2,True
+NCT00863798,FG001,0,Overall Study,1,1,Participant failed to return,1,True
+NCT00863798,FG001,0,Overall Study,2,1,Investigator request,2,True
+NCT00863798,FG001,0,Overall Study,3,1,Lack of Efficacy,3,True
+NCT00863798,FG001,0,Overall Study,4,1,Lost to Follow-up,9,True
+NCT00863798,FG001,0,Overall Study,5,1,Other,3,True
+NCT00863798,FG001,0,Overall Study,6,1,Protocol Violation,1,True
+NCT00863798,FG001,0,Overall Study,7,1,Withdrawal by Subject,7,True
+NCT00863798,FG001,0,Overall Study,8,1,Randomized not treated,2,True
+NCT00863798,FG002,0,Overall Study,0,2,Adverse Event,4,True
+NCT00863798,FG002,0,Overall Study,1,2,Participant failed to return,0,True
+NCT00863798,FG002,0,Overall Study,2,2,Investigator request,1,True
+NCT00863798,FG002,0,Overall Study,3,2,Lack of Efficacy,6,True
+NCT00863798,FG002,0,Overall Study,4,2,Lost to Follow-up,5,True
+NCT00863798,FG002,0,Overall Study,5,2,Other,1,True
+NCT00863798,FG002,0,Overall Study,6,2,Protocol Violation,1,True
+NCT00863798,FG002,0,Overall Study,7,2,Withdrawal by Subject,4,True
+NCT00863798,FG002,0,Overall Study,8,2,Randomized not treated,3,True
+NCT00876343,FG000,0,Overall Study,0,0,Adverse Event,7,True
+NCT00876343,FG000,0,Overall Study,1,0,Withdrawal by Subject,4,True
+NCT00876343,FG000,0,Overall Study,2,0,Lack of Efficacy,0,True
+NCT00876343,FG000,0,Overall Study,3,0,Protocol Violation,4,True
+NCT00876343,FG000,0,Overall Study,4,0,Physician Decision,0,True
+NCT00876343,FG000,0,Overall Study,5,0,Diabetic glucose level or HbA1C>=6.5%,0,True
+NCT00876343,FG000,0,Overall Study,6,0,Change of residence or other commitments,2,True
+NCT00876343,FG001,0,Overall Study,0,1,Adverse Event,8,True
+NCT00876343,FG001,0,Overall Study,1,1,Withdrawal by Subject,4,True
+NCT00876343,FG001,0,Overall Study,2,1,Lack of Efficacy,0,True
+NCT00876343,FG001,0,Overall Study,3,1,Protocol Violation,1,True
+NCT00876343,FG001,0,Overall Study,4,1,Physician Decision,1,True
+NCT00876343,FG001,0,Overall Study,5,1,Diabetic glucose level or HbA1C>=6.5%,1,True
+NCT00876343,FG001,0,Overall Study,6,1,Change of residence or other commitments,2,True
+NCT00876343,FG002,0,Overall Study,0,2,Adverse Event,2,True
+NCT00876343,FG002,0,Overall Study,1,2,Withdrawal by Subject,3,True
+NCT00876343,FG002,0,Overall Study,2,2,Lack of Efficacy,1,True
+NCT00876343,FG002,0,Overall Study,3,2,Protocol Violation,1,True
+NCT00876343,FG002,0,Overall Study,4,2,Physician Decision,1,True
+NCT00876343,FG002,0,Overall Study,5,2,Diabetic glucose level or HbA1C>=6.5%,1,True
+NCT00876343,FG002,0,Overall Study,6,2,Change of residence or other commitments,3,True
+NCT00905424,FG000,0,Overall Study,0,0,Lost to Follow-up,3,True
+NCT00905424,FG000,0,Overall Study,1,0,Withdrawal by Subject,1,True
+NCT00905424,FG000,0,Overall Study,2,0,Adverse Event,4,True
+NCT00905424,FG000,0,Overall Study,3,0,Non-compliance with study medication,2,True
+NCT00905424,FG000,0,Overall Study,4,0,Sponsor decision,1,True
+NCT00905424,FG000,0,Overall Study,5,0,Positive urine drug screen,0,True
+NCT00905424,FG000,0,Overall Study,6,0,Non-adherence to visit schedule,0,True
+NCT00905424,FG001,0,Overall Study,0,1,Lost to Follow-up,3,True
+NCT00905424,FG001,0,Overall Study,1,1,Withdrawal by Subject,2,True
+NCT00905424,FG001,0,Overall Study,2,1,Adverse Event,2,True
+NCT00905424,FG001,0,Overall Study,3,1,Non-compliance with study medication,0,True
+NCT00905424,FG001,0,Overall Study,4,1,Sponsor decision,0,True
+NCT00905424,FG001,0,Overall Study,5,1,Positive urine drug screen,1,True
+NCT00905424,FG001,0,Overall Study,6,1,Non-adherence to visit schedule,1,True
+NCT00969150,FG000,0,Overall Study,0,0,Adverse Event,4,True
+NCT00969150,FG000,0,Overall Study,1,0,Lack of Efficacy,1,True
+NCT00969150,FG000,0,Overall Study,2,0,Protocol Violation,9,True
+NCT00969150,FG000,0,Overall Study,3,0,Withdrawal by Subject,13,True
+NCT00969150,FG000,0,Overall Study,4,0,Lost to Follow-up,5,True
+NCT00969150,FG000,0,Overall Study,5,0,Other reasons,1,True
+NCT00969150,FG001,0,Overall Study,0,1,Adverse Event,14,True
+NCT00969150,FG001,0,Overall Study,1,1,Lack of Efficacy,1,True
+NCT00969150,FG001,0,Overall Study,2,1,Protocol Violation,12,True
+NCT00969150,FG001,0,Overall Study,3,1,Withdrawal by Subject,9,True
+NCT00969150,FG001,0,Overall Study,4,1,Lost to Follow-up,4,True
+NCT00969150,FG001,0,Overall Study,5,1,Other reasons,0,True
+NCT00969709,FG000,0,Overall Study,0,0,Adverse Event,3,True
+NCT00969709,FG000,0,Overall Study,1,0,Lack of Efficacy,7,True
+NCT00969709,FG000,0,Overall Study,2,0,Protocol Violation,9,True
+NCT00969709,FG000,0,Overall Study,3,0,Withdrawal by Subject,9,True
+NCT00969709,FG000,0,Overall Study,4,0,Lost to Follow-up,10,True
+NCT00969709,FG000,0,Overall Study,5,0,Other reasons,0,True
+NCT00969709,FG001,0,Overall Study,0,1,Adverse Event,13,True
+NCT00969709,FG001,0,Overall Study,1,1,Lack of Efficacy,4,True
+NCT00969709,FG001,0,Overall Study,2,1,Protocol Violation,5,True
+NCT00969709,FG001,0,Overall Study,3,1,Withdrawal by Subject,12,True
+NCT00969709,FG001,0,Overall Study,4,1,Lost to Follow-up,14,True
+NCT00969709,FG001,0,Overall Study,5,1,Other reasons,0,True
+NCT00969709,FG002,0,Overall Study,0,2,Adverse Event,26,True
+NCT00969709,FG002,0,Overall Study,1,2,Lack of Efficacy,1,True
+NCT00969709,FG002,0,Overall Study,2,2,Protocol Violation,9,True
+NCT00969709,FG002,0,Overall Study,3,2,Withdrawal by Subject,11,True
+NCT00969709,FG002,0,Overall Study,4,2,Lost to Follow-up,8,True
+NCT00969709,FG002,0,Overall Study,5,2,Other reasons,3,True
+NCT00969709,FG003,0,Overall Study,0,3,Adverse Event,12,True
+NCT00969709,FG003,0,Overall Study,1,3,Lack of Efficacy,3,True
+NCT00969709,FG003,0,Overall Study,2,3,Protocol Violation,10,True
+NCT00969709,FG003,0,Overall Study,3,3,Withdrawal by Subject,23,True
+NCT00969709,FG003,0,Overall Study,4,3,Lost to Follow-up,15,True
+NCT00969709,FG003,0,Overall Study,5,3,Other reasons,0,True
+NCT00976560,FG000,0,Overall Study,0,0,Adverse Event,5,True
+NCT00976560,FG000,0,Overall Study,1,0,Lack of Efficacy,3,True
+NCT00976560,FG000,0,Overall Study,2,0,Protocol Violation,1,True
+NCT00976560,FG000,0,Overall Study,3,0,Lost to Follow-up,1,True
+NCT00976560,FG000,0,Overall Study,4,0,Physician Decision,2,True
+NCT00976560,FG000,0,Overall Study,5,0,Withdrawal by Subject,2,True
+NCT00976560,FG001,0,Overall Study,0,1,Adverse Event,5,True
+NCT00976560,FG001,0,Overall Study,1,1,Lack of Efficacy,5,True
+NCT00976560,FG001,0,Overall Study,2,1,Protocol Violation,0,True
+NCT00976560,FG001,0,Overall Study,3,1,Lost to Follow-up,0,True
+NCT00976560,FG001,0,Overall Study,4,1,Physician Decision,0,True
+NCT00976560,FG001,0,Overall Study,5,1,Withdrawal by Subject,3,True
+NCT00985725,FG000,0,Overall Study,0,0,Adverse Event,4,True
+NCT00985725,FG000,0,Overall Study,1,0,Protocol Violation,1,True
+NCT00985725,FG000,0,Overall Study,2,0,Withdrawal by Subject,4,True
+NCT00985725,FG000,0,Overall Study,3,0,Lost to Follow-up,1,True
+NCT00985725,FG000,0,Overall Study,4,0,Lack of Efficacy,0,True
+NCT00985725,FG000,0,Overall Study,5,0,Non-compliance,1,True
+NCT00985725,FG000,0,Overall Study,6,0,Out-of-window visits,0,True
+NCT00985725,FG001,0,Overall Study,0,1,Adverse Event,1,True
+NCT00985725,FG001,0,Overall Study,1,1,Protocol Violation,3,True
+NCT00985725,FG001,0,Overall Study,2,1,Withdrawal by Subject,4,True
+NCT00985725,FG001,0,Overall Study,3,1,Lost to Follow-up,1,True
+NCT00985725,FG001,0,Overall Study,4,1,Lack of Efficacy,1,True
+NCT00985725,FG001,0,Overall Study,5,1,Non-compliance,2,True
+NCT00985725,FG001,0,Overall Study,6,1,Out-of-window visits,1,True
+NCT01020799,FG000,0,Overall Study,0,0,Adverse Event,4,True
+NCT01020799,FG000,0,Overall Study,1,0,non-compliance; lack of efficacy; etc.,4,True
+NCT01020799,FG000,0,Overall Study,2,0,Protocol Violation,3,True
+NCT01020799,FG000,0,Overall Study,3,0,Withdrawal by Subject,2,True
+NCT01020799,FG000,0,Overall Study,4,0,Lost to Follow-up,6,True
+NCT01020799,FG001,0,Overall Study,0,1,Adverse Event,3,True
+NCT01020799,FG001,0,Overall Study,1,1,non-compliance; lack of efficacy; etc.,3,True
+NCT01020799,FG001,0,Overall Study,2,1,Protocol Violation,2,True
+NCT01020799,FG001,0,Overall Study,3,1,Withdrawal by Subject,2,True
+NCT01020799,FG001,0,Overall Study,4,1,Lost to Follow-up,4,True
+NCT01020799,FG002,0,Overall Study,0,2,Adverse Event,2,True
+NCT01020799,FG002,0,Overall Study,1,2,non-compliance; lack of efficacy; etc.,0,True
+NCT01020799,FG002,0,Overall Study,2,2,Protocol Violation,0,True
+NCT01020799,FG002,0,Overall Study,3,2,Withdrawal by Subject,3,True
+NCT01020799,FG002,0,Overall Study,4,2,Lost to Follow-up,2,True
+NCT01034462,FG000,0,Overall Study,0,0,Adverse Event,7,True
+NCT01034462,FG000,0,Overall Study,1,0,Lack of Efficacy,4,True
+NCT01034462,FG000,0,Overall Study,2,0,Protocol Violation,10,True
+NCT01034462,FG000,0,Overall Study,3,0,Withdrawal by Subject,9,True
+NCT01034462,FG000,0,Overall Study,4,0,Lost to Follow-up,14,True
+NCT01034462,FG000,0,Overall Study,5,0,Other reasons,1,True
+NCT01034462,FG001,0,Overall Study,0,1,Adverse Event,17,True
+NCT01034462,FG001,0,Overall Study,1,1,Lack of Efficacy,4,True
+NCT01034462,FG001,0,Overall Study,2,1,Protocol Violation,7,True
+NCT01034462,FG001,0,Overall Study,3,1,Withdrawal by Subject,8,True
+NCT01034462,FG001,0,Overall Study,4,1,Lost to Follow-up,16,True
+NCT01034462,FG001,0,Overall Study,5,1,Other reasons,2,True
+NCT01138007,FG000,0,Overall Study,0,0,Adverse Event,4,True
+NCT01138007,FG000,0,Overall Study,1,0,Lack of Efficacy,2,True
+NCT01138007,FG000,0,Overall Study,2,0,Protocol Violation,2,True
+NCT01138007,FG000,0,Overall Study,3,0,Protocol-Defined Stopping Criteria,6,True
+NCT01138007,FG000,0,Overall Study,4,0,Lost to Follow-up,3,True
+NCT01138007,FG000,0,Overall Study,5,0,Physician Decision,0,True
+NCT01138007,FG000,0,Overall Study,6,0,Withdrawal by Subject,5,True
+NCT01138007,FG001,0,Overall Study,0,1,Adverse Event,12,True
+NCT01138007,FG001,0,Overall Study,1,1,Lack of Efficacy,0,True
+NCT01138007,FG001,0,Overall Study,2,1,Protocol Violation,3,True
+NCT01138007,FG001,0,Overall Study,3,1,Protocol-Defined Stopping Criteria,1,True
+NCT01138007,FG001,0,Overall Study,4,1,Lost to Follow-up,3,True
+NCT01138007,FG001,0,Overall Study,5,1,Physician Decision,5,True
+NCT01138007,FG001,0,Overall Study,6,1,Withdrawal by Subject,6,True
+NCT01138007,FG002,0,Overall Study,0,2,Adverse Event,9,True
+NCT01138007,FG002,0,Overall Study,1,2,Lack of Efficacy,6,True
+NCT01138007,FG002,0,Overall Study,2,2,Protocol Violation,2,True
+NCT01138007,FG002,0,Overall Study,3,2,Protocol-Defined Stopping Criteria,8,True
+NCT01138007,FG002,0,Overall Study,4,2,Lost to Follow-up,5,True
+NCT01138007,FG002,0,Overall Study,5,2,Physician Decision,3,True
+NCT01138007,FG002,0,Overall Study,6,2,Withdrawal by Subject,15,True
+NCT01140906,FG000,0,Overall Study,0,0,Adverse Event,7,True
+NCT01140906,FG000,0,Overall Study,1,0,Lack of Efficacy,6,True
+NCT01140906,FG000,0,Overall Study,2,0,Non-compliance,0,True
+NCT01140906,FG000,0,Overall Study,3,0,Protocol Violation,5,True
+NCT01140906,FG000,0,Overall Study,4,0,Withdrawal of consent,6,True
+NCT01140906,FG000,0,Overall Study,5,0,Lost to Follow-up,1,True
+NCT01140906,FG000,0,Overall Study,6,0,Administrative or other reason,0,True
+NCT01140906,FG001,0,Overall Study,0,1,Adverse Event,10,True
+NCT01140906,FG001,0,Overall Study,1,1,Lack of Efficacy,8,True
+NCT01140906,FG001,0,Overall Study,2,1,Non-compliance,1,True
+NCT01140906,FG001,0,Overall Study,3,1,Protocol Violation,3,True
+NCT01140906,FG001,0,Overall Study,4,1,Withdrawal of consent,6,True
+NCT01140906,FG001,0,Overall Study,5,1,Lost to Follow-up,1,True
+NCT01140906,FG001,0,Overall Study,6,1,Administrative or other reason,5,True
+NCT01140906,FG002,0,Overall Study,0,2,Adverse Event,17,True
+NCT01140906,FG002,0,Overall Study,1,2,Lack of Efficacy,2,True
+NCT01140906,FG002,0,Overall Study,2,2,Non-compliance,0,True
+NCT01140906,FG002,0,Overall Study,3,2,Protocol Violation,2,True
+NCT01140906,FG002,0,Overall Study,4,2,Withdrawal of consent,2,True
+NCT01140906,FG002,0,Overall Study,5,2,Lost to Follow-up,0,True
+NCT01140906,FG002,0,Overall Study,6,2,Administrative or other reason,3,True
+NCT01140906,FG003,0,Overall Study,0,3,Adverse Event,7,True
+NCT01140906,FG003,0,Overall Study,1,3,Lack of Efficacy,1,True
+NCT01140906,FG003,0,Overall Study,2,3,Non-compliance,1,True
+NCT01140906,FG003,0,Overall Study,3,3,Protocol Violation,1,True
+NCT01140906,FG003,0,Overall Study,4,3,Withdrawal of consent,2,True
+NCT01140906,FG003,0,Overall Study,5,3,Lost to Follow-up,2,True
+NCT01140906,FG003,0,Overall Study,6,3,Administrative or other reason,2,True
+NCT01152554,FG000,0,Overall Study,0,0,Withdrawal by Subject,73,True
+NCT01152554,FG000,0,Overall Study,1,0,Eligiblity criteria not fulfilled,0,True
+NCT01152554,FG000,0,Overall Study,2,0,Adverse Event,67,True
+NCT01152554,FG000,0,Overall Study,3,0,Severe non-compliance to protocol,36,True
+NCT01152554,FG000,0,Overall Study,4,0,Condition under investigation worsened,5,True
+NCT01152554,FG000,0,Overall Study,5,0,Lack of Efficacy,20,True
+NCT01152554,FG000,0,Overall Study,6,0,Study-specific withdrawal criteria,17,True
+NCT01152554,FG000,0,Overall Study,7,0,Lost to Follow-up,87,True
+NCT01152554,FG000,0,Overall Study,8,0,Other,28,True
+NCT01152554,FG000,0,Overall Study,9,0,Death,1,True
+NCT01152554,FG001,0,Overall Study,0,1,Withdrawal by Subject,28,True
+NCT01152554,FG001,0,Overall Study,1,1,Eligiblity criteria not fulfilled,1,True
+NCT01152554,FG001,0,Overall Study,2,1,Adverse Event,14,True
+NCT01152554,FG001,0,Overall Study,3,1,Severe non-compliance to protocol,14,True
+NCT01152554,FG001,0,Overall Study,4,1,Condition under investigation worsened,2,True
+NCT01152554,FG001,0,Overall Study,5,1,Lack of Efficacy,3,True
+NCT01152554,FG001,0,Overall Study,6,1,Study-specific withdrawal criteria,8,True
+NCT01152554,FG001,0,Overall Study,7,1,Lost to Follow-up,32,True
+NCT01152554,FG001,0,Overall Study,8,1,Other,8,True
+NCT01152554,FG001,0,Overall Study,9,1,Death,1,True
+NCT01153009,FG000,0,Overall Study,0,0,Adverse Event,4,True
+NCT01153009,FG000,0,Overall Study,1,0,Lack of Efficacy,9,True
+NCT01153009,FG000,0,Overall Study,2,0,Noncompliance with Study Medication,1,True
+NCT01153009,FG000,0,Overall Study,3,0,Protocol Deviations,4,True
+NCT01153009,FG000,0,Overall Study,4,0,Withdrawal of Consent,5,True
+NCT01153009,FG000,0,Overall Study,5,0,Lost to Follow-up,8,True
+NCT01153009,FG000,0,Overall Study,6,0,Other,1,True
+NCT01153009,FG001,0,Overall Study,0,1,Adverse Event,14,True
+NCT01153009,FG001,0,Overall Study,1,1,Lack of Efficacy,0,True
+NCT01153009,FG001,0,Overall Study,2,1,Noncompliance with Study Medication,3,True
+NCT01153009,FG001,0,Overall Study,3,1,Protocol Deviations,3,True
+NCT01153009,FG001,0,Overall Study,4,1,Withdrawal of Consent,5,True
+NCT01153009,FG001,0,Overall Study,5,1,Lost to Follow-up,8,True
+NCT01153009,FG001,0,Overall Study,6,1,Other,1,True
+NCT01153009,FG002,0,Overall Study,0,2,Adverse Event,14,True
+NCT01153009,FG002,0,Overall Study,1,2,Lack of Efficacy,2,True
+NCT01153009,FG002,0,Overall Study,2,2,Noncompliance with Study Medication,4,True
+NCT01153009,FG002,0,Overall Study,3,2,Protocol Deviations,3,True
+NCT01153009,FG002,0,Overall Study,4,2,Withdrawal of Consent,4,True
+NCT01153009,FG002,0,Overall Study,5,2,Lost to Follow-up,11,True
+NCT01153009,FG002,0,Overall Study,6,2,Other,3,True
+NCT01153009,FG003,0,Overall Study,0,3,Adverse Event,10,True
+NCT01153009,FG003,0,Overall Study,1,3,Lack of Efficacy,1,True
+NCT01153009,FG003,0,Overall Study,2,3,Noncompliance with Study Medication,1,True
+NCT01153009,FG003,0,Overall Study,3,3,Protocol Deviations,2,True
+NCT01153009,FG003,0,Overall Study,4,3,Withdrawal of Consent,6,True
+NCT01153009,FG003,0,Overall Study,5,3,Lost to Follow-up,15,True
+NCT01153009,FG003,0,Overall Study,6,3,Other,2,True
+NCT01153347,FG000,0,Overall Study,0,0,Withdrawal by Subject,7,True
+NCT01153347,FG000,0,Overall Study,1,0,Eligibility criteria not fulfilled,0,True
+NCT01153347,FG000,0,Overall Study,2,0,Adverse Event,3,True
+NCT01153347,FG000,0,Overall Study,3,0,Severe non-compliance to protocol,6,True
+NCT01153347,FG000,0,Overall Study,4,0,Condition under investigation worsened,1,True
+NCT01153347,FG000,0,Overall Study,5,0,Lack of Efficacy,2,True
+NCT01153347,FG000,0,Overall Study,6,0,Study-specific withdrawal criteria,4,True
+NCT01153347,FG000,0,Overall Study,7,0,Lost to Follow-up,4,True
+NCT01153347,FG000,0,Overall Study,8,0,Other,5,True
+NCT01153347,FG000,0,Overall Study,9,0,Death,1,True
+NCT01153347,FG001,0,Overall Study,0,1,Withdrawal by Subject,7,True
+NCT01153347,FG001,0,Overall Study,1,1,Eligibility criteria not fulfilled,1,True
+NCT01153347,FG001,0,Overall Study,2,1,Adverse Event,9,True
+NCT01153347,FG001,0,Overall Study,3,1,Severe non-compliance to protocol,7,True
+NCT01153347,FG001,0,Overall Study,4,1,Condition under investigation worsened,1,True
+NCT01153347,FG001,0,Overall Study,5,1,Lack of Efficacy,2,True
+NCT01153347,FG001,0,Overall Study,6,1,Study-specific withdrawal criteria,3,True
+NCT01153347,FG001,0,Overall Study,7,1,Lost to Follow-up,9,True
+NCT01153347,FG001,0,Overall Study,8,1,Other,5,True
+NCT01153347,FG001,0,Overall Study,9,1,Death,0,True
+NCT01153347,FG002,0,Overall Study,0,2,Withdrawal by Subject,7,True
+NCT01153347,FG002,0,Overall Study,1,2,Eligibility criteria not fulfilled,2,True
+NCT01153347,FG002,0,Overall Study,2,2,Adverse Event,21,True
+NCT01153347,FG002,0,Overall Study,3,2,Severe non-compliance to protocol,4,True
+NCT01153347,FG002,0,Overall Study,4,2,Condition under investigation worsened,0,True
+NCT01153347,FG002,0,Overall Study,5,2,Lack of Efficacy,0,True
+NCT01153347,FG002,0,Overall Study,6,2,Study-specific withdrawal criteria,1,True
+NCT01153347,FG002,0,Overall Study,7,2,Lost to Follow-up,11,True
+NCT01153347,FG002,0,Overall Study,8,2,Other,4,True
+NCT01153347,FG002,0,Overall Study,9,2,Death,0,True
+NCT01153347,FG003,0,Overall Study,0,3,Withdrawal by Subject,7,True
+NCT01153347,FG003,0,Overall Study,1,3,Eligibility criteria not fulfilled,1,True
+NCT01153347,FG003,0,Overall Study,2,3,Adverse Event,7,True
+NCT01153347,FG003,0,Overall Study,3,3,Severe non-compliance to protocol,3,True
+NCT01153347,FG003,0,Overall Study,4,3,Condition under investigation worsened,0,True
+NCT01153347,FG003,0,Overall Study,5,3,Lack of Efficacy,4,True
+NCT01153347,FG003,0,Overall Study,6,3,Study-specific withdrawal criteria,2,True
+NCT01153347,FG003,0,Overall Study,7,3,Lost to Follow-up,8,True
+NCT01153347,FG003,0,Overall Study,8,3,Other,0,True
+NCT01153347,FG003,0,Overall Study,9,3,Death,0,True
+NCT01157078,FG000,0,Overall Study,0,0,Withdrawal by Subject,12,True
+NCT01157078,FG000,0,Overall Study,1,0,Eligibility criteria not fulfilled,2,True
+NCT01157078,FG000,0,Overall Study,2,0,Adverse Event,6,True
+NCT01157078,FG000,0,Overall Study,3,0,Severe non-compliance to protocol,2,True
+NCT01157078,FG000,0,Overall Study,4,0,Condition under investigation worsened,0,True
+NCT01157078,FG000,0,Overall Study,5,0,Lack of Efficacy,2,True
+NCT01157078,FG000,0,Overall Study,6,0,Study-specific withdrawal criteria,2,True
+NCT01157078,FG000,0,Overall Study,7,0,Lost to Follow-up,7,True
+NCT01157078,FG000,0,Overall Study,8,0,Other,2,True
+NCT01157078,FG001,0,Overall Study,0,1,Withdrawal by Subject,14,True
+NCT01157078,FG001,0,Overall Study,1,1,Eligibility criteria not fulfilled,0,True
+NCT01157078,FG001,0,Overall Study,2,1,Adverse Event,6,True
+NCT01157078,FG001,0,Overall Study,3,1,Severe non-compliance to protocol,4,True
+NCT01157078,FG001,0,Overall Study,4,1,Condition under investigation worsened,1,True
+NCT01157078,FG001,0,Overall Study,5,1,Lack of Efficacy,0,True
+NCT01157078,FG001,0,Overall Study,6,1,Study-specific withdrawal criteria,2,True
+NCT01157078,FG001,0,Overall Study,7,1,Lost to Follow-up,5,True
+NCT01157078,FG001,0,Overall Study,8,1,Other,4,True
+NCT01163266,FG000,0,Overall Study,0,0,Pretreatment Event or Adverse Event,2,True
+NCT01163266,FG000,0,Overall Study,1,0,Lack of Efficacy,1,True
+NCT01163266,FG000,0,Overall Study,2,0,Noncompliance with Study Drug,0,True
+NCT01163266,FG000,0,Overall Study,3,0,Protocol Deviations,2,True
+NCT01163266,FG000,0,Overall Study,4,0,Withdrawal of Consent,5,True
+NCT01163266,FG000,0,Overall Study,5,0,Lost to Follow-up,7,True
+NCT01163266,FG000,0,Overall Study,6,0,Other,1,True
+NCT01163266,FG001,0,Overall Study,0,1,Pretreatment Event or Adverse Event,9,True
+NCT01163266,FG001,0,Overall Study,1,1,Lack of Efficacy,3,True
+NCT01163266,FG001,0,Overall Study,2,1,Noncompliance with Study Drug,2,True
+NCT01163266,FG001,0,Overall Study,3,1,Protocol Deviations,2,True
+NCT01163266,FG001,0,Overall Study,4,1,Withdrawal of Consent,7,True
+NCT01163266,FG001,0,Overall Study,5,1,Lost to Follow-up,7,True
+NCT01163266,FG001,0,Overall Study,6,1,Other,1,True
+NCT01163266,FG002,0,Overall Study,0,2,Pretreatment Event or Adverse Event,7,True
+NCT01163266,FG002,0,Overall Study,1,2,Lack of Efficacy,1,True
+NCT01163266,FG002,0,Overall Study,2,2,Noncompliance with Study Drug,0,True
+NCT01163266,FG002,0,Overall Study,3,2,Protocol Deviations,5,True
+NCT01163266,FG002,0,Overall Study,4,2,Withdrawal of Consent,3,True
+NCT01163266,FG002,0,Overall Study,5,2,Lost to Follow-up,10,True
+NCT01163266,FG002,0,Overall Study,6,2,Other,2,True
+NCT01179516,FG000,0,Overall Study,0,0,Pretreatment Event or Adverse Event,6,True
+NCT01179516,FG000,0,Overall Study,1,0,Lack of Efficacy,4,True
+NCT01179516,FG000,0,Overall Study,2,0,Noncompliance with Study Drug,2,True
+NCT01179516,FG000,0,Overall Study,3,0,Protocol Deviations,4,True
+NCT01179516,FG000,0,Overall Study,4,0,Withdrawal of Consent,2,True
+NCT01179516,FG000,0,Overall Study,5,0,Lost to Follow-up,7,True
+NCT01179516,FG000,0,Overall Study,6,0,Other,2,True
+NCT01179516,FG001,0,Overall Study,0,1,Pretreatment Event or Adverse Event,8,True
+NCT01179516,FG001,0,Overall Study,1,1,Lack of Efficacy,2,True
+NCT01179516,FG001,0,Overall Study,2,1,Noncompliance with Study Drug,0,True
+NCT01179516,FG001,0,Overall Study,3,1,Protocol Deviations,3,True
+NCT01179516,FG001,0,Overall Study,4,1,Withdrawal of Consent,6,True
+NCT01179516,FG001,0,Overall Study,5,1,Lost to Follow-up,7,True
+NCT01179516,FG001,0,Overall Study,6,1,Other,0,True
+NCT01179516,FG002,0,Overall Study,0,2,Pretreatment Event or Adverse Event,12,True
+NCT01179516,FG002,0,Overall Study,1,2,Lack of Efficacy,0,True
+NCT01179516,FG002,0,Overall Study,2,2,Noncompliance with Study Drug,1,True
+NCT01179516,FG002,0,Overall Study,3,2,Protocol Deviations,3,True
+NCT01179516,FG002,0,Overall Study,4,2,Withdrawal of Consent,10,True
+NCT01179516,FG002,0,Overall Study,5,2,Lost to Follow-up,3,True
+NCT01179516,FG002,0,Overall Study,6,2,Other,2,True
+NCT01180400,FG000,0,Overall Study,0,0,Withdrawal by Subject,5,True
+NCT01180400,FG000,0,Overall Study,1,0,Eligibility criteria not fulfilled,0,True
+NCT01180400,FG000,0,Overall Study,2,0,Adverse Event,12,True
+NCT01180400,FG000,0,Overall Study,3,0,Severe non-compliance to protocol,1,True
+NCT01180400,FG000,0,Overall Study,4,0,Condition under investigation worsened,2,True
+NCT01180400,FG000,0,Overall Study,5,0,Lack of Efficacy,2,True
+NCT01180400,FG000,0,Overall Study,6,0,Study-specific withdrawal criteria,1,True
+NCT01180400,FG000,0,Overall Study,7,0,Lost to Follow-up,2,True
+NCT01180400,FG000,0,Overall Study,8,0,Other,0,True
+NCT01180400,FG001,0,Overall Study,0,1,Withdrawal by Subject,6,True
+NCT01180400,FG001,0,Overall Study,1,1,Eligibility criteria not fulfilled,2,True
+NCT01180400,FG001,0,Overall Study,2,1,Adverse Event,10,True
+NCT01180400,FG001,0,Overall Study,3,1,Severe non-compliance to protocol,2,True
+NCT01180400,FG001,0,Overall Study,4,1,Condition under investigation worsened,1,True
+NCT01180400,FG001,0,Overall Study,5,1,Lack of Efficacy,0,True
+NCT01180400,FG001,0,Overall Study,6,1,Study-specific withdrawal criteria,2,True
+NCT01180400,FG001,0,Overall Study,7,1,Lost to Follow-up,3,True
+NCT01180400,FG001,0,Overall Study,8,1,Other,1,True
+NCT01189812,FG000,0,Overall Study,0,0,Withdrawal by Subject,2,True
+NCT01189812,FG000,0,Overall Study,1,0,Adverse Event,1,True
+NCT01189812,FG000,0,Overall Study,2,0,Out of Window,4,True
+NCT01189812,FG000,0,Overall Study,3,0,Moved out of State,1,True
+NCT01189812,FG001,0,Overall Study,0,1,Withdrawal by Subject,3,True
+NCT01189812,FG001,0,Overall Study,1,1,Adverse Event,0,True
+NCT01189812,FG001,0,Overall Study,2,1,Out of Window,3,True
+NCT01189812,FG001,0,Overall Study,3,1,Moved out of State,2,True
+NCT01197508,FG000,0,Overall Study,0,0,Withdrawal by Subject,8,True
+NCT01197508,FG000,0,Overall Study,1,0,Eligiblity criteria not fulfilled,0,True
+NCT01197508,FG000,0,Overall Study,2,0,Adverse Event,10,True
+NCT01197508,FG000,0,Overall Study,3,0,Severe non-compliance to protocol,0,True
+NCT01197508,FG000,0,Overall Study,4,0,Condition under investigation worsened,1,True
+NCT01197508,FG000,0,Overall Study,5,0,Lack of Efficacy,1,True
+NCT01197508,FG000,0,Overall Study,6,0,Study-specific withdrawal criteria,0,True
+NCT01197508,FG000,0,Overall Study,7,0,Lost to Follow-up,1,True
+NCT01197508,FG000,0,Overall Study,8,0,Other,2,True
+NCT01197508,FG001,0,Overall Study,0,1,Withdrawal by Subject,7,True
+NCT01197508,FG001,0,Overall Study,1,1,Eligiblity criteria not fulfilled,0,True
+NCT01197508,FG001,0,Overall Study,2,1,Adverse Event,13,True
+NCT01197508,FG001,0,Overall Study,3,1,Severe non-compliance to protocol,3,True
+NCT01197508,FG001,0,Overall Study,4,1,Condition under investigation worsened,1,True
+NCT01197508,FG001,0,Overall Study,5,1,Lack of Efficacy,2,True
+NCT01197508,FG001,0,Overall Study,6,1,Study-specific withdrawal criteria,0,True
+NCT01197508,FG001,0,Overall Study,7,1,Lost to Follow-up,1,True
+NCT01197508,FG001,0,Overall Study,8,1,Other,3,True
+NCT01197508,FG002,0,Overall Study,0,2,Withdrawal by Subject,15,True
+NCT01197508,FG002,0,Overall Study,1,2,Eligiblity criteria not fulfilled,2,True
+NCT01197508,FG002,0,Overall Study,2,2,Adverse Event,23,True
+NCT01197508,FG002,0,Overall Study,3,2,Severe non-compliance to protocol,1,True
+NCT01197508,FG002,0,Overall Study,4,2,Condition under investigation worsened,1,True
+NCT01197508,FG002,0,Overall Study,5,2,Lack of Efficacy,2,True
+NCT01197508,FG002,0,Overall Study,6,2,Study-specific withdrawal criteria,1,True
+NCT01197508,FG002,0,Overall Study,7,2,Lost to Follow-up,2,True
+NCT01197508,FG002,0,Overall Study,8,2,Other,2,True
+NCT01197508,FG003,0,Overall Study,0,3,Withdrawal by Subject,4,True
+NCT01197508,FG003,0,Overall Study,1,3,Eligiblity criteria not fulfilled,0,True
+NCT01197508,FG003,0,Overall Study,2,3,Adverse Event,3,True
+NCT01197508,FG003,0,Overall Study,3,3,Severe non-compliance to protocol,3,True
+NCT01197508,FG003,0,Overall Study,4,3,Condition under investigation worsened,1,True
+NCT01197508,FG003,0,Overall Study,5,3,Lack of Efficacy,1,True
+NCT01197508,FG003,0,Overall Study,6,3,Study-specific withdrawal criteria,2,True
+NCT01197508,FG003,0,Overall Study,7,3,Lost to Follow-up,0,True
+NCT01197508,FG003,0,Overall Study,8,3,Other,2,True
+NCT01254305,FG000,0,Overall Study,0,0,Adverse Event,6,True
+NCT01254305,FG000,0,Overall Study,1,0,Lack of Efficacy,1,True
+NCT01254305,FG000,0,Overall Study,2,0,Protocol Violation,1,True
+NCT01254305,FG000,0,Overall Study,3,0,Withdrawal by Subject,4,True
+NCT01254305,FG000,0,Overall Study,4,0,Lost to Follow-up,10,True
+NCT01254305,FG000,0,Overall Study,5,0,Other Reasons,0,True
+NCT01254305,FG001,0,Overall Study,0,1,Adverse Event,3,True
+NCT01254305,FG001,0,Overall Study,1,1,Lack of Efficacy,0,True
+NCT01254305,FG001,0,Overall Study,2,1,Protocol Violation,7,True
+NCT01254305,FG001,0,Overall Study,3,1,Withdrawal by Subject,2,True
+NCT01254305,FG001,0,Overall Study,4,1,Lost to Follow-up,6,True
+NCT01254305,FG001,0,Overall Study,5,1,Other Reasons,0,True
+NCT01254305,FG002,0,Overall Study,0,2,Adverse Event,2,True
+NCT01254305,FG002,0,Overall Study,1,2,Lack of Efficacy,1,True
+NCT01254305,FG002,0,Overall Study,2,2,Protocol Violation,3,True
+NCT01254305,FG002,0,Overall Study,3,2,Withdrawal by Subject,4,True
+NCT01254305,FG002,0,Overall Study,4,2,Lost to Follow-up,5,True
+NCT01254305,FG002,0,Overall Study,5,2,Other Reasons,2,True
+NCT01255787,FG000,0,Overall Study,0,0,Pretreatment Event or Adverse Event (AE),6,True
+NCT01255787,FG000,0,Overall Study,1,0,Major Protocol Deviation,1,True
+NCT01255787,FG000,0,Overall Study,2,0,Lost to Follow-up,1,True
+NCT01255787,FG000,0,Overall Study,3,0,Withdrawal of Consent,3,True
+NCT01255787,FG000,0,Overall Study,4,0,Pregnancy,0,True
+NCT01255787,FG000,0,Overall Study,5,0,Lack of Efficacy,2,True
+NCT01255787,FG000,0,Overall Study,6,0,Noncompliance with Study Drug,3,True
+NCT01255787,FG001,0,Overall Study,0,1,Pretreatment Event or Adverse Event (AE),2,True
+NCT01255787,FG001,0,Overall Study,1,1,Major Protocol Deviation,1,True
+NCT01255787,FG001,0,Overall Study,2,1,Lost to Follow-up,2,True
+NCT01255787,FG001,0,Overall Study,3,1,Withdrawal of Consent,9,True
+NCT01255787,FG001,0,Overall Study,4,1,Pregnancy,0,True
+NCT01255787,FG001,0,Overall Study,5,1,Lack of Efficacy,2,True
+NCT01255787,FG001,0,Overall Study,6,1,Noncompliance with Study Drug,1,True
+NCT01255787,FG002,0,Overall Study,0,2,Pretreatment Event or Adverse Event (AE),9,True
+NCT01255787,FG002,0,Overall Study,1,2,Major Protocol Deviation,0,True
+NCT01255787,FG002,0,Overall Study,2,2,Lost to Follow-up,4,True
+NCT01255787,FG002,0,Overall Study,3,2,Withdrawal of Consent,3,True
+NCT01255787,FG002,0,Overall Study,4,2,Pregnancy,0,True
+NCT01255787,FG002,0,Overall Study,5,2,Lack of Efficacy,2,True
+NCT01255787,FG002,0,Overall Study,6,2,Noncompliance with Study Drug,0,True
+NCT01255787,FG003,0,Overall Study,0,3,Pretreatment Event or Adverse Event (AE),9,True
+NCT01255787,FG003,0,Overall Study,1,3,Major Protocol Deviation,4,True
+NCT01255787,FG003,0,Overall Study,2,3,Lost to Follow-up,2,True
+NCT01255787,FG003,0,Overall Study,3,3,Withdrawal of Consent,4,True
+NCT01255787,FG003,0,Overall Study,4,3,Pregnancy,1,True
+NCT01255787,FG003,0,Overall Study,5,3,Lack of Efficacy,2,True
+NCT01255787,FG003,0,Overall Study,6,3,Noncompliance with Study Drug,0,True
+NCT01355081,FG000,0,Overall Study,0,0,Pretreatment Event or Adverse Event,3,True
+NCT01355081,FG000,0,Overall Study,1,0,Major Protocol Deviation,0,True
+NCT01355081,FG000,0,Overall Study,2,0,Lost to Follow-up,0,True
+NCT01355081,FG000,0,Overall Study,3,0,Withdrawal of Consent,2,True
+NCT01355081,FG000,0,Overall Study,4,0,Lack of Efficacy,2,True
+NCT01355081,FG000,0,Overall Study,5,0,Non Compliance with Study Medication,0,True
+NCT01355081,FG001,0,Overall Study,0,1,Pretreatment Event or Adverse Event,4,True
+NCT01355081,FG001,0,Overall Study,1,1,Major Protocol Deviation,1,True
+NCT01355081,FG001,0,Overall Study,2,1,Lost to Follow-up,0,True
+NCT01355081,FG001,0,Overall Study,3,1,Withdrawal of Consent,3,True
+NCT01355081,FG001,0,Overall Study,4,1,Lack of Efficacy,1,True
+NCT01355081,FG001,0,Overall Study,5,1,Non Compliance with Study Medication,1,True
+NCT01355081,FG002,0,Overall Study,0,2,Pretreatment Event or Adverse Event,6,True
+NCT01355081,FG002,0,Overall Study,1,2,Major Protocol Deviation,0,True
+NCT01355081,FG002,0,Overall Study,2,2,Lost to Follow-up,1,True
+NCT01355081,FG002,0,Overall Study,3,2,Withdrawal of Consent,3,True
+NCT01355081,FG002,0,Overall Study,4,2,Lack of Efficacy,1,True
+NCT01355081,FG002,0,Overall Study,5,2,Non Compliance with Study Medication,0,True
+NCT01368432,FG000,0,Overall Study,0,0,Lost to Follow-up,0,True
+NCT01368432,FG001,0,Overall Study,0,1,Lost to Follow-up,1,True
+NCT01370733,FG000,0,Overall Study,0,0,Withdrawal by Subject,8,True
+NCT01370733,FG000,0,Overall Study,1,0,Lost to Follow-up,3,True
+NCT01370733,FG000,0,Overall Study,2,0,Adverse Event,2,True
+NCT01370733,FG000,0,Overall Study,3,0,Lack of Efficacy,3,True
+NCT01370733,FG000,0,Overall Study,4,0,Physician Decision,0,True
+NCT01370733,FG000,0,Overall Study,5,0,Protocol Violation,1,True
+NCT01370733,FG001,0,Overall Study,0,1,Withdrawal by Subject,8,True
+NCT01370733,FG001,0,Overall Study,1,1,Lost to Follow-up,0,True
+NCT01370733,FG001,0,Overall Study,2,1,Adverse Event,4,True
+NCT01370733,FG001,0,Overall Study,3,1,Lack of Efficacy,5,True
+NCT01370733,FG001,0,Overall Study,4,1,Physician Decision,2,True
+NCT01370733,FG001,0,Overall Study,5,1,Protocol Violation,3,True
+NCT01371734,FG000,0,Overall Study,0,0,Other,2,True
+NCT01371734,FG000,0,Overall Study,1,0,Withdrawal by Subject,3,True
+NCT01371734,FG000,0,Overall Study,2,0,Lost to Follow-up,5,True
+NCT01371734,FG000,0,Overall Study,3,0,Protocol Violation,3,True
+NCT01371734,FG000,0,Overall Study,4,0,Adverse Event,8,True
+NCT01371734,FG000,0,Overall Study,5,0,Lack of Efficacy,2,True
+NCT01371734,FG001,0,Overall Study,0,1,Other,1,True
+NCT01371734,FG001,0,Overall Study,1,1,Withdrawal by Subject,4,True
+NCT01371734,FG001,0,Overall Study,2,1,Lost to Follow-up,3,True
+NCT01371734,FG001,0,Overall Study,3,1,Protocol Violation,1,True
+NCT01371734,FG001,0,Overall Study,4,1,Adverse Event,8,True
+NCT01371734,FG001,0,Overall Study,5,1,Lack of Efficacy,2,True
+NCT01371734,FG002,0,Overall Study,0,2,Other,2,True
+NCT01371734,FG002,0,Overall Study,1,2,Withdrawal by Subject,9,True
+NCT01371734,FG002,0,Overall Study,2,2,Lost to Follow-up,1,True
+NCT01371734,FG002,0,Overall Study,3,2,Protocol Violation,2,True
+NCT01371734,FG002,0,Overall Study,4,2,Adverse Event,3,True
+NCT01371734,FG002,0,Overall Study,5,2,Lack of Efficacy,0,True
+NCT01372150,FG000,0,Overall Study,0,0,Lack of Efficacy,3,True
+NCT01372150,FG000,0,Overall Study,1,0,Lost to Follow-up,4,True
+NCT01372150,FG000,0,Overall Study,2,0,Protocol Violation,1,True
+NCT01372150,FG000,0,Overall Study,3,0,Withdrawal by Subject,2,True
+NCT01372150,FG000,0,Overall Study,4,0,Other,1,True
+NCT01372150,FG000,0,Overall Study,5,0,Adverse Event,2,True
+NCT01372150,FG000,0,Overall Study,6,0,Randomized but not treated,0,True
+NCT01372150,FG001,0,Overall Study,0,1,Lack of Efficacy,0,True
+NCT01372150,FG001,0,Overall Study,1,1,Lost to Follow-up,5,True
+NCT01372150,FG001,0,Overall Study,2,1,Protocol Violation,0,True
+NCT01372150,FG001,0,Overall Study,3,1,Withdrawal by Subject,7,True
+NCT01372150,FG001,0,Overall Study,4,1,Other,0,True
+NCT01372150,FG001,0,Overall Study,5,1,Adverse Event,1,True
+NCT01372150,FG001,0,Overall Study,6,1,Randomized but not treated,1,True
+NCT01372150,FG002,0,Overall Study,0,2,Lack of Efficacy,1,True
+NCT01372150,FG002,0,Overall Study,1,2,Lost to Follow-up,6,True
+NCT01372150,FG002,0,Overall Study,2,2,Protocol Violation,3,True
+NCT01372150,FG002,0,Overall Study,3,2,Withdrawal by Subject,2,True
+NCT01372150,FG002,0,Overall Study,4,2,Other,2,True
+NCT01372150,FG002,0,Overall Study,5,2,Adverse Event,2,True
+NCT01372150,FG002,0,Overall Study,6,2,Randomized but not treated,0,True
+NCT01377194,FG000,0,Overall Study,0,0,Adverse Event,3,True
+NCT01377194,FG000,0,Overall Study,1,0,Lack of Efficacy,3,True
+NCT01377194,FG000,0,Overall Study,2,0,Protocol Violation,4,True
+NCT01377194,FG000,0,Overall Study,3,0,Withdrawal by Subject,8,True
+NCT01377194,FG000,0,Overall Study,4,0,Lost to Follow-up,14,True
+NCT01377194,FG001,0,Overall Study,0,1,Adverse Event,12,True
+NCT01377194,FG001,0,Overall Study,1,1,Lack of Efficacy,3,True
+NCT01377194,FG001,0,Overall Study,2,1,Protocol Violation,10,True
+NCT01377194,FG001,0,Overall Study,3,1,Withdrawal by Subject,10,True
+NCT01377194,FG001,0,Overall Study,4,1,Lost to Follow-up,8,True
+NCT01377194,FG002,0,Overall Study,0,2,Adverse Event,19,True
+NCT01377194,FG002,0,Overall Study,1,2,Lack of Efficacy,3,True
+NCT01377194,FG002,0,Overall Study,2,2,Protocol Violation,6,True
+NCT01377194,FG002,0,Overall Study,3,2,Withdrawal by Subject,7,True
+NCT01377194,FG002,0,Overall Study,4,2,Lost to Follow-up,11,True
+NCT01421134,FG000,0,Overall Study,0,0,Adverse Event,3,True
+NCT01421134,FG000,0,Overall Study,1,0,Lack of Efficacy,2,True
+NCT01421134,FG000,0,Overall Study,2,0,Protocol Violation,0,True
+NCT01421134,FG000,0,Overall Study,3,0,Withdrawal by Subject,1,True
+NCT01421134,FG000,0,Overall Study,4,0,Administrative,0,True
+NCT01421134,FG000,0,Overall Study,5,0,Lost to Follow-up,1,True
+NCT01421134,FG001,0,Overall Study,0,1,Adverse Event,5,True
+NCT01421134,FG001,0,Overall Study,1,1,Lack of Efficacy,4,True
+NCT01421134,FG001,0,Overall Study,2,1,Protocol Violation,3,True
+NCT01421134,FG001,0,Overall Study,3,1,Withdrawal by Subject,1,True
+NCT01421134,FG001,0,Overall Study,4,1,Administrative,1,True
+NCT01421134,FG001,0,Overall Study,5,1,Lost to Follow-up,1,True
+NCT01422213,FG000,0,Overall Study,0,0,Adverse Event,8,True
+NCT01422213,FG000,0,Overall Study,1,0,Lack of Efficacy,10,True
+NCT01422213,FG000,0,Overall Study,2,0,Non-compliance with study drug,0,True
+NCT01422213,FG000,0,Overall Study,3,0,Protocol Violation,0,True
+NCT01422213,FG000,0,Overall Study,4,0,Withdrawal of Consent,7,True
+NCT01422213,FG000,0,Overall Study,5,0,Lost to Follow-up,3,True
+NCT01422213,FG000,0,Overall Study,6,0,Administrative or Other Reason(s),5,True
+NCT01422213,FG001,0,Overall Study,0,1,Adverse Event,7,True
+NCT01422213,FG001,0,Overall Study,1,1,Lack of Efficacy,2,True
+NCT01422213,FG001,0,Overall Study,2,1,Non-compliance with study drug,1,True
+NCT01422213,FG001,0,Overall Study,3,1,Protocol Violation,2,True
+NCT01422213,FG001,0,Overall Study,4,1,Withdrawal of Consent,3,True
+NCT01422213,FG001,0,Overall Study,5,1,Lost to Follow-up,3,True
+NCT01422213,FG001,0,Overall Study,6,1,Administrative or Other Reason(s),4,True
+NCT01422213,FG002,0,Overall Study,0,2,Adverse Event,11,True
+NCT01422213,FG002,0,Overall Study,1,2,Lack of Efficacy,2,True
+NCT01422213,FG002,0,Overall Study,2,2,Non-compliance with study drug,0,True
+NCT01422213,FG002,0,Overall Study,3,2,Protocol Violation,4,True
+NCT01422213,FG002,0,Overall Study,4,2,Withdrawal of Consent,5,True
+NCT01422213,FG002,0,Overall Study,5,2,Lost to Follow-up,5,True
+NCT01422213,FG002,0,Overall Study,6,2,Administrative or Other Reason(s),2,True
+NCT01441440,FG000,0,Overall Study,0,0,Death,1,True
+NCT01441440,FG000,0,Overall Study,1,0,Adverse Event,2,True
+NCT01441440,FG000,0,Overall Study,2,0,Lost to Follow-up,0,True
+NCT01441440,FG000,0,Overall Study,3,0,Withdrawal by Subject,11,True
+NCT01441440,FG000,0,Overall Study,4,0,Pregnancy,1,True
+NCT01441440,FG000,0,Overall Study,5,0,Lack of Efficacy,1,True
+NCT01441440,FG000,0,Overall Study,6,0,Moving,0,True
+NCT01441440,FG000,0,Overall Study,7,0,Work-related matter,0,True
+NCT01441440,FG000,0,Overall Study,8,0,Difficllty in keeping the schedule,1,True
+NCT01441440,FG001,0,Overall Study,0,1,Death,0,True
+NCT01441440,FG001,0,Overall Study,1,1,Adverse Event,9,True
+NCT01441440,FG001,0,Overall Study,2,1,Lost to Follow-up,2,True
+NCT01441440,FG001,0,Overall Study,3,1,Withdrawal by Subject,9,True
+NCT01441440,FG001,0,Overall Study,4,1,Pregnancy,0,True
+NCT01441440,FG001,0,Overall Study,5,1,Lack of Efficacy,0,True
+NCT01441440,FG001,0,Overall Study,6,1,Moving,1,True
+NCT01441440,FG001,0,Overall Study,7,1,Work-related matter,1,True
+NCT01441440,FG001,0,Overall Study,8,1,Difficllty in keeping the schedule,1,True
+NCT01441440,FG002,0,Overall Study,0,2,Death,1,True
+NCT01441440,FG002,0,Overall Study,1,2,Adverse Event,9,True
+NCT01441440,FG002,0,Overall Study,2,2,Lost to Follow-up,1,True
+NCT01441440,FG002,0,Overall Study,3,2,Withdrawal by Subject,9,True
+NCT01441440,FG002,0,Overall Study,4,2,Pregnancy,0,True
+NCT01441440,FG002,0,Overall Study,5,2,Lack of Efficacy,1,True
+NCT01441440,FG002,0,Overall Study,6,2,Moving,1,True
+NCT01441440,FG002,0,Overall Study,7,2,Work-related matter,0,True
+NCT01441440,FG002,0,Overall Study,8,2,Difficllty in keeping the schedule,0,True
+NCT01469377,FG000,0,Overall Study,0,0,Protocol Deviation,7,True
+NCT01469377,FG000,0,Overall Study,1,0,Lost to Follow-up,3,True
+NCT01469377,FG000,0,Overall Study,2,0,Withdrawal of Consent,12,True
+NCT01469377,FG000,0,Overall Study,3,0,Adverse Event,8,True
+NCT01469377,FG000,0,Overall Study,4,0,Insufficient Therapeutic Response,3,True
+NCT01469377,FG000,0,Overall Study,5,0,Other Miscellaneous Reasons,2,True
+NCT01469377,FG001,0,Overall Study,0,1,Protocol Deviation,10,True
+NCT01469377,FG001,0,Overall Study,1,1,Lost to Follow-up,2,True
+NCT01469377,FG001,0,Overall Study,2,1,Withdrawal of Consent,14,True
+NCT01469377,FG001,0,Overall Study,3,1,Adverse Event,18,True
+NCT01469377,FG001,0,Overall Study,4,1,Insufficient Therapeutic Response,4,True
+NCT01469377,FG001,0,Overall Study,5,1,Other Miscellaneous Reasons,0,True
+NCT01469377,FG002,0,Overall Study,0,2,Protocol Deviation,10,True
+NCT01469377,FG002,0,Overall Study,1,2,Lost to Follow-up,5,True
+NCT01469377,FG002,0,Overall Study,2,2,Withdrawal of Consent,15,True
+NCT01469377,FG002,0,Overall Study,3,2,Adverse Event,36,True
+NCT01469377,FG002,0,Overall Study,4,2,Insufficient Therapeutic Response,0,True
+NCT01469377,FG002,0,Overall Study,5,2,Other Miscellaneous Reasons,0,True
+NCT01482221,FG000,0,Overall Study,0,0,Lack of Efficacy,1,True
+NCT01482221,FG000,0,Overall Study,1,0,Lost to Follow-up,3,True
+NCT01482221,FG000,0,Overall Study,2,0,Study-Specific Withdrawal Criteria,2,True
+NCT01482221,FG000,0,Overall Study,3,0,Condition under Investigation Worsened,3,True
+NCT01482221,FG000,0,Overall Study,4,0,Severe Non-Compliance to Protocol,1,True
+NCT01482221,FG000,0,Overall Study,5,0,Adverse Event,1,True
+NCT01482221,FG000,0,Overall Study,6,0,Withdrawal by Subject,10,True
+NCT01482221,FG000,0,Overall Study,7,0,Incorrect randomization,0,True
+NCT01482221,FG000,0,Overall Study,8,0,Physician Decision,0,True
+NCT01482221,FG001,0,Overall Study,0,1,Lack of Efficacy,0,True
+NCT01482221,FG001,0,Overall Study,1,1,Lost to Follow-up,2,True
+NCT01482221,FG001,0,Overall Study,2,1,Study-Specific Withdrawal Criteria,0,True
+NCT01482221,FG001,0,Overall Study,3,1,Condition under Investigation Worsened,2,True
+NCT01482221,FG001,0,Overall Study,4,1,Severe Non-Compliance to Protocol,0,True
+NCT01482221,FG001,0,Overall Study,5,1,Adverse Event,7,True
+NCT01482221,FG001,0,Overall Study,6,1,Withdrawal by Subject,7,True
+NCT01482221,FG001,0,Overall Study,7,1,Incorrect randomization,1,True
+NCT01482221,FG001,0,Overall Study,8,1,Physician Decision,1,True
+NCT01482221,FG002,0,Overall Study,0,2,Lack of Efficacy,1,True
+NCT01482221,FG002,0,Overall Study,1,2,Lost to Follow-up,1,True
+NCT01482221,FG002,0,Overall Study,2,2,Study-Specific Withdrawal Criteria,1,True
+NCT01482221,FG002,0,Overall Study,3,2,Condition under Investigation Worsened,4,True
+NCT01482221,FG002,0,Overall Study,4,2,Severe Non-Compliance to Protocol,1,True
+NCT01482221,FG002,0,Overall Study,5,2,Adverse Event,3,True
+NCT01482221,FG002,0,Overall Study,6,2,Withdrawal by Subject,12,True
+NCT01482221,FG002,0,Overall Study,7,2,Incorrect randomization,0,True
+NCT01482221,FG002,0,Overall Study,8,2,Physician Decision,0,True
+NCT01488071,FG000,0,Overall Study,0,0,Adverse Event,15,True
+NCT01488071,FG000,0,Overall Study,1,0,Lack of Efficacy,11,True
+NCT01488071,FG000,0,Overall Study,2,0,Non-compliance with study drug,2,True
+NCT01488071,FG000,0,Overall Study,3,0,Protocol Violation,5,True
+NCT01488071,FG000,0,Overall Study,4,0,Withdrawal of Consent,14,True
+NCT01488071,FG000,0,Overall Study,5,0,Lost to Follow-up,1,True
+NCT01488071,FG000,0,Overall Study,6,0,Administrative or Other Reason(s),5,True
+NCT01488071,FG001,0,Overall Study,0,1,Adverse Event,23,True
+NCT01488071,FG001,0,Overall Study,1,1,Lack of Efficacy,17,True
+NCT01488071,FG001,0,Overall Study,2,1,Non-compliance with study drug,0,True
+NCT01488071,FG001,0,Overall Study,3,1,Protocol Violation,7,True
+NCT01488071,FG001,0,Overall Study,4,1,Withdrawal of Consent,12,True
+NCT01488071,FG001,0,Overall Study,5,1,Lost to Follow-up,0,True
+NCT01488071,FG001,0,Overall Study,6,1,Administrative or Other Reason(s),4,True
+NCT01564862,FG000,0,Overall Study,0,0,Pretreatment Event or Adverse Event,6,True
+NCT01564862,FG000,0,Overall Study,1,0,Major Protocol Deviation,3,True
+NCT01564862,FG000,0,Overall Study,2,0,Lost to Follow-up,10,True
+NCT01564862,FG000,0,Overall Study,3,0,Voluntary Withdrawal,9,True
+NCT01564862,FG000,0,Overall Study,4,0,Lack of Efficacy,1,True
+NCT01564862,FG000,0,Overall Study,5,0,Other reason(s),1,True
+NCT01564862,FG001,0,Overall Study,0,1,Pretreatment Event or Adverse Event,12,True
+NCT01564862,FG001,0,Overall Study,1,1,Major Protocol Deviation,3,True
+NCT01564862,FG001,0,Overall Study,2,1,Lost to Follow-up,8,True
+NCT01564862,FG001,0,Overall Study,3,1,Voluntary Withdrawal,6,True
+NCT01564862,FG001,0,Overall Study,4,1,Lack of Efficacy,5,True
+NCT01564862,FG001,0,Overall Study,5,1,Other reason(s),0,True
+NCT01564862,FG002,0,Overall Study,0,2,Pretreatment Event or Adverse Event,6,True
+NCT01564862,FG002,0,Overall Study,1,2,Major Protocol Deviation,4,True
+NCT01564862,FG002,0,Overall Study,2,2,Lost to Follow-up,6,True
+NCT01564862,FG002,0,Overall Study,3,2,Voluntary Withdrawal,8,True
+NCT01564862,FG002,0,Overall Study,4,2,Lack of Efficacy,6,True
+NCT01564862,FG002,0,Overall Study,5,2,Other reason(s),0,True
+NCT01571453,FG000,0,Overall Study,0,0,Adverse Event,14,True
+NCT01571453,FG000,0,Overall Study,1,0,Lack of Efficacy,8,True
+NCT01571453,FG000,0,Overall Study,2,0,Non-compliance,2,True
+NCT01571453,FG000,0,Overall Study,3,0,Protocol Violation,1,True
+NCT01571453,FG000,0,Overall Study,4,0,Withdrawal of consent,5,True
+NCT01571453,FG000,0,Overall Study,5,0,Lost to Follow-up,4,True
+NCT01571453,FG000,0,Overall Study,6,0,Administrative or other reason(s),4,True
+NCT01571453,FG001,0,Overall Study,0,1,Adverse Event,32,True
+NCT01571453,FG001,0,Overall Study,1,1,Lack of Efficacy,3,True
+NCT01571453,FG001,0,Overall Study,2,1,Non-compliance,4,True
+NCT01571453,FG001,0,Overall Study,3,1,Protocol Violation,5,True
+NCT01571453,FG001,0,Overall Study,4,1,Withdrawal of consent,13,True
+NCT01571453,FG001,0,Overall Study,5,1,Lost to Follow-up,2,True
+NCT01571453,FG001,0,Overall Study,6,1,Administrative or other reason(s),3,True
+NCT01625845,FG000,0,Overall Study,0,0,Adverse Event,1,True
+NCT01625845,FG000,0,Overall Study,1,0,Lost to Follow-up,2,True
+NCT01625845,FG000,0,Overall Study,2,0,Withdrawal by Subject,2,True
+NCT01625845,FG001,0,Overall Study,0,1,Adverse Event,2,True
+NCT01625845,FG001,0,Overall Study,1,1,Lost to Follow-up,1,True
+NCT01625845,FG001,0,Overall Study,2,1,Withdrawal by Subject,0,True
+NCT01627782,FG000,0,Overall Study,0,0,Adverse Event,1,True
+NCT01627782,FG000,0,Overall Study,1,0,Lack of Efficacy,11,True
+NCT01627782,FG000,0,Overall Study,2,0,Protocol Violation,1,True
+NCT01627782,FG000,0,Overall Study,3,0,Withdrawal by Subject,2,True
+NCT01627782,FG000,0,Overall Study,4,0,Other,0,True
+NCT01627782,FG000,0,Overall Study,5,0,Randomized But Not Treated,1,True
+NCT01627782,FG001,0,Overall Study,0,1,Adverse Event,2,True
+NCT01627782,FG001,0,Overall Study,1,1,Lack of Efficacy,1,True
+NCT01627782,FG001,0,Overall Study,2,1,Protocol Violation,0,True
+NCT01627782,FG001,0,Overall Study,3,1,Withdrawal by Subject,1,True
+NCT01627782,FG001,0,Overall Study,4,1,Other,2,True
+NCT01627782,FG001,0,Overall Study,5,1,Randomized But Not Treated,0,True
+NCT01627782,FG002,0,Overall Study,0,2,Adverse Event,0,True
+NCT01627782,FG002,0,Overall Study,1,2,Lack of Efficacy,15,True
+NCT01627782,FG002,0,Overall Study,2,2,Protocol Violation,0,True
+NCT01627782,FG002,0,Overall Study,3,2,Withdrawal by Subject,0,True
+NCT01627782,FG002,0,Overall Study,4,2,Other,0,True
+NCT01627782,FG002,0,Overall Study,5,2,Randomized But Not Treated,0,True
+NCT01627782,FG003,0,Overall Study,0,3,Adverse Event,1,True
+NCT01627782,FG003,0,Overall Study,1,3,Lack of Efficacy,2,True
+NCT01627782,FG003,0,Overall Study,2,3,Protocol Violation,0,True
+NCT01627782,FG003,0,Overall Study,3,3,Withdrawal by Subject,0,True
+NCT01627782,FG003,0,Overall Study,4,3,Other,3,True
+NCT01627782,FG003,0,Overall Study,5,3,Randomized But Not Treated,0,True
+NCT01725282,FG000,0,Overall Study,0,0,Adverse Event,1,True
+NCT01725282,FG000,0,Overall Study,1,0,Exacerbation of Target Disease,1,True
+NCT01725282,FG000,0,Overall Study,2,0,Met Exclusion Criteria,0,True
+NCT01725282,FG000,0,Overall Study,3,0,Study Site Withdrawal,0,True
+NCT01725282,FG000,0,Overall Study,4,0,Withdrawal by Subject,0,True
+NCT01725282,FG000,0,Overall Study,5,0,Lack of Efficacy,0,True
+NCT01725282,FG001,0,Overall Study,0,1,Adverse Event,3,True
+NCT01725282,FG001,0,Overall Study,1,1,Exacerbation of Target Disease,0,True
+NCT01725282,FG001,0,Overall Study,2,1,Met Exclusion Criteria,0,True
+NCT01725282,FG001,0,Overall Study,3,1,Study Site Withdrawal,1,True
+NCT01725282,FG001,0,Overall Study,4,1,Withdrawal by Subject,0,True
+NCT01725282,FG001,0,Overall Study,5,1,Lack of Efficacy,1,True
+NCT01725282,FG002,0,Overall Study,0,2,Adverse Event,6,True
+NCT01725282,FG002,0,Overall Study,1,2,Exacerbation of Target Disease,0,True
+NCT01725282,FG002,0,Overall Study,2,2,Met Exclusion Criteria,1,True
+NCT01725282,FG002,0,Overall Study,3,2,Study Site Withdrawal,0,True
+NCT01725282,FG002,0,Overall Study,4,2,Withdrawal by Subject,1,True
+NCT01725282,FG002,0,Overall Study,5,2,Lack of Efficacy,0,True
+NCT01725282,FG003,0,Overall Study,0,3,Adverse Event,4,True
+NCT01725282,FG003,0,Overall Study,1,3,Exacerbation of Target Disease,1,True
+NCT01725282,FG003,0,Overall Study,2,3,Met Exclusion Criteria,0,True
+NCT01725282,FG003,0,Overall Study,3,3,Study Site Withdrawal,0,True
+NCT01725282,FG003,0,Overall Study,4,3,Withdrawal by Subject,1,True
+NCT01725282,FG003,0,Overall Study,5,3,Lack of Efficacy,1,True
+NCT02015546,FG000,0,Overall Study,0,0,Withdrawal by Subject,1,True
+NCT02015546,FG000,0,Overall Study,1,0,Screem Failure,2,True
+NCT02015546,FG001,0,Overall Study,0,1,Withdrawal by Subject,1,True
+NCT02015546,FG001,0,Overall Study,1,1,Screem Failure,1,True
+NCT02015546,FG002,0,Overall Study,0,2,Withdrawal by Subject,1,True
+NCT02015546,FG002,0,Overall Study,1,2,Screem Failure,3,True
+NCT02046564,FG000,0,Overall Study,0,0,Adverse Event,6,True
+NCT02046564,FG000,0,Overall Study,1,0,Physician Decision,0,True
+NCT02046564,FG000,0,Overall Study,2,0,Protocol Violation,3,True
+NCT02046564,FG000,0,Overall Study,3,0,Withdrawal by Subject,4,True
+NCT02046564,FG000,0,Overall Study,4,0,Subject met withdrawal criteria,2,True
+NCT02046564,FG001,0,Overall Study,0,1,Adverse Event,3,True
+NCT02046564,FG001,0,Overall Study,1,1,Physician Decision,1,True
+NCT02046564,FG001,0,Overall Study,2,1,Protocol Violation,1,True
+NCT02046564,FG001,0,Overall Study,3,1,Withdrawal by Subject,10,True
+NCT02046564,FG001,0,Overall Study,4,1,Subject met withdrawal criteria,5,True
+NCT02085135,FG000,0,Overall Study,0,0,Adverse Event,4,True
+NCT02085135,FG000,0,Overall Study,1,0,Lost to Follow-up,2,True
+NCT02085135,FG000,0,Overall Study,2,0,Withdrawal by Subject,3,True
+NCT02085135,FG000,0,Overall Study,3,0,Lack of Efficacy,2,True
+NCT02085135,FG001,0,Overall Study,0,1,Adverse Event,7,True
+NCT02085135,FG001,0,Overall Study,1,1,Lost to Follow-up,2,True
+NCT02085135,FG001,0,Overall Study,2,1,Withdrawal by Subject,0,True
+NCT02085135,FG001,0,Overall Study,3,1,Lack of Efficacy,0,True
+NCT02116361,FG000,0,Overall Study,0,0,Pregnancy,0,True
+NCT02116361,FG000,0,Overall Study,1,0,Protocol Violation,1,True
+NCT02116361,FG000,0,Overall Study,2,0,Physician Decision,2,True
+NCT02116361,FG000,0,Overall Study,3,0,Adverse Event,1,True
+NCT02116361,FG000,0,Overall Study,4,0,Other Reasons,3,True
+NCT02116361,FG000,0,Overall Study,5,0,Lack of Efficacy,5,True
+NCT02116361,FG000,0,Overall Study,6,0,Lost to Follow-up,4,True
+NCT02116361,FG000,0,Overall Study,7,0,Personal Reasons,6,True
+NCT02116361,FG000,0,Overall Study,8,0,Investigator Decision - Relapse,9,True
+NCT02116361,FG001,0,Overall Study,0,1,Pregnancy,0,True
+NCT02116361,FG001,0,Overall Study,1,1,Protocol Violation,0,True
+NCT02116361,FG001,0,Overall Study,2,1,Physician Decision,3,True
+NCT02116361,FG001,0,Overall Study,3,1,Adverse Event,0,True
+NCT02116361,FG001,0,Overall Study,4,1,Other Reasons,3,True
+NCT02116361,FG001,0,Overall Study,5,1,Lack of Efficacy,7,True
+NCT02116361,FG001,0,Overall Study,6,1,Lost to Follow-up,5,True
+NCT02116361,FG001,0,Overall Study,7,1,Personal Reasons,6,True
+NCT02116361,FG001,0,Overall Study,8,1,Investigator Decision - Relapse,7,True
+NCT02116361,FG002,0,Overall Study,0,2,Pregnancy,0,True
+NCT02116361,FG002,0,Overall Study,1,2,Protocol Violation,0,True
+NCT02116361,FG002,0,Overall Study,2,2,Physician Decision,0,True
+NCT02116361,FG002,0,Overall Study,3,2,Adverse Event,0,True
+NCT02116361,FG002,0,Overall Study,4,2,Other Reasons,3,True
+NCT02116361,FG002,0,Overall Study,5,2,Lack of Efficacy,4,True
+NCT02116361,FG002,0,Overall Study,6,2,Lost to Follow-up,7,True
+NCT02116361,FG002,0,Overall Study,7,2,Personal Reasons,4,True
+NCT02116361,FG002,0,Overall Study,8,2,Investigator Decision - Relapse,8,True
+NCT02116361,FG003,0,Overall Study,0,3,Pregnancy,1,True
+NCT02116361,FG003,0,Overall Study,1,3,Protocol Violation,2,True
+NCT02116361,FG003,0,Overall Study,2,3,Physician Decision,0,True
+NCT02116361,FG003,0,Overall Study,3,3,Adverse Event,3,True
+NCT02116361,FG003,0,Overall Study,4,3,Other Reasons,3,True
+NCT02116361,FG003,0,Overall Study,5,3,Lack of Efficacy,3,True
+NCT02116361,FG003,0,Overall Study,6,3,Lost to Follow-up,5,True
+NCT02116361,FG003,0,Overall Study,7,3,Personal Reasons,9,True
+NCT02116361,FG003,0,Overall Study,8,3,Investigator Decision - Relapse,5,True
+NCT02158546,FG000,0,Overall Study,0,0,Physician Decision,0,True
+NCT02158546,FG000,0,Overall Study,1,0,Non-compliance,0,True
+NCT02158546,FG000,0,Overall Study,2,0,Failure to meet eligibility criteria,0,True
+NCT02158546,FG000,0,Overall Study,3,0,Lack of Efficacy,1,True
+NCT02158546,FG000,0,Overall Study,4,0,Adverse Event,2,True
+NCT02158546,FG000,0,Overall Study,5,0,Withdrawal by Subject,6,True
+NCT02158546,FG000,0,Overall Study,6,0,Lost to Follow-up,5,True
+NCT02158546,FG000,0,Overall Study,7,0,Site Excluded,5,True
+NCT02158546,FG001,0,Overall Study,0,1,Physician Decision,1,True
+NCT02158546,FG001,0,Overall Study,1,1,Non-compliance,1,True
+NCT02158546,FG001,0,Overall Study,2,1,Failure to meet eligibility criteria,1,True
+NCT02158546,FG001,0,Overall Study,3,1,Lack of Efficacy,1,True
+NCT02158546,FG001,0,Overall Study,4,1,Adverse Event,2,True
+NCT02158546,FG001,0,Overall Study,5,1,Withdrawal by Subject,2,True
+NCT02158546,FG001,0,Overall Study,6,1,Lost to Follow-up,4,True
+NCT02158546,FG001,0,Overall Study,7,1,Site Excluded,5,True
+NCT02158546,FG002,0,Overall Study,0,2,Physician Decision,0,True
+NCT02158546,FG002,0,Overall Study,1,2,Non-compliance,0,True
+NCT02158546,FG002,0,Overall Study,2,2,Failure to meet eligibility criteria,0,True
+NCT02158546,FG002,0,Overall Study,3,2,Lack of Efficacy,0,True
+NCT02158546,FG002,0,Overall Study,4,2,Adverse Event,0,True
+NCT02158546,FG002,0,Overall Study,5,2,Withdrawal by Subject,1,True
+NCT02158546,FG002,0,Overall Study,6,2,Lost to Follow-up,0,True
+NCT02158546,FG002,0,Overall Study,7,2,Site Excluded,3,True
+NCT02158546,FG003,0,Overall Study,0,3,Physician Decision,0,True
+NCT02158546,FG003,0,Overall Study,1,3,Non-compliance,1,True
+NCT02158546,FG003,0,Overall Study,2,3,Failure to meet eligibility criteria,0,True
+NCT02158546,FG003,0,Overall Study,3,3,Lack of Efficacy,0,True
+NCT02158546,FG003,0,Overall Study,4,3,Adverse Event,0,True
+NCT02158546,FG003,0,Overall Study,5,3,Withdrawal by Subject,0,True
+NCT02158546,FG003,0,Overall Study,6,3,Lost to Follow-up,1,True
+NCT02158546,FG003,0,Overall Study,7,3,Site Excluded,4,True
+NCT02176291,FG000,0,Overall Study,0,0,Death,1,True
+NCT02176291,FG000,0,Overall Study,1,0,non compliance with protocol,2,True
+NCT02176291,FG000,0,Overall Study,2,0,Withdrawal by Subject,2,True
+NCT02176291,FG001,0,Overall Study,0,1,Death,0,True
+NCT02176291,FG001,0,Overall Study,1,1,non compliance with protocol,0,True
+NCT02176291,FG001,0,Overall Study,2,1,Withdrawal by Subject,0,True
+NCT02191397,FG000,0,Overall Study,0,0,Adverse Event,28,True
+NCT02191397,FG000,0,Overall Study,1,0,Lack of Efficacy,10,True
+NCT02191397,FG000,0,Overall Study,2,0,Protocol Violation,0,True
+NCT02191397,FG000,0,Overall Study,3,0,Met protocol-defined stopping criteria,5,True
+NCT02191397,FG000,0,Overall Study,4,0,Lost to Follow-up,10,True
+NCT02191397,FG000,0,Overall Study,5,0,Physician Decision,8,True
+NCT02191397,FG000,0,Overall Study,6,0,Withdrawal by Subject,22,True
+NCT02191397,FG001,0,Overall Study,0,1,Adverse Event,17,True
+NCT02191397,FG001,0,Overall Study,1,1,Lack of Efficacy,5,True
+NCT02191397,FG001,0,Overall Study,2,1,Protocol Violation,3,True
+NCT02191397,FG001,0,Overall Study,3,1,Met protocol-defined stopping criteria,4,True
+NCT02191397,FG001,0,Overall Study,4,1,Lost to Follow-up,11,True
+NCT02191397,FG001,0,Overall Study,5,1,Physician Decision,3,True
+NCT02191397,FG001,0,Overall Study,6,1,Withdrawal by Subject,27,True
+NCT02389816,FG000,0,Overall Study,0,0,Randomized but Not Treated,1,True
+NCT02389816,FG000,0,Overall Study,1,0,Pretreatment Event or Adverse Event (AE),4,True
+NCT02389816,FG000,0,Overall Study,2,0,Major Protocol Deviation,1,True
+NCT02389816,FG000,0,Overall Study,3,0,Lost to Follow-up,1,True
+NCT02389816,FG000,0,Overall Study,4,0,Withdrawal of Consent,6,True
+NCT02389816,FG000,0,Overall Study,5,0,Lack of Efficacy,1,True
+NCT02389816,FG000,0,Overall Study,6,0,Non Compliance with Study Drug,1,True
+NCT02389816,FG000,0,Overall Study,7,0,Reason not Specified,0,True
+NCT02389816,FG001,0,Overall Study,0,1,Randomized but Not Treated,0,True
+NCT02389816,FG001,0,Overall Study,1,1,Pretreatment Event or Adverse Event (AE),6,True
+NCT02389816,FG001,0,Overall Study,2,1,Major Protocol Deviation,0,True
+NCT02389816,FG001,0,Overall Study,3,1,Lost to Follow-up,0,True
+NCT02389816,FG001,0,Overall Study,4,1,Withdrawal of Consent,4,True
+NCT02389816,FG001,0,Overall Study,5,1,Lack of Efficacy,0,True
+NCT02389816,FG001,0,Overall Study,6,1,Non Compliance with Study Drug,1,True
+NCT02389816,FG001,0,Overall Study,7,1,Reason not Specified,2,True
+NCT02389816,FG002,0,Overall Study,0,2,Randomized but Not Treated,0,True
+NCT02389816,FG002,0,Overall Study,1,2,Pretreatment Event or Adverse Event (AE),7,True
+NCT02389816,FG002,0,Overall Study,2,2,Major Protocol Deviation,0,True
+NCT02389816,FG002,0,Overall Study,3,2,Lost to Follow-up,0,True
+NCT02389816,FG002,0,Overall Study,4,2,Withdrawal of Consent,4,True
+NCT02389816,FG002,0,Overall Study,5,2,Lack of Efficacy,0,True
+NCT02389816,FG002,0,Overall Study,6,2,Non Compliance with Study Drug,1,True
+NCT02389816,FG002,0,Overall Study,7,2,Reason not Specified,0,True
+NCT02473289,FG000,0,Overall Study,0,0,Adverse Event,2,True
+NCT02473289,FG000,0,Overall Study,1,0,Lost to Follow-up,1,True
+NCT02473289,FG000,0,Overall Study,2,0,Protocol Violation,0,True
+NCT02473289,FG000,0,Overall Study,3,0,Withdrawal of consent,6,True
+NCT02473289,FG000,0,Overall Study,4,0,Treatment Unblinded + Adverse event,0,True
+NCT02473289,FG000,0,Overall Study,5,0,Other,2,True
+NCT02473289,FG001,0,Overall Study,0,1,Adverse Event,3,True
+NCT02473289,FG001,0,Overall Study,1,1,Lost to Follow-up,1,True
+NCT02473289,FG001,0,Overall Study,2,1,Protocol Violation,1,True
+NCT02473289,FG001,0,Overall Study,3,1,Withdrawal of consent,7,True
+NCT02473289,FG001,0,Overall Study,4,1,Treatment Unblinded + Adverse event,1,True
+NCT02473289,FG001,0,Overall Study,5,1,Other,0,True
+NCT02674529,FG000,0,Overall Study,0,0,Lost to Follow-up,1,True
+NCT02674529,FG000,0,Overall Study,1,0,Withdrawal by Subject,2,True
+NCT02674529,FG000,0,Overall Study,2,0,Physician Decision,0,True
+NCT02674529,FG000,0,Overall Study,3,0,Protocol Violation,0,True
+NCT02674529,FG001,0,Overall Study,0,1,Lost to Follow-up,2,True
+NCT02674529,FG001,0,Overall Study,1,1,Withdrawal by Subject,1,True
+NCT02674529,FG001,0,Overall Study,2,1,Physician Decision,1,True
+NCT02674529,FG001,0,Overall Study,3,1,Protocol Violation,1,True
+NCT02720198,FG000,0,Overall Study,0,0,Withdrawal by Subject,0,True
+NCT02720198,FG001,0,Overall Study,0,1,Withdrawal by Subject,1,True
+NCT02914769,FG000,0,Overall Study,0,0,Protocol Violation,3,True
+NCT02914769,FG000,0,Overall Study,1,0,Withdrawal by Subject,0,True
+NCT02914769,FG001,0,Overall Study,0,1,Protocol Violation,2,True
+NCT02914769,FG001,0,Overall Study,1,1,Withdrawal by Subject,1,True
+NCT02932943,FG000,0,Overall Study,0,0,Lost to Follow-up,0,True
+NCT02932943,FG000,0,Overall Study,1,0,Adverse Event,2,True
+NCT02932943,FG000,0,Overall Study,2,0,Withdrawal by Subject,3,True
+NCT02932943,FG001,0,Overall Study,0,1,Lost to Follow-up,2,True
+NCT02932943,FG001,0,Overall Study,1,1,Adverse Event,2,True
+NCT02932943,FG001,0,Overall Study,2,1,Withdrawal by Subject,3,True
+NCT02943564,FG000,0,Overall Study,0,0,Miscellaneous Reasons,0,True
+NCT02943564,FG000,0,Overall Study,1,0,Site terminated by sponsor,0,True
+NCT02943564,FG000,0,Overall Study,2,0,Non-compliance with study drug,0,True
+NCT02943564,FG000,0,Overall Study,3,0,Pregnancy,0,True
+NCT02943564,FG000,0,Overall Study,4,0,Protocol Violation,2,True
+NCT02943564,FG000,0,Overall Study,5,0,Lost to Follow-up,1,True
+NCT02943564,FG000,0,Overall Study,6,0,Withdrawal by Subject,6,True
+NCT02943564,FG000,0,Overall Study,7,0,Adverse Event,1,True
+NCT02943564,FG000,0,Overall Study,8,0,Lack of Efficacy,0,True
+NCT02943564,FG001,0,Overall Study,0,1,Miscellaneous Reasons,0,True
+NCT02943564,FG001,0,Overall Study,1,1,Site terminated by sponsor,1,True
+NCT02943564,FG001,0,Overall Study,2,1,Non-compliance with study drug,1,True
+NCT02943564,FG001,0,Overall Study,3,1,Pregnancy,1,True
+NCT02943564,FG001,0,Overall Study,4,1,Protocol Violation,2,True
+NCT02943564,FG001,0,Overall Study,5,1,Lost to Follow-up,0,True
+NCT02943564,FG001,0,Overall Study,6,1,Withdrawal by Subject,5,True
+NCT02943564,FG001,0,Overall Study,7,1,Adverse Event,2,True
+NCT02943564,FG001,0,Overall Study,8,1,Lack of Efficacy,1,True
+NCT02943564,FG002,0,Overall Study,0,2,Miscellaneous Reasons,3,True
+NCT02943564,FG002,0,Overall Study,1,2,Site terminated by sponsor,0,True
+NCT02943564,FG002,0,Overall Study,2,2,Non-compliance with study drug,0,True
+NCT02943564,FG002,0,Overall Study,3,2,Pregnancy,1,True
+NCT02943564,FG002,0,Overall Study,4,2,Protocol Violation,2,True
+NCT02943564,FG002,0,Overall Study,5,2,Lost to Follow-up,0,True
+NCT02943564,FG002,0,Overall Study,6,2,Withdrawal by Subject,2,True
+NCT02943564,FG002,0,Overall Study,7,2,Adverse Event,1,True
+NCT02943564,FG002,0,Overall Study,8,2,Lack of Efficacy,0,True
+NCT02943577,FG000,0,Overall Study,0,0,Protocol Violation,0,True
+NCT02943577,FG000,0,Overall Study,1,0,Adverse Event,3,True
+NCT02943577,FG000,0,Overall Study,2,0,Lost to Follow-up,0,True
+NCT02943577,FG000,0,Overall Study,3,0,Withdrawal by Subject,1,True
+NCT02943577,FG000,0,Overall Study,4,0,Pregnancy,1,True
+NCT02943577,FG001,0,Overall Study,0,1,Protocol Violation,1,True
+NCT02943577,FG001,0,Overall Study,1,1,Adverse Event,2,True
+NCT02943577,FG001,0,Overall Study,2,1,Lost to Follow-up,1,True
+NCT02943577,FG001,0,Overall Study,3,1,Withdrawal by Subject,1,True
+NCT02943577,FG001,0,Overall Study,4,1,Pregnancy,0,True
+NCT03000530,FG000,0,Overall Study,0,0,Adverse Event,0,True
+NCT03000530,FG000,0,Overall Study,1,0,Lost to Follow-up,0,True
+NCT03000530,FG000,0,Overall Study,2,0,Withdrawal by Subject,0,True
+NCT03000530,FG001,0,Overall Study,0,1,Adverse Event,0,True
+NCT03000530,FG001,0,Overall Study,1,1,Lost to Follow-up,3,True
+NCT03000530,FG001,0,Overall Study,2,1,Withdrawal by Subject,2,True
+NCT03000530,FG002,0,Overall Study,0,2,Adverse Event,2,True
+NCT03000530,FG002,0,Overall Study,1,2,Lost to Follow-up,1,True
+NCT03000530,FG002,0,Overall Study,2,2,Withdrawal by Subject,1,True
+NCT03018340,FG000,0,Overall Study,0,0,Adverse Event,1,True
+NCT03018340,FG000,0,Overall Study,1,0,Withdrawal by Subject,0,True
+NCT03018340,FG000,0,Overall Study,2,0,Lack of Efficacy,0,True
+NCT03018340,FG000,0,Overall Study,3,0,Non-compliance with study drug/procedure,3,True
+NCT03018340,FG000,0,Overall Study,4,0,Lost to Follow-up,1,True
+NCT03018340,FG000,0,Overall Study,5,0,Protocol Violation,3,True
+NCT03018340,FG000,0,Overall Study,6,0,Not further specified,0,True
+NCT03018340,FG001,0,Overall Study,0,1,Adverse Event,2,True
+NCT03018340,FG001,0,Overall Study,1,1,Withdrawal by Subject,8,True
+NCT03018340,FG001,0,Overall Study,2,1,Lack of Efficacy,1,True
+NCT03018340,FG001,0,Overall Study,3,1,Non-compliance with study drug/procedure,4,True
+NCT03018340,FG001,0,Overall Study,4,1,Lost to Follow-up,7,True
+NCT03018340,FG001,0,Overall Study,5,1,Protocol Violation,7,True
+NCT03018340,FG001,0,Overall Study,6,1,Not further specified,1,True
+NCT03039192,FG000,0,Overall Study,0,0,Lost to Follow-up,4,True
+NCT03039192,FG000,0,Overall Study,1,0,"Adverse event, serious fatal",0,True
+NCT03039192,FG000,0,Overall Study,2,0,"Adverse event, non-fatal",0,True
+NCT03039192,FG000,0,Overall Study,3,0,Withdrawal by Subject,6,True
+NCT03039192,FG000,0,Overall Study,4,0,Discontinued from treatment phase,19,True
+NCT03039192,FG000,0,Overall Study,5,0,Other,3,True
+NCT03039192,FG001,0,Overall Study,0,1,Lost to Follow-up,4,True
+NCT03039192,FG001,0,Overall Study,1,1,"Adverse event, serious fatal",1,True
+NCT03039192,FG001,0,Overall Study,2,1,"Adverse event, non-fatal",2,True
+NCT03039192,FG001,0,Overall Study,3,1,Withdrawal by Subject,9,True
+NCT03039192,FG001,0,Overall Study,4,1,Discontinued from treatment phase,12,True
+NCT03039192,FG001,0,Overall Study,5,1,Other,2,True
+NCT03097133,FG000,0,Overall Study,0,0,Lost to Follow-up,3,True
+NCT03097133,FG000,0,Overall Study,1,0,Withdrawal by Subject,2,True
+NCT03097133,FG000,0,Overall Study,2,0,"Discontinued DB, not entered FU Phase",21,True
+NCT03097133,FG000,0,Overall Study,3,0,Other,3,True
+NCT03097133,FG000,0,Overall Study,4,0,Adverse Event,1,True
+NCT03097133,FG001,0,Overall Study,0,1,Lost to Follow-up,2,True
+NCT03097133,FG001,0,Overall Study,1,1,Withdrawal by Subject,5,True
+NCT03097133,FG001,0,Overall Study,2,1,"Discontinued DB, not entered FU Phase",25,True
+NCT03097133,FG001,0,Overall Study,3,1,Other,2,True
+NCT03097133,FG001,0,Overall Study,4,1,Adverse Event,0,True
+NCT03113968,FG000,0,Overall Study,0,0,Withdrawal by Subject,31,True
+NCT03113968,FG001,0,Overall Study,0,1,Withdrawal by Subject,4,True
+NCT03181529,FG000,0,Overall Study,0,0,Withdrawal by Subject,1,True
+NCT03181529,FG000,0,Overall Study,1,0,Dropped out of study due to sleep difficulties. Sleep difficulties were also reported at screening,1,True
+NCT03181529,FG001,0,Overall Study,0,1,Withdrawal by Subject,1,True
+NCT03181529,FG001,0,Overall Study,1,1,Dropped out of study due to sleep difficulties. Sleep difficulties were also reported at screening,0,True
+NCT03433339,FG000,0,Overall Study,0,0,Lost to Follow-up,2,True
+NCT03433339,FG000,0,Overall Study,1,0,Coronavirus disease (COVID-19) Pandemic Related Restrictions,0,True
+NCT03433339,FG000,0,Overall Study,2,0,Withdrawal by Subject,0,True
+NCT03433339,FG001,0,Overall Study,0,1,Lost to Follow-up,0,True
+NCT03433339,FG001,0,Overall Study,1,1,Coronavirus disease (COVID-19) Pandemic Related Restrictions,2,True
+NCT03433339,FG001,0,Overall Study,2,1,Withdrawal by Subject,2,True
+NCT03586427,FG000,0,Overall Study,0,0,Lost to Follow-up,0,True
+NCT03586427,FG000,0,Overall Study,1,0,Withdrawal by Subject,0,True
+NCT03586427,FG000,0,Overall Study,2,0,Adverse Event,0,True
+NCT03586427,FG000,0,Overall Study,3,0,Protocol Violation,0,True
+NCT03586427,FG000,0,Overall Study,4,0,Noncompliance with study drug,0,True
+NCT03586427,FG001,0,Overall Study,0,1,Lost to Follow-up,3,True
+NCT03586427,FG001,0,Overall Study,1,1,Withdrawal by Subject,1,True
+NCT03586427,FG001,0,Overall Study,2,1,Adverse Event,0,True
+NCT03586427,FG001,0,Overall Study,3,1,Protocol Violation,0,True
+NCT03586427,FG001,0,Overall Study,4,1,Noncompliance with study drug,0,True
+NCT03586427,FG002,0,Overall Study,0,2,Lost to Follow-up,1,True
+NCT03586427,FG002,0,Overall Study,1,2,Withdrawal by Subject,2,True
+NCT03586427,FG002,0,Overall Study,2,2,Adverse Event,1,True
+NCT03586427,FG002,0,Overall Study,3,2,Protocol Violation,1,True
+NCT03586427,FG002,0,Overall Study,4,2,Noncompliance with study drug,1,True
+NCT03586427,FG003,0,Overall Study,0,3,Lost to Follow-up,3,True
+NCT03586427,FG003,0,Overall Study,1,3,Withdrawal by Subject,1,True
+NCT03586427,FG003,0,Overall Study,2,3,Adverse Event,0,True
+NCT03586427,FG003,0,Overall Study,3,3,Protocol Violation,0,True
+NCT03586427,FG003,0,Overall Study,4,3,Noncompliance with study drug,0,True
+NCT03586427,FG004,0,Overall Study,0,4,Lost to Follow-up,3,True
+NCT03586427,FG004,0,Overall Study,1,4,Withdrawal by Subject,1,True
+NCT03586427,FG004,0,Overall Study,2,4,Adverse Event,0,True
+NCT03586427,FG004,0,Overall Study,3,4,Protocol Violation,1,True
+NCT03586427,FG004,0,Overall Study,4,4,Noncompliance with study drug,0,True
+NCT03697603,FG000,0,Overall Study,0,0,Adverse Event,3,True
+NCT03697603,FG000,0,Overall Study,1,0,Physician Decision,1,True
+NCT03697603,FG000,0,Overall Study,2,0,Protocol Violation,3,True
+NCT03697603,FG000,0,Overall Study,3,0,Withdrawal by Subject,5,True
+NCT03697603,FG000,0,Overall Study,4,0,Protocol Violation,0,True
+NCT03697603,FG001,0,Overall Study,0,1,Adverse Event,18,True
+NCT03697603,FG001,0,Overall Study,1,1,Physician Decision,0,True
+NCT03697603,FG001,0,Overall Study,2,1,Protocol Violation,8,True
+NCT03697603,FG001,0,Overall Study,3,1,Withdrawal by Subject,1,True
+NCT03697603,FG001,0,Overall Study,4,1,Protocol Violation,0,True
+NCT03697603,FG002,0,Overall Study,0,2,Adverse Event,3,True
+NCT03697603,FG002,0,Overall Study,1,2,Physician Decision,2,True
+NCT03697603,FG002,0,Overall Study,2,2,Protocol Violation,5,True
+NCT03697603,FG002,0,Overall Study,3,2,Withdrawal by Subject,1,True
+NCT03697603,FG002,0,Overall Study,4,2,Protocol Violation,1,True
+NCT03726658,FG000,0,Overall Study,0,0,Lost to Follow-up,0,True
+NCT03726658,FG000,0,Overall Study,1,0,Withdrawal by Subject,1,True
+NCT03726658,FG000,0,Overall Study,2,0,Pregnancy,0,True
+NCT03726658,FG000,0,Overall Study,3,0,Not Reported,0,True
+NCT03726658,FG001,0,Overall Study,0,1,Lost to Follow-up,0,True
+NCT03726658,FG001,0,Overall Study,1,1,Withdrawal by Subject,0,True
+NCT03726658,FG001,0,Overall Study,2,1,Pregnancy,0,True
+NCT03726658,FG001,0,Overall Study,3,1,Not Reported,0,True
+NCT03726658,FG002,0,Overall Study,0,2,Lost to Follow-up,2,True
+NCT03726658,FG002,0,Overall Study,1,2,Withdrawal by Subject,0,True
+NCT03726658,FG002,0,Overall Study,2,2,Pregnancy,0,True
+NCT03726658,FG002,0,Overall Study,3,2,Not Reported,0,True
+NCT03726658,FG003,0,Overall Study,0,3,Lost to Follow-up,0,True
+NCT03726658,FG003,0,Overall Study,1,3,Withdrawal by Subject,0,True
+NCT03726658,FG003,0,Overall Study,2,3,Pregnancy,0,True
+NCT03726658,FG003,0,Overall Study,3,3,Not Reported,0,True
+NCT03726658,FG004,0,Overall Study,0,4,Lost to Follow-up,0,True
+NCT03726658,FG004,0,Overall Study,1,4,Withdrawal by Subject,6,True
+NCT03726658,FG004,0,Overall Study,2,4,Pregnancy,0,True
+NCT03726658,FG004,0,Overall Study,3,4,Not Reported,0,True
+NCT03726658,FG005,0,Overall Study,0,5,Lost to Follow-up,1,True
+NCT03726658,FG005,0,Overall Study,1,5,Withdrawal by Subject,4,True
+NCT03726658,FG005,0,Overall Study,2,5,Pregnancy,0,True
+NCT03726658,FG005,0,Overall Study,3,5,Not Reported,0,True
+NCT03726658,FG006,0,Overall Study,0,6,Lost to Follow-up,1,True
+NCT03726658,FG006,0,Overall Study,1,6,Withdrawal by Subject,2,True
+NCT03726658,FG006,0,Overall Study,2,6,Pregnancy,1,True
+NCT03726658,FG006,0,Overall Study,3,6,Not Reported,1,True
+NCT03866174,FG000,0,Overall Study,0,0,Death in family; participant unable to continue in study,1,True
+NCT03866174,FG000,0,Overall Study,1,0,2 participants did not complete Day 43 assessments. 1 participant did not complete follow-up visits.,0,True
+NCT03866174,FG000,0,Overall Study,2,0,Withdrawal by Subject,0,True
+NCT03866174,FG000,0,Overall Study,3,0,Lost to Follow-up,0,True
+NCT03866174,FG001,0,Overall Study,0,1,Death in family; participant unable to continue in study,0,True
+NCT03866174,FG001,0,Overall Study,1,1,2 participants did not complete Day 43 assessments. 1 participant did not complete follow-up visits.,3,True
+NCT03866174,FG001,0,Overall Study,2,1,Withdrawal by Subject,6,True
+NCT03866174,FG001,0,Overall Study,3,1,Lost to Follow-up,2,True
+NCT03968159,FG000,0,Overall Study,0,0,Adverse Event,4,True
+NCT03968159,FG000,0,Overall Study,1,0,Lost to Follow-up,1,True
+NCT03968159,FG000,0,Overall Study,2,0,Use of prohibited medication,0,True
+NCT03968159,FG000,0,Overall Study,3,0,Protocol Violation,2,True
+NCT03968159,FG000,0,Overall Study,4,0,Withdrawal by Subject,4,True
+NCT03968159,FG000,0,Overall Study,5,0,Lack of Efficacy,0,True
+NCT03968159,FG000,0,Overall Study,6,0,Not further specified,2,True
+NCT03968159,FG001,0,Overall Study,0,1,Adverse Event,4,True
+NCT03968159,FG001,0,Overall Study,1,1,Lost to Follow-up,1,True
+NCT03968159,FG001,0,Overall Study,2,1,Use of prohibited medication,1,True
+NCT03968159,FG001,0,Overall Study,3,1,Protocol Violation,2,True
+NCT03968159,FG001,0,Overall Study,4,1,Withdrawal by Subject,6,True
+NCT03968159,FG001,0,Overall Study,5,1,Lack of Efficacy,1,True
+NCT03968159,FG001,0,Overall Study,6,1,Not further specified,0,True
+NCT04080752,FG000,0,Overall Study,0,0,Adverse Event,2,True
+NCT04080752,FG000,0,Overall Study,1,0,Lack of Efficacy,1,True
+NCT04080752,FG000,0,Overall Study,2,0,Lost to Follow-up,1,True
+NCT04080752,FG000,0,Overall Study,3,0,Pregnancy,0,True
+NCT04080752,FG000,0,Overall Study,4,0,Withdrawal by Subject,7,True
+NCT04080752,FG000,0,Overall Study,5,0,Non-Compliance with Study Drug,0,True
+NCT04080752,FG000,0,Overall Study,6,0,Other,2,True
+NCT04080752,FG001,0,Overall Study,0,1,Adverse Event,3,True
+NCT04080752,FG001,0,Overall Study,1,1,Lack of Efficacy,0,True
+NCT04080752,FG001,0,Overall Study,2,1,Lost to Follow-up,0,True
+NCT04080752,FG001,0,Overall Study,3,1,Pregnancy,1,True
+NCT04080752,FG001,0,Overall Study,4,1,Withdrawal by Subject,0,True
+NCT04080752,FG001,0,Overall Study,5,1,Non-Compliance with Study Drug,1,True
+NCT04080752,FG001,0,Overall Study,6,1,Other,1,True
+NCT04103892,FG000,0,Overall Study,0,0,Adverse Event,0,True
+NCT04103892,FG000,0,Overall Study,1,0,Lost to Follow-up,0,True
+NCT04103892,FG000,0,Overall Study,2,0,Protocol Violation,0,True
+NCT04103892,FG000,0,Overall Study,3,0,Withdrawal by Subject,1,True
+NCT04103892,FG000,0,Overall Study,4,0,Requirement of prohibited concomitant medication,0,True
+NCT04103892,FG001,0,Overall Study,0,1,Adverse Event,0,True
+NCT04103892,FG001,0,Overall Study,1,1,Lost to Follow-up,0,True
+NCT04103892,FG001,0,Overall Study,2,1,Protocol Violation,0,True
+NCT04103892,FG001,0,Overall Study,3,1,Withdrawal by Subject,0,True
+NCT04103892,FG001,0,Overall Study,4,1,Requirement of prohibited concomitant medication,0,True
+NCT04103892,FG002,0,Overall Study,0,2,Adverse Event,0,True
+NCT04103892,FG002,0,Overall Study,1,2,Lost to Follow-up,2,True
+NCT04103892,FG002,0,Overall Study,2,2,Protocol Violation,1,True
+NCT04103892,FG002,0,Overall Study,3,2,Withdrawal by Subject,2,True
+NCT04103892,FG002,0,Overall Study,4,2,Requirement of prohibited concomitant medication,1,True
+NCT04103892,FG003,0,Overall Study,0,3,Adverse Event,3,True
+NCT04103892,FG003,0,Overall Study,1,3,Lost to Follow-up,0,True
+NCT04103892,FG003,0,Overall Study,2,3,Protocol Violation,1,True
+NCT04103892,FG003,0,Overall Study,3,3,Withdrawal by Subject,5,True
+NCT04103892,FG003,0,Overall Study,4,3,Requirement of prohibited concomitant medication,1,True
+NCT04221230,FG000,0,Overall Study,0,0,Lost to Follow-up,12,True
+NCT04221230,FG000,0,Overall Study,1,0,Protocol Violation,2,True
+NCT04221230,FG000,0,Overall Study,2,0,Adverse Event,0,True
+NCT04221230,FG000,0,Overall Study,3,0,Physician Decision,1,True
+NCT04221230,FG000,0,Overall Study,4,0,Withdrawal by Subject,13,True
+NCT04221230,FG000,0,Overall Study,5,0,Non-Compliance with Study Drug,1,True
+NCT04221230,FG000,0,Overall Study,6,0,Unsatisfactory Therapeutic Effect,0,True
+NCT04221230,FG000,0,Overall Study,7,0,Pregnancy,0,True
+NCT04221230,FG000,0,Overall Study,8,0,Other,1,True
+NCT04221230,FG001,0,Overall Study,0,1,Lost to Follow-up,12,True
+NCT04221230,FG001,0,Overall Study,1,1,Protocol Violation,2,True
+NCT04221230,FG001,0,Overall Study,2,1,Adverse Event,8,True
+NCT04221230,FG001,0,Overall Study,3,1,Physician Decision,0,True
+NCT04221230,FG001,0,Overall Study,4,1,Withdrawal by Subject,11,True
+NCT04221230,FG001,0,Overall Study,5,1,Non-Compliance with Study Drug,1,True
+NCT04221230,FG001,0,Overall Study,6,1,Unsatisfactory Therapeutic Effect,1,True
+NCT04221230,FG001,0,Overall Study,7,1,Pregnancy,1,True
+NCT04221230,FG001,0,Overall Study,8,1,Other,2,True
+NCT04244253,FG000,0,Overall Study,0,0,Adverse Event,2,True
+NCT04244253,FG000,0,Overall Study,1,0,Protocol Violation,1,True
+NCT04244253,FG000,0,Overall Study,2,0,Withdrawal by Subject,0,True
+NCT04244253,FG000,0,Overall Study,3,0,Non-Compliance With Study Drug,0,True
+NCT04244253,FG001,0,Overall Study,0,1,Adverse Event,2,True
+NCT04244253,FG001,0,Overall Study,1,1,Protocol Violation,2,True
+NCT04244253,FG001,0,Overall Study,2,1,Withdrawal by Subject,1,True
+NCT04244253,FG001,0,Overall Study,3,1,Non-Compliance With Study Drug,0,True
+NCT04244253,FG002,0,Overall Study,0,2,Adverse Event,4,True
+NCT04244253,FG002,0,Overall Study,1,2,Protocol Violation,1,True
+NCT04244253,FG002,0,Overall Study,2,2,Withdrawal by Subject,6,True
+NCT04244253,FG002,0,Overall Study,3,2,Non-Compliance With Study Drug,1,True
+NCT04338321,FG000,0,Overall Study,0,0,Adverse Event,4,True
+NCT04338321,FG000,0,Overall Study,1,0,Death,1,True
+NCT04338321,FG000,0,Overall Study,2,0,Lost to Follow-up,4,True
+NCT04338321,FG000,0,Overall Study,3,0,Withdrawal by Subject,45,True
+NCT04338321,FG000,0,Overall Study,4,0,Physician Decision,5,True
+NCT04338321,FG000,0,Overall Study,5,0,Other,3,True
+NCT04338321,FG001,0,Overall Study,0,1,Adverse Event,10,True
+NCT04338321,FG001,0,Overall Study,1,1,Death,1,True
+NCT04338321,FG001,0,Overall Study,2,1,Lost to Follow-up,9,True
+NCT04338321,FG001,0,Overall Study,3,1,Withdrawal by Subject,69,True
+NCT04338321,FG001,0,Overall Study,4,1,Physician Decision,9,True
+NCT04338321,FG001,0,Overall Study,5,1,Other,10,True
+NCT04345471,FG000,0,Overall Study,0,0,Adverse Event,8,True
+NCT04345471,FG000,0,Overall Study,1,0,Lack of Efficacy,1,True
+NCT04345471,FG000,0,Overall Study,2,0,Protocol Violation,0,True
+NCT04345471,FG000,0,Overall Study,3,0,Withdrawal by Subject,10,True
+NCT04345471,FG001,0,Overall Study,0,1,Adverse Event,5,True
+NCT04345471,FG001,0,Overall Study,1,1,Lack of Efficacy,1,True
+NCT04345471,FG001,0,Overall Study,2,1,Protocol Violation,1,True
+NCT04345471,FG001,0,Overall Study,3,1,Withdrawal by Subject,5,True
+NCT04345471,FG002,0,Overall Study,0,2,Adverse Event,6,True
+NCT04345471,FG002,0,Overall Study,1,2,Lack of Efficacy,0,True
+NCT04345471,FG002,0,Overall Study,2,2,Protocol Violation,2,True
+NCT04345471,FG002,0,Overall Study,3,2,Withdrawal by Subject,10,True
+NCT04395183,FG000,0,Overall Study,0,0,Withdrawal by Subject,1,True
+NCT04395183,FG001,0,Overall Study,0,1,Withdrawal by Subject,0,True
+NCT04395183,FG002,0,Overall Study,0,2,Withdrawal by Subject,2,True
+NCT04395183,FG003,0,Overall Study,0,3,Withdrawal by Subject,2,True
+NCT04442490,FG000,0,Overall Study,0,0,Withdrawal by Subject,18,True
+NCT04442490,FG000,0,Overall Study,1,0,Lost to Follow-up,7,True
+NCT04442490,FG000,0,Overall Study,2,0,Adverse Event,2,True
+NCT04442490,FG000,0,Overall Study,3,0,Noncompliance,3,True
+NCT04442490,FG000,0,Overall Study,4,0,Physician Decision,2,True
+NCT04442490,FG000,0,Overall Study,5,0,Reason not Specified,2,True
+NCT04442490,FG000,0,Overall Study,6,0,Randomized but not Treated,3,True
+NCT04442490,FG001,0,Overall Study,0,1,Withdrawal by Subject,10,True
+NCT04442490,FG001,0,Overall Study,1,1,Lost to Follow-up,7,True
+NCT04442490,FG001,0,Overall Study,2,1,Adverse Event,6,True
+NCT04442490,FG001,0,Overall Study,3,1,Noncompliance,1,True
+NCT04442490,FG001,0,Overall Study,4,1,Physician Decision,1,True
+NCT04442490,FG001,0,Overall Study,5,1,Reason not Specified,1,True
+NCT04442490,FG001,0,Overall Study,6,1,Randomized but not Treated,3,True
+NCT04476030,FG000,0,Overall Study,0,0,Withdrawal by Subject,20,True
+NCT04476030,FG000,0,Overall Study,1,0,Adverse Event,10,True
+NCT04476030,FG000,0,Overall Study,2,0,Lost to Follow-up,7,True
+NCT04476030,FG000,0,Overall Study,3,0,Physician Decision,1,True
+NCT04476030,FG000,0,Overall Study,4,0,Protocol Deviation,2,True
+NCT04476030,FG000,0,Overall Study,5,0,Non-compliance with Investigational Product (IP),1,True
+NCT04476030,FG000,0,Overall Study,6,0,Randomized but not Dosed,2,True
+NCT04476030,FG001,0,Overall Study,0,1,Withdrawal by Subject,16,True
+NCT04476030,FG001,0,Overall Study,1,1,Adverse Event,11,True
+NCT04476030,FG001,0,Overall Study,2,1,Lost to Follow-up,4,True
+NCT04476030,FG001,0,Overall Study,3,1,Physician Decision,1,True
+NCT04476030,FG001,0,Overall Study,4,1,Protocol Deviation,0,True
+NCT04476030,FG001,0,Overall Study,5,1,Non-compliance with Investigational Product (IP),0,True
+NCT04476030,FG001,0,Overall Study,6,1,Randomized but not Dosed,8,True
+NCT04521478,FG000,0,Overall Study,0,0,Protocol Violation,2,True
+NCT04521478,FG000,0,Overall Study,1,0,Technical Problems,0,True
+NCT04521478,FG000,0,Overall Study,2,0,Burden of Study Procedures,1,True
+NCT04521478,FG000,0,Overall Study,3,0,Lack of Efficacy,0,True
+NCT04521478,FG000,0,Overall Study,4,0,Adverse Event,7,True
+NCT04521478,FG000,0,Overall Study,5,0,No Reason Available,0,True
+NCT04521478,FG000,0,Overall Study,6,0,Other than listed,3,True
+NCT04521478,FG000,0,Overall Study,7,0,Not treated,0,True
+NCT04521478,FG001,0,Overall Study,0,1,Protocol Violation,0,True
+NCT04521478,FG001,0,Overall Study,1,1,Technical Problems,0,True
+NCT04521478,FG001,0,Overall Study,2,1,Burden of Study Procedures,0,True
+NCT04521478,FG001,0,Overall Study,3,1,Lack of Efficacy,0,True
+NCT04521478,FG001,0,Overall Study,4,1,Adverse Event,0,True
+NCT04521478,FG001,0,Overall Study,5,1,No Reason Available,2,True
+NCT04521478,FG001,0,Overall Study,6,1,Other than listed,3,True
+NCT04521478,FG001,0,Overall Study,7,1,Not treated,0,True
+NCT04521478,FG002,0,Overall Study,0,2,Protocol Violation,1,True
+NCT04521478,FG002,0,Overall Study,1,2,Technical Problems,0,True
+NCT04521478,FG002,0,Overall Study,2,2,Burden of Study Procedures,0,True
+NCT04521478,FG002,0,Overall Study,3,2,Lack of Efficacy,0,True
+NCT04521478,FG002,0,Overall Study,4,2,Adverse Event,2,True
+NCT04521478,FG002,0,Overall Study,5,2,No Reason Available,0,True
+NCT04521478,FG002,0,Overall Study,6,2,Other than listed,3,True
+NCT04521478,FG002,0,Overall Study,7,2,Not treated,0,True
+NCT04521478,FG003,0,Overall Study,0,3,Protocol Violation,0,True
+NCT04521478,FG003,0,Overall Study,1,3,Technical Problems,1,True
+NCT04521478,FG003,0,Overall Study,2,3,Burden of Study Procedures,1,True
+NCT04521478,FG003,0,Overall Study,3,3,Lack of Efficacy,0,True
+NCT04521478,FG003,0,Overall Study,4,3,Adverse Event,1,True
+NCT04521478,FG003,0,Overall Study,5,3,No Reason Available,0,True
+NCT04521478,FG003,0,Overall Study,6,3,Other than listed,2,True
+NCT04521478,FG003,0,Overall Study,7,3,Not treated,0,True
+NCT04521478,FG004,0,Overall Study,0,4,Protocol Violation,0,True
+NCT04521478,FG004,0,Overall Study,1,4,Technical Problems,0,True
+NCT04521478,FG004,0,Overall Study,2,4,Burden of Study Procedures,0,True
+NCT04521478,FG004,0,Overall Study,3,4,Lack of Efficacy,1,True
+NCT04521478,FG004,0,Overall Study,4,4,Adverse Event,2,True
+NCT04521478,FG004,0,Overall Study,5,4,No Reason Available,1,True
+NCT04521478,FG004,0,Overall Study,6,4,Other than listed,3,True
+NCT04521478,FG004,0,Overall Study,7,4,Not treated,0,True
+NCT04521478,FG005,0,Overall Study,0,5,Protocol Violation,0,True
+NCT04521478,FG005,0,Overall Study,1,5,Technical Problems,0,True
+NCT04521478,FG005,0,Overall Study,2,5,Burden of Study Procedures,1,True
+NCT04521478,FG005,0,Overall Study,3,5,Lack of Efficacy,1,True
+NCT04521478,FG005,0,Overall Study,4,5,Adverse Event,7,True
+NCT04521478,FG005,0,Overall Study,5,5,No Reason Available,0,True
+NCT04521478,FG005,0,Overall Study,6,5,Other than listed,3,True
+NCT04521478,FG005,0,Overall Study,7,5,Not treated,1,True
+NCT04985942,FG000,0,Overall Study,0,0,Adverse Event,14,True
+NCT04985942,FG000,0,Overall Study,1,0,Lack of Efficacy,0,True
+NCT04985942,FG000,0,Overall Study,2,0,Lost to Follow-up,1,True
+NCT04985942,FG000,0,Overall Study,3,0,Protocol Violation,1,True
+NCT04985942,FG000,0,Overall Study,4,0,Withdrawal by Subject,5,True
+NCT04985942,FG001,0,Overall Study,0,1,Adverse Event,2,True
+NCT04985942,FG001,0,Overall Study,1,1,Lack of Efficacy,3,True
+NCT04985942,FG001,0,Overall Study,2,1,Lost to Follow-up,1,True
+NCT04985942,FG001,0,Overall Study,3,1,Protocol Violation,1,True
+NCT04985942,FG001,0,Overall Study,4,1,Withdrawal by Subject,4,True
+NCT05061706,FG000,0,Overall Study,0,0,Adverse Event,29,True
+NCT05061706,FG000,0,Overall Study,1,0,Lack of Efficacy,0,True
+NCT05061706,FG000,0,Overall Study,2,0,Lost to Follow-up,2,True
+NCT05061706,FG000,0,Overall Study,3,0,Protocol Violation,3,True
+NCT05061706,FG000,0,Overall Study,4,0,Withdrawal by Subject,3,True
+NCT05061706,FG001,0,Overall Study,0,1,Adverse Event,1,True
+NCT05061706,FG001,0,Overall Study,1,1,Lack of Efficacy,1,True
+NCT05061706,FG001,0,Overall Study,2,1,Lost to Follow-up,2,True
+NCT05061706,FG001,0,Overall Study,3,1,Protocol Violation,1,True
+NCT05061706,FG001,0,Overall Study,4,1,Withdrawal by Subject,9,True
+NCT05165394,FG000,0,Overall Study,0,0,Withdrawal by Subject,5,True
+NCT05165394,FG000,0,Overall Study,1,0,Lost to Follow-up,1,True
+NCT05165394,FG000,0,Overall Study,2,0,Other Than Specified,0,True
+NCT05165394,FG001,0,Overall Study,0,1,Withdrawal by Subject,1,True
+NCT05165394,FG001,0,Overall Study,1,1,Lost to Follow-up,2,True
+NCT05165394,FG001,0,Overall Study,2,1,Other Than Specified,1,True
+NCT05455684,FG000,0,Overall Study,0,0,Withdrawal by Subject,7,True
+NCT05455684,FG000,0,Overall Study,1,0,Lost to Follow-up,3,True
+NCT05455684,FG000,0,Overall Study,2,0,Adverse Event,2,True
+NCT05455684,FG000,0,Overall Study,3,0,Protocol Violation,1,True
+NCT05455684,FG000,0,Overall Study,4,0,Non-Compliant with study drug,0,True
+NCT05455684,FG000,0,Overall Study,5,0,Other,1,True
+NCT05455684,FG000,0,Overall Study,6,0,Randomized but not treated,1,True
+NCT05455684,FG001,0,Overall Study,0,1,Withdrawal by Subject,4,True
+NCT05455684,FG001,0,Overall Study,1,1,Lost to Follow-up,3,True
+NCT05455684,FG001,0,Overall Study,2,1,Adverse Event,3,True
+NCT05455684,FG001,0,Overall Study,3,1,Protocol Violation,1,True
+NCT05455684,FG001,0,Overall Study,4,1,Non-Compliant with study drug,1,True
+NCT05455684,FG001,0,Overall Study,5,1,Other,2,True
+NCT05455684,FG001,0,Overall Study,6,1,Randomized but not treated,0,True
+NCT05550532,FG000,0,Overall Study,0,0,Withdrawal by Subject,8,True
+NCT05550532,FG000,0,Overall Study,1,0,Adverse Event,2,True
+NCT05550532,FG000,0,Overall Study,2,0,Lost to Follow-up,4,True
+NCT05550532,FG000,0,Overall Study,3,0,Other,0,True
+NCT05550532,FG001,0,Overall Study,0,1,Withdrawal by Subject,3,True
+NCT05550532,FG001,0,Overall Study,1,1,Adverse Event,3,True
+NCT05550532,FG001,0,Overall Study,2,1,Lost to Follow-up,0,True
+NCT05550532,FG001,0,Overall Study,3,1,Other,4,True
+NCT06280235,FG000,0,Overall Study,0,0,Adverse Event,0,True
+NCT06280235,FG000,0,Overall Study,1,0,Perceived lack of efficacy,0,True
+NCT06280235,FG000,0,Overall Study,2,0,Change of residence,2,True
+NCT06280235,FG000,0,Overall Study,3,0,Protocol deviation,1,True
+NCT06280235,FG000,0,Overall Study,4,0,Other than listed,0,True
+NCT06280235,FG000,0,Overall Study,5,0,No reason available,0,True
+NCT06280235,FG001,0,Overall Study,0,1,Adverse Event,2,True
+NCT06280235,FG001,0,Overall Study,1,1,Perceived lack of efficacy,1,True
+NCT06280235,FG001,0,Overall Study,2,1,Change of residence,1,True
+NCT06280235,FG001,0,Overall Study,3,1,Protocol deviation,0,True
+NCT06280235,FG001,0,Overall Study,4,1,Other than listed,1,True
+NCT06280235,FG001,0,Overall Study,5,1,No reason available,0,True
+NCT06280235,FG002,0,Overall Study,0,2,Adverse Event,2,True
+NCT06280235,FG002,0,Overall Study,1,2,Perceived lack of efficacy,0,True
+NCT06280235,FG002,0,Overall Study,2,2,Change of residence,0,True
+NCT06280235,FG002,0,Overall Study,3,2,Protocol deviation,0,True
+NCT06280235,FG002,0,Overall Study,4,2,Other than listed,0,True
+NCT06280235,FG002,0,Overall Study,5,2,No reason available,1,True
+NCT06280235,FG003,0,Overall Study,0,3,Adverse Event,2,True
+NCT06280235,FG003,0,Overall Study,1,3,Perceived lack of efficacy,0,True
+NCT06280235,FG003,0,Overall Study,2,3,Change of residence,0,True
+NCT06280235,FG003,0,Overall Study,3,3,Protocol deviation,1,True
+NCT06280235,FG003,0,Overall Study,4,3,Other than listed,3,True
+NCT06280235,FG003,0,Overall Study,5,3,No reason available,2,True
+NCT06340958,FG000,0,Overall Study,0,0,Adverse Event,4,True
+NCT06340958,FG000,0,Overall Study,1,0,Lost to Follow-up,1,True
+NCT06340958,FG000,0,Overall Study,2,0,Withdrawal by Subject,3,True
+NCT06340958,FG000,0,Overall Study,3,0,Non compliance with study drug,1,True
+NCT06340958,FG000,0,Overall Study,4,0,Protocol specified withdrawal criterion met,1,True
+NCT06340958,FG001,0,Overall Study,0,1,Adverse Event,1,True
+NCT06340958,FG001,0,Overall Study,1,1,Lost to Follow-up,4,True
+NCT06340958,FG001,0,Overall Study,2,1,Withdrawal by Subject,1,True
+NCT06340958,FG001,0,Overall Study,3,1,Non compliance with study drug,1,True
+NCT06340958,FG001,0,Overall Study,4,1,Protocol specified withdrawal criterion met,0,True
+NCT06558344,FG000,0,Overall Study,0,0,No reason available,2,True
+NCT06558344,FG000,0,Overall Study,1,0,Other reason than listed,5,True
+NCT06558344,FG000,0,Overall Study,2,0,Protocol deviation,2,True
+NCT06558344,FG000,0,Overall Study,3,0,Burden of study procedures,1,True
+NCT06558344,FG000,0,Overall Study,4,0,Change of residence,0,True
+NCT06558344,FG000,0,Overall Study,5,0,Perceived lack of efficacy,1,True
+NCT06558344,FG000,0,Overall Study,6,0,Adverse Event,2,True
+NCT06558344,FG001,0,Overall Study,0,1,No reason available,4,True
+NCT06558344,FG001,0,Overall Study,1,1,Other reason than listed,1,True
+NCT06558344,FG001,0,Overall Study,2,1,Protocol deviation,0,True
+NCT06558344,FG001,0,Overall Study,3,1,Burden of study procedures,0,True
+NCT06558344,FG001,0,Overall Study,4,1,Change of residence,1,True
+NCT06558344,FG001,0,Overall Study,5,1,Perceived lack of efficacy,0,True
+NCT06558344,FG001,0,Overall Study,6,1,Adverse Event,0,True
+NCT06558344,FG002,0,Overall Study,0,2,No reason available,0,True
+NCT06558344,FG002,0,Overall Study,1,2,Other reason than listed,1,True
+NCT06558344,FG002,0,Overall Study,2,2,Protocol deviation,1,True
+NCT06558344,FG002,0,Overall Study,3,2,Burden of study procedures,2,True
+NCT06558344,FG002,0,Overall Study,4,2,Change of residence,0,True
+NCT06558344,FG002,0,Overall Study,5,2,Perceived lack of efficacy,0,True
+NCT06558344,FG002,0,Overall Study,6,2,Adverse Event,2,True
+NCT06558344,FG003,0,Overall Study,0,3,No reason available,1,True
+NCT06558344,FG003,0,Overall Study,1,3,Other reason than listed,3,True
+NCT06558344,FG003,0,Overall Study,2,3,Protocol deviation,1,True
+NCT06558344,FG003,0,Overall Study,3,3,Burden of study procedures,0,True
+NCT06558344,FG003,0,Overall Study,4,3,Change of residence,0,True
+NCT06558344,FG003,0,Overall Study,5,3,Perceived lack of efficacy,0,True
+NCT06558344,FG003,0,Overall Study,6,3,Adverse Event,2,True

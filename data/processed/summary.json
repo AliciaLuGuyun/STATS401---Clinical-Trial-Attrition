@@ -1,0 +1,30 @@
+{
+  "raw_snapshot": "data/raw/2026-09-13",
+  "retrieved_start_utc": "2026-09-13T15:20:22.723422+00:00",
+  "candidate_count": 335,
+  "sequential_filters": {
+    "candidates": 335,
+    "completed": 335,
+    "interventional": 335,
+    "phase_II_or_III": 335,
+    "randomized": 270,
+    "parallel": 252,
+    "has_results": 252,
+    "explicit_major_depression": 211,
+    "no_mixed_bipolar_schizophrenia": 201
+  },
+  "eligible_trials": 201,
+  "single_period_arm_rows": 403,
+  "single_period_reason_rows": 1896,
+  "usable_trials": 82,
+  "usable_arms": 221,
+  "paired_trials": 38,
+  "qc_flags": {
+    "arm_mapping_review_needed": 106,
+    "multiple_periods_review_needed": 51
+  },
+  "reason_reconciliation": {
+    "True": 152,
+    "None": 69
+  }
+}

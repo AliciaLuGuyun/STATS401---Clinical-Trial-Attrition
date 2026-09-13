@@ -1,0 +1,336 @@
+nct_id,title,conditions,eligible,exclusion_flags,period_count
+NCT00027378,Pharmacological Intervention Project (Fluoxetine),Alcoholism | Depression,False,explicit_major_depression,1
+NCT00043550,Treatments for Depression: Drug Versus Psychotherapy,Depression,False,explicit_major_depression,1
+NCT00056472,Study of Pharmacotherapy of Psychotic Depression,Major Depressive Disorder With Psychotic Features,True,,1
+NCT00071110,Electroacupuncture for Major Depression,Depression | Depressive Disorder,False,explicit_major_depression,1
+NCT00078715,Rapid Antidepressant Effects of Yohimbine in Major Depression,"Depression, Involutional | Major Depresssion",False,parallel,2
+NCT00086307,Lexapro and Pramipexole and to Treat Major Depression,Major Depression,True,,1
+NCT00088699,Rapid Antidepressant Effects of Ketamine in Major Depression,Depression | Mood Disorders | Major Depresssion,False,parallel,2
+NCT00105196,A Study of Aripiprazole in Patients With Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT00105989,Duloxetine Versus Placebo in the Prevention of Recurrence of Major Depressive Disorder,"Depressive Disorder, Major",True,,3
+NCT00107120,The Safety and Efficacy of Escitalopram in Pediatric Patients With Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT00125957,The Effects of Wellbutrin (Bupropion) on Residual and Cognitive Symptoms in SSRI-treated Depression,Depression | Major Depressive Disorder | Unipolar Depression,False,parallel,2
+NCT00135512,Study Of 323U66 SR In Major Depressive Disorder,Depressive Disorder,False,randomized;parallel;explicit_major_depression,1
+NCT00149643,Effectiveness of Fluoxetine in Young People for the Treatment of Major Depression and Marijuana Dependence,"Depressive Disorder, Major | Cannabis Abuse",True,,1
+NCT00149825,Combining Antidepressant Medication and Psychotherapy for Insomnia to Improve Depression Outcome,Major Depressive Disorder | Insomnia,True,,1
+NCT00166296,Efficacy and Safety of Escitalopram for Prevention of Depression Induced by Peg-Interferon in Hepatitis C Patients,"Major Depressive Disorder | Hepatitis C, Chronic",True,,1
+NCT00167310,Decreasing Risk of Coronary Artery Disease in Schizophrenia by Omega-3 Fatty Acid Supplementation,Schizophrenia | Schizoaffective Disorder | Major Depression | Bipolar Disorder | Coronary Artery Disease,False,no_mixed_bipolar_schizophrenia,1
+NCT00296725,Dichotic Listening as a Predictor of Medication Response in Depression,Major Depression | Dysthymia | Depressive Disorder Not Otherwise Specified,False,randomized;parallel,2
+NCT00330616,Study Of Bupropion SR (323U66) In Patients With Major Depressive Disorder In Japan,Major Depressive Disorder (MDD),False,randomized;parallel,1
+NCT00331799,Pilot Study of Duloxetine in Psychological Resilience,Major Depressive Disorder,False,randomized;parallel,1
+NCT00340379,Ziprasidone vs. Sertraline/Haloperidol in Psychotic Depression,Affective Disorders,False,explicit_major_depression,1
+NCT00357097,The Effects Of Ropinirole On Mood Or Mild Depression In Patients With Moderate To Severe Restless Legs Syndrome,Restless Legs Syndrome | Moderate to Severe Idiopathic Restless Legs Syndrome (RLS),False,explicit_major_depression,1
+NCT00361218,Biological Markers of Response to Treatment in Major Depressive Disorder,Major Depressive Disorder,False,randomized;parallel,1
+NCT00361374,"Safety and Effectiveness of Omega 3-Fatty Acids, EPA Versus DHA, for the Treatment of Major Depression",Major Depressive Disorder,True,,1
+NCT00369343,Study Evaluating Desvenlafaxine Succinate Sustained Release (DVS SR) Versus Placebo in Peri- and Postmenopausal Women,"Depression | Depressive Disorder | Depressive Disorder, Major",True,,2
+NCT00384033,Study Evaluating Desvenlafaxine Succinate Sustained Release (DVS SR) In The Treatment Of Major Depressive Disorder,"Depressive Disorder, Major",True,,1
+NCT00388973,Efficacy and Safety Study of Seroquel SR in the Treatment of Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT00406640,Study Evaluating Desvenlafaxine Succinate Sustained Release (DVS SR) vs. Escitalopram in Postmenopausal Women,"Depression | Depressive Disorder | Depressive Disorder, Major",False,parallel,3
+NCT00420004,A Study for Participants With Major Depression,Major Depressive Disorder,True,,1
+NCT00420641,MDD POC Study GSK372475 Subjects Depressive Disease,Depressive Disorder,False,explicit_major_depression,1
+NCT00421954,Open-label Ziprasidone Study for Psychosis Treatment in Adolescents,"Schizophreniform Disorder | Schizoaffective Disorder | Psychosis | Depressive Disorder, Major | Bipolar Disorder",False,randomized;parallel;no_mixed_bipolar_schizophrenia,1
+NCT00445679,Paroxetine-referenced Study Evaluating Three Doses of DVS SR in Outpatients With MDD,"Depressive Disorder, Major",True,,1
+NCT00481195,Armodafinil Treatment as Adjunctive Therapy in Adults With Major Depression Associated With Bipolar I Disorder,Bipolar I Depression,False,explicit_major_depression;no_mixed_bipolar_schizophrenia,1
+NCT00481988,Treating Depression With Transcranial Direct Current Stimulation (tDCS),Depression,False,explicit_major_depression,1
+NCT00490542,Safety Study of Ziprasidone (Geodon) for the Depressive Mixed State,Bipolar Disorder | Bipolar Depression | Depression,False,explicit_major_depression;no_mixed_bipolar_schizophrenia,1
+NCT00497874,An Expert System to Reduce Depression in Primary Care,"Depression | Depressive Disorder, Major",True,,1
+NCT00498706,Effectiveness of Telephone Versus Face-to-Face CBT in Treating People With Depression,Depression,False,explicit_major_depression,1
+NCT00511810,Omega-3 Fatty Acids as Adjunct Treatment for Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT00521352,Repetitive Transcranial Magnetic Stimulation (rTMS) in the Treatment of Panic Disorder With Comorbid Major Depression,Panic Disorder | Major Depressive Disorder,True,,1
+NCT00524420,Transcranial Magnetic Stimulation for Treating Women With Chronic Widespread Pain,Fibromyalgia | Chronic Pain | Depression,False,explicit_major_depression,1
+NCT00529789,Open-Label Study of Duloxetine in the Treatment of Children and Adolescents With Major Depressive Disorder,Major Depressive Disorder,False,randomized;parallel,2
+NCT00555997,"A 12-Week, Placebo Controlled Trial of Ziprasidone as Monotherapy for Major Depressive Disorder",Major Depressive Disorder,True,,2
+NCT00556140,The Combination of Aripiprazole and Antidepressants in Psychotic Major Depression,Psychotic Depression,False,randomized;parallel;explicit_major_depression,1
+NCT00566735,The Use of Galantamine HBr (Reminyl) in Electroconvulsive Therapy: Impact on Mood and Cognitive Functioning,Major Depression | Bipolar Depression | Schizoaffective Disorder,False,no_mixed_bipolar_schizophrenia,1
+NCT00578669,Sequential Use of Fluoxetine for Smokers With Elevated Depressive Symptoms,Major Depressive Disorder | Nicotine Dependence | Depression,True,,1
+NCT00581009,The Role of Dopamine Metabolism in the Antidepressant Effects of Sleep Deprivation and Sertraline in Depressed Patients,Major Depressive Disorder | Bipolar Disorder,False,no_mixed_bipolar_schizophrenia,1
+NCT00596817,Efficacy of Vortioxetine (Lu AA21004) in the Prevention of Relapse of Major Depressive Episodes,Major Depressive Disorder,True,,3
+NCT00610649,"Trial to Determine the Maximum Tolerated Dose (MTD) Based on Safety and Tolerability, of Org 26576 in Participants With Major Depressive Disorder (174001/P05704/MK-8777-001)",Depression,False,explicit_major_depression,1
+NCT00612807,Treatment of Mood and Marriage Study (TOMMS),Major Depressive Disorder | Partner Relational Disorder (V61.10),True,,1
+NCT00619619,Study Evaluating Desvenlafaxine Succinate Sustained-Release (DVS SR) In The Treatment Of Child And Adolescent Outpatients With Major Depressive Disorder,Depression | Major Depressive Disorder,False,parallel,1
+NCT00633399,Ziprasidone Augmentation of SSRIs for Patients With Major Depressive Disorder (MDD) That do Not Sufficiently Respond to Treatment With SSRIs,Major Depressive Disorder,True,,1
+NCT00635219,"Randomised Placebo-controlled Duloxetine-referenced Efficacy and Safety Study of 2.5, 5 and 10 mg of Vortioxetine (Lu AA21004) in Acute Treatment of Major Depressive Disorder",Major Depressive Disorder,True,,1
+NCT00644358,A One Year Open Label Study Assessing the Safety and Tolerability of Vilazodone in Patients With Major Depressive Disorder (MDD),Major Depressive Disorder,False,randomized;parallel,1
+NCT00655057,Effects of Antidepressant Therapy on Brain Dopamine Transporter Activity in People With Major Depression,Depression,False,explicit_major_depression,1
+NCT00668525,Escitalopram in Adult Patients With Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT00669110,Study Evaluating Desvenlafaxine Succinate Sustained-Release Tablets (DVS SR) In The Treatment Of Child and Adolescent Outpatients With Major Depressive Disorder,"Depressive Disorder, Major Depressive Disorder",False,parallel,1
+NCT00671515,Pioglitazone for the Treatment of Major Depressive Disorder Comorbid With Metabolic Syndrome,"Depressive Disorder, Major | Metabolic Syndrome X",False,randomized;parallel,2
+NCT00672620,Efficacy and Safety of Vortioxetine (Lu AA21004) in the Treatment of Patients With Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT00672958,Efficacy and Safety of Vortioxetine (Lu AA21004) in Treating Adults With Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT00683592,"Randomized, Double-Blind, Placebo Controlled Study of Vilazodone's Efficacy, Safety, and Biomarkers of Response in Major Depressive Disorder (MDD)",Major Depressive Disorder,True,,1
+NCT00683852,"A Double-Blind, Placebo-Controlled Study of Aripiprazole Adjunctive to Antidepressant Therapy",Major Depressive Disorder,True,,2
+NCT00694304,"Open-label Safety Extension Study of 2.5, 5 and 10 mg of Vortioxetine (Lu AA21004) in Long-term Treatment of Major Depressive Disorder in Adults",Major Depressive Disorder,False,randomized;parallel,1
+NCT00705003,Efficacy and Safety Study of a Combination Product [Drug:BCI-024 (Buspirone) and Drug:BCI-049 (Melatonin)] to Treat Major Depressive Disorder (MDD),Major Depressive Disorder,True,,2
+NCT00707980,Safety and Tolerability of Vortioxetine (Lu AA21004) in Adults With Major Depressive Disorder,Major Depressive Disorder,False,randomized;parallel,1
+NCT00731653,Open Label Extension Assessing the Tolerability of BCI-024 in Combination With BCI-049 in Patients With Major Depressive Disorder (MDD),Major Depressive Disorder,False,randomized,1
+NCT00733980,A Study of the Effects of a New Antidepressant Treatment (GSK561679) in Females With Major Depressive Disorder,"Depressive Disorder, Major",True,,1
+NCT00735709,Efficacy Study of Vortioxetine (Lu AA21004) in Adults With Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT00739908,A Study of CX157 (TriRima) for the Treatment of Depression,Major Depressive Disorder,True,,1
+NCT00742573,Incorporating Patient Treatment Choice to Improve Treatment Retention in Depressed Hispanics,Major Depressive Disorder,True,,1
+NCT00759395,"Study of Antidepressant Efficacy of a Selective, High Affinity Enkephalinergic Agonist in Anxious Major Depressive Disorder (AMDD)",Anxious Major Depressive Disorder,True,,1
+NCT00761306,Open-label Safety Extension Study of 5 and 10 mg of Vortioxetine (Lu AA21004) in Long-term Treatment of Major Depressive Disorder in Adults,Major Depressive Disorder,False,randomized;parallel,1
+NCT00768430,Optimization of IV Ketamine for Treatment Resistant Depression,Major Depressive Disorder (MDD) | Treatment Resistant Depression (TRD),True,,2
+NCT00775203,"A Randomized, Double-blind, Two-arm Study Comparing the Efficacy and Safety of Trazodone Contramid® OAD and Placebo in the Treatment of Unipolar Major Depressive Disorder.",Major Depressive Disorder,True,,1
+NCT00789854,Comparing Quetiapine XR Monotherapy and Augmentation With Lithium Augmentation in TRD Patients,Major Depressive Disorder | Treatment Resistant Depression,True,,1
+NCT00795821,A Study in Adult Patients With Major Depressive Disorder,"Depressive Disorder, Major",True,,3
+NCT00797966,Study of the Safety and Efficacy of OPC-34712 as Adjunctive Therapy in the Treatment of Patients With Major Depressive Disorder,Major Depressive Disorder,True,,3
+NCT00798707,Study Evaluating Desvenlafaxine Succinate Sustained Release (DVS SR) in the Treatment of Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT00807248,Short-term Study of Combination Treatment of Escitalopram and Gaboxadol in Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT00811252,Randomised Placebo-controlled Duloxetine-referenced Study of Efficacy and Safety of 5 mg of Vortioxetine (Lu AA21004) in Acute Treatment of Major Depressive Disorder in Elderly Patients,Major Depressive Disorder,True,,1
+NCT00824291,Study Evaluating Desvenlafaxine Succinate Sustained Release In Outpatients With Major Depressive Disorder,"Depressive Disorder, Major",True,,1
+NCT00831415,Study Evaluating Long-Term Safety of Desvenlafaxine Succinate Sustained Release With Japanese Adult Subjects in Major Depressive Disorder (MDD),Major Depressive Disorder,False,randomized;parallel,1
+NCT00839423,Randomised Placebo-controlled Venlafaxine-referenced Study of Efficacy and Safety of 5 and 10 mg of Vortioxetine (Lu AA21004) in Acute Treatment of Major Depressive Disorder in Adults,Major Depressive Disorder,True,,1
+NCT00840034,A Study of Adjunctive Treatment to Antidepressant Therapy for Adults With Major Depressive Disorder,"Depressive Disorder, Major",True,,2
+NCT00849693,A Study in the Treatment of Children and Adolescents With Major Depressive Disorder,Major Depressive Disorder,True,,2
+NCT00849901,A Study in the Treatment of Children and Adolescents With Major Depressive Disorder,Major Depressive Disorder,True,,2
+NCT00851006,Creatine Treatment for Female Adolescents With Depression Who Are Non-Responders to Fluoxetine or Escitalopram,Major Depressive Disorder,False,randomized;parallel,1
+NCT00852592,Light Therapy for Bipolar Disorder. Efficacy of Light Therapy for Bipolar Depression: A Randomized Controlled Trial,Bipolar Disorder | Major Depressive Episode,False,no_mixed_bipolar_schizophrenia,1
+NCT00854100,Safety and Efficacy of Cariprazine As Adjunctive Therapy In Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT00863798,Study Evaluating Desvenlafaxine Succinate Sustained Release In Adults With Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT00866294,"Controlled-release Paroxetine in Major Depressive Disorder (Double-blind, Placebo-controlled Study)",Depressive Disorder,False,explicit_major_depression,1
+NCT00876343,Study of Aripiprazole as an Adjunctive Therapy in Patients With Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT00882362,Long-Term Administration Study of Aripiprazole as an Adjunctive Therapy in Patients With Major Depressive Disorder,Major Depressive Disorder,False,randomized;parallel,1
+NCT00887224,Relapse Prevention Study Of Desvenlafaxine Succinate Sustained Release In Outpatients With Major Depressive Disorder,Major Depressive Disorder,True,,7
+NCT00896363,Safety and Efficacy Study in Patients With Major Depressive Disorder,Depressive Disorder,False,explicit_major_depression,1
+NCT00905424,Exploratory Study of SPD489 in Adults With Major Depressive Disorder (MDD) as Augmentation Therapy to an Antidepressant,Major Depressive Disorder,True,,1
+NCT00962598,The Role Of Omega-3 Fatty Acids In Adolescent Depression,"Depressive Disorder, Major",True,,1
+NCT00965497,Escitalopram (Lexapro) for Depression MS or ALS,Major Depression | Multiple Sclerosis | Amyotrophic Lateral Sclerosis,False,randomized;parallel,1
+NCT00969150,Safety and Efficacy of Levomilnacipran ER (F2695 SR) in Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT00969709,Safety and Efficacy of Levomilnacipran ER (F2695 SR) in Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT00976560,Clinical Study to Test a New Drug to Treat Major Depression,"Depressive Disorder, Major",True,,1
+NCT00985725,SPD489 in Adults With Persistent Executive Function Impairments (EFI) and Partial or Full Remission of Recurrent Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT00986479,This is a Study to Determine the Antidepressant Effects of AZD6765,Treatment Resistant Major Depressive Disorder,False,parallel,2
+NCT01020799,AZD7268 Safety and Tolerability Study,Major Depressive Disorder,True,,1
+NCT01034462,Safety and Efficacy of Levomilnacipran ER (F2695 SR) in Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT01052077,Study of the Safety and Efficacy of OPC-34712 as Adjunctive Therapy in the Treatment of Adults With Major Depressive Disorder,Major Depressive Disorder,True,,3
+NCT01071538,Buprenorphine for Late-Life Treatment Resistant Depression,Depression,False,randomized;parallel;explicit_major_depression,1
+NCT01072630,Study to Evaluate the Efficacy and Safety of Armodafinil Treatment as Adjunctive Therapy in Adults With Major Depression Associated With Bipolar I Disorder,Depression,False,explicit_major_depression,1
+NCT01072929,A Study to Evaluate the Efficacy and Safety of Armodafinil Treatment as Adjunctive Therapy in Adults With Major Depression Associated With Bipolar I Disorder,Depression,False,explicit_major_depression,1
+NCT01085812,Relapse-Prevention Study With Levomilnacipran ER (F2695 SR) in Patients With Major Depressive Disorder,Depression | Major Depressive Disorder,True,,3
+NCT01098318,Rhodiola Rosea Therapy of Major Depressive Disorder,Depression,False,explicit_major_depression,1
+NCT01103271,Pilot Study of Open-label Placebo to Treat Major Depressive Disorder,Major Depressive Disorder,False,parallel,1
+NCT01138007,A Fixed Dose Study of 323U66 SR in the Treatment of Major Depressive Disorder (MDD),"Depressive Disorder, Major",True,,1
+NCT01140906,Randomised Placebo-controlled Duloxetine-referenced Study of Efficacy and Safety of 15 and 20 mg of Vortioxetine (Lu AA21004) in Acute Treatment of Major Depressive Disorder in Adults,Major Depressive Disorder,True,,1
+NCT01152554,A Study to Assess the Long- Term Safety of TC-5214 as an Adjunct Therapy in Patients With Major Depressive Disorder,Major Depressive Disorder | MDD | Depression,True,,1
+NCT01152996,Safety and Tolerability of Vortioxetine (LuAA21004) - Open Label Extension Study,"Depressive Disorder, Major",False,randomized;parallel,1
+NCT01153009,Safety and Efficacy of Vortioxetine (Lu AA21004) in Adults With Major Depressive Disorder,"Depressive Disorder, Major",True,,1
+NCT01153347,A Study to Assess the Efficacy and Safety of TC-5214 as an Adjunct Therapy in Patients With Major Depressive Disorder,Major Depressive Disorder | Depression,True,,1
+NCT01155661,A Safety Study in Participants With Major Depressive Disorder,"Depressive Disorder, Major",False,randomized;parallel,1
+NCT01157078,A Study to Assess the Efficacy and Safety of TC-5214 as an Adjunct Therapy in Patients With Major Depressive Disorder (MDD),Major Depressive Disorder | Depression,True,,1
+NCT01163266,Efficacy and Safety Study of Vortioxetine (Lu AA21004) in Adults With Major Depressive Disorder,"Depressive Disorder, Major",True,,1
+NCT01173601,A Fixed Dose Study of Adjunctive Treatment to Antidepressant Therapy for Adults With Major Depressive Disorder,Major Depressive Disorder,True,,2
+NCT01179516,Safety and Efficacy Study of Vortioxetine (Lu AA21004) in Adults With Major Depressive Disorder,"Depressive Disorder, Major",True,,1
+NCT01180400,A Study to Assess the Efficacy and Safety of TC-5214 as an Adjunct Therapy in Patients With Major Depressive Disorder,Major Depressive Disorder | Depression,True,,1
+NCT01185340,A Study in Participants With Major Depressive Disorder Who Are Partial Responders to Selective Serotonin Reuptake Inhibitor,Major Depressive Disorder,True,,2
+NCT01187407,A Study of Flexible or Fixed Dose LY2216684 as Adjunctive Treatment for Participants With Major Depressive Disorder Who Have Had a Partial Response to Selective Serotonin Reuptake Inhibitor (SSRI) Treatment,Major Depressive Disorder (MDD),True,,2
+NCT01189812,Safety and Efficacy Study of Citalopram and Lithium for the Treatment of Depressive Mood Disorder Symptoms,Major Depressive Disorder | Dysthymia | Depression Not Otherwise Specified | Borderline Personality Disorder,True,,1
+NCT01197508,A Study to Assess the Efficacy and Safety of TC-5214 as an Adjunct Therapy in Patients With Major Depressive Disorder.,Major Depressive Disorder,True,,1
+NCT01204918,Efficacy and Tolerability of Riluzole in Treatment Resistant Depression,Depression,False,explicit_major_depression,1
+NCT01254305,Safety and Efficacy of Levomilnacipran ER (F2695 SR) in Adults With Fatigue Associated With Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT01255787,Efficacy and Safety Study of Vortioxetine (Lu AA21004) for Treatment of Major Depressive Disorder,"Depressive Disorder, Major",True,,1
+NCT01259427,Reducing Internalized Stigma in People With Serious Mental Illness,Schizophrenia | Schizoaffective Disorder | Bipolar Disorder | Major Depression With Psychotic Features,False,no_mixed_bipolar_schizophrenia,1
+NCT01299272,A Study in Prevention of Re-emergence of Depression Symptoms,Major Depressive Disorder,True,,3
+NCT01305408,Study to Evaluate the Efficacy and Safety of Armodafinil Treatment (150 mg/Day) as Adjunctive Therapy in Adults With Major Depression Associated With Bipolar I Disorder,Depression,False,explicit_major_depression,1
+NCT01312922,Pipamperone/Citalopram (PNB01) Versus Citalopram (CIT) and Versus Pipamperone (PIP) in Major Depressive Disorder (MDD),Major Depressive Disorder,True,,1
+NCT01323478,Open-label Safety Extension Study of 15 and 20 mg of Vortioxetine (Lu AA21004) in Long-term Treatment of Major Depressive Disorder in Adults,Major Depressive Disorder,False,randomized;parallel,1
+NCT01355081,Efficacy Study of Vortioxetine (Lu AA21004) for Treatment of Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT01360632,Study of the Safety and Efficacy of Two Fixed Doses of OPC-34712 as Adjunctive Therapy in the Treatment of Adults With Major Depressive Disorder (the Polaris Trial),"Depressive Disorder | Depression | Depressive Disorder, Major | Mood Disorders | Mental Disorders",True,,3
+NCT01360645,Study of the Safety and Efficacy of Fixed Dose OPC-34712 as Adjunctive Therapy in the Treatment of Adults With Major Depressive Disorder (the Pyxis Trial),"Depressive Disorder | Depression | Depressive Disorder, Major | Mood Disorders | Mental Disorders",True,,3
+NCT01360866,Safety and Tolerability of Oral OPC-34712 as Adjunctive Therapy in Adults With Major Depressive Disorder (the Orion Trial),"Depressive Disorder | Depression | Depressive Disorder, Major | Mood Disorders | Mental Disorders",False,randomized;parallel,1
+NCT01364649,Vortioxetine (Lu AA21004) 10 and 20 mg for Treatment of Major Depressive Disorder With Sexual Dysfunction,Treatment Outcome,False,explicit_major_depression,1
+NCT01368432,Lexapro for the Treatment of Traumatic Brain Injury (TBI) Depression & Other Psychiatric Conditions,TBI | Major Depression | Other Psychiatric Disorders,True,,1
+NCT01370499,A Study of LY2216684 in Participants With Major Depression Disorder,Major Depressive Disorder,False,randomized;parallel,1
+NCT01370733,Synchronized Transcranial Magnetic Stimulation (sTMS) in Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT01371708,"A 6-Month Extension Study To The B2061032 Study To Evaluate The Safety, Tolerability, And Efficacy Of DVS SR In The Treatment Of Child And Adolescent Outpatients With MDD",Major Depressive Disorder,False,randomized;parallel,1
+NCT01371721,"A 6-Month Open-Label Extension Study to the B2061014 Study to Evaluate the Safety, Tolerability and Efficacy of DVS SR in the Treatment of Children and Adolescents With MDD",Major Depressive Disorder,False,randomized;parallel,1
+NCT01371734,A Study Of DVS SR In Treatment Of Children And Adolescent Outpatients With MDD,Major Depressive Disorder,True,,1
+NCT01372150,A Study Of DVS SR In Treatment Of Children And Adolescent Outpatients With MDD,Major Depressive Disorder,True,,1
+NCT01377194,Safety and Efficacy of Levomilnacipran ER (Levomilnacipran SR) in Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT01407094,Establishing Moderators and Biosignatures of Antidepressant Response for Clinical Care for Depression,Depression,False,parallel;explicit_major_depression,2
+NCT01407575,Buprenorphine for Treatment Resistant Depression,"Depression | Depressive Disorder | Depressive Disorder, Major",True,,1
+NCT01421134,Major Depressive Disorder (MDD) With Mixed Features - Flexible Dose,Major Depressive Disorder With Mixed Features,True,,1
+NCT01421342,VA Augmentation and Switching Treatments for Improving Depression Outcomes,Major Depressive Disorder,True,,3
+NCT01422213,Efficacy Study of Vortioxetine on Cognitive Dysfunction in Adult Patients With Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT01423253,Major Depressive Disorder With Mixed Features - Extension,Major Depressive Disorder,False,randomized;parallel,1
+NCT01428661,Melatonin Agonist Effects of Tasimelteon Versus Placebo in Patients With Major Depressive Disorder,Major Depressive Disorder,True,,2
+NCT01435759,SPD489 in Combination With an Antidepressant in the Treatment of Adults With Major Depressive Disorder,Major Depressive Disorder,True,,2
+NCT01436149,Efficacy and Safety Study of SPD489 in Combination With an Antidepressant in the Treatment of Adults With Major Depressive Disorder,Major Depressive Disorder,True,,2
+NCT01436162,Efficacy and Safety Study of SPD489 in Combination With an Antidepressant in the Treatment of Adults With Major Depressive Disorder,Major Depressive Disorder,True,,2
+NCT01441440,Venlafaxine ER Phase 3 Study for Major Depressive Disorder (MDD),Major Depressive Disorder,True,,1
+NCT01447576,Study of Safety & Tolerability of OPC-34712 as Adjunctive Therapy in Treatment of Adult Patients With Major Depressive Disorder,Major Depressive Disorder,False,randomized;parallel,1
+NCT01469377,Safety and Efficacy of Cariprazine as an Adjunctive to Antidepressant Therapy in Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT01482221,A Study to Assess the Effect and Safety of AZD6765 in Patients With Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT01485887,Venlafaxine ER Long-Term Extension Study for Major Depressive Disorder (MDD),Major Depressive Disorder,False,randomized;parallel,1
+NCT01488071,A Study of Vortioxetine (Lu AA21004) in Comparison to Agomelatine in Adults Suffering From Major Depression With Inadequate Response to Previous Medication,Major Depressive Disorder,True,,1
+NCT01500200,A Study to Evaluate ALKS 5461 in Subjects With Major Depressive Disorder (MDD),Major Depressive Disorder,True,,2
+NCT01558063,Ketamine in the Treatment of Depression,Major Depressive Disorder,True,,1
+NCT01564862,Efficacy of Lu AA21004 on Cognitive Dysfunction in Major Depressive Disorder,"Depressive Disorder, Major",True,,1
+NCT01571453,Study of Vortioxetine (Lu AA21004) in Major Depressive Disorder in Asian Countries,Major Depressive Disorder,True,,1
+NCT01589315,Focal Electroconvulsive Therapy for Depression,Major Depressive Disorder,False,randomized;parallel,1
+NCT01625845,Anti-INFLammatory to Address Mood and Endothelial Dysfunction (INFLAMED),Major Depressive Disorder | Depression | Depressive Symptoms | Cardiovascular Disease (CVD) | Coronary Artery Disease (CAD) | Heart Disease,True,,1
+NCT01627782,A Study of Ketamine in Patients With Treatment-resistant Depression,Major Depressive Disorder,True,,1
+NCT01635218,Homeopathic Treatment for Depression in Peri- and Postmenopausal Women,Moderate Depression | Menopausal and Postmenopausal Disorders,False,explicit_major_depression,1
+NCT01715805,"Efficacy, Safety and Tolerability of Cariprazine as an Adjunctive Treatment to Antidepressant Therapy (ADT) in Patients With Major Depressive Disorder (MDD)",Major Depressive Disorder,True,,2
+NCT01725282,Study to Evaluate the Effect and Safety of Quetiapine Extended Release (XR) (FK949E) in Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT01725308,A Study to Evaluate the Efficacy of FK949E in Bipolar Disorder Patients With Major Depressive Episodes,Bipolar Disorder,False,explicit_major_depression;no_mixed_bipolar_schizophrenia,2
+NCT01727726,"A Study of Flexible-dose Brexpiprazole as Adjunctive Therapy in the Treatment of Adults With Major Depressive Disorder, the Delphinus Trial","Depressive Disorder | Depression | Depressive Disorder, Major | Mood Disorders | Mental Disorders",True,,1
+NCT01731119,Study of Lurasidone in Treating Antipsychotic Naive or Quasi-Naive Children and Adolescents,"Schizophrenia | Schizoaffective Disorder | Schizophreniform Disorder | Psychosis NOS | Autistic Disorder | Asperger Syndrome | Child Development Disorders, Pervasive | Bipolar I Disorder | Bipolar II Disorder | Mood Disorder NOS | Severe Major Depression With Psychotic Features | Single Episode Major Depression Without Psychotic Symptoms | Severe Mood Disorder With Psychotic Features",False,randomized;parallel;no_mixed_bipolar_schizophrenia,1
+NCT01737268,Long-term Study of FK949E in Elderly Bipolar Disorder Patients,Bipolar Disorder | Elderly,False,randomized;parallel;explicit_major_depression;no_mixed_bipolar_schizophrenia,1
+NCT01742832,Double-Blind Treatment of Major Depressive Disorder With Vilazodone,Major Depressive Disorder,False,parallel,1
+NCT01808612,A Study of Fluoxetine in Major Depressive Disorder (MDD) Short-Term Dosing,Major Depressive Disorder,True,,2
+NCT01808651,A Study of Fluoxetine in Major Depressive Disorder (MDD) Long-Term Dosing,Major Depressive Disorder,False,randomized;parallel,2
+NCT01838681,Brexpiprazole as Adjunctive Treatment in Patients With Major Depressive Disorder With an Inadequate Response to Antidepressant Treatment,Major Depressive Disorder,True,,2
+NCT01838876,Long-term Safety and Tolerability of Cariprazine as an Adjunctive Treatment to Antidepressant Therapy in Patients With Major Depressive Disorder,Major Depressive Disorder,False,randomized;parallel,1
+NCT01869374,Study Comparing Magnetic Seizure Therapy (MST) to Electroconvulsive Therapy (ECT) for Depression in Older Adults,Depression | Major Depressive Episode | Bipolar Disorder,False,no_mixed_bipolar_schizophrenia,1
+NCT01874951,Low-Dose Naltrexone (LDN) for Depression Relapse and Recurrence,"Major Depressive Disorder | Depression, Unipolar | Recurrence | Relapse",True,,1
+NCT01876823,Memantine Plus Es-citalopram in Elderly Depressed Patients With Cognitive Impairment,Mild Cognitive Impairment | Major Depressive Disorder | Alzheimer's Disease,False,randomized;parallel,1
+NCT01878292,Safety and Efficacy of Vilazodone in Adolescent Patients With Major Depressive Disorder,Major Depressive Disorder,True,,3
+NCT01880593,Ketamine Plus Lithium in Treatment-Resistant Depression,Depression,False,explicit_major_depression,1
+NCT01882829,Nuedexta in Treatment-Resistant Major Depression,Major Depressive Disorder | Treatment Resistant,False,randomized;parallel,1
+NCT01920555,"Double-Blind, Placebo-Controlled Trial of Ketamine Therapy in Treatment-Resistant Depression (TRD)",Treatment Resistant Depression,False,explicit_major_depression,1
+NCT01942733,Study of Brexpiprazole as Adjunctive Treatment of Sleep Disturbances in Patients With Major Depressive Disorder,Sleep Disturbances,False,randomized;parallel;explicit_major_depression,1
+NCT01942785,Study of Brexpiprazole as Adjunctive Treatment of Irritability in Patients With Major Depressive Disorder and an Inadequate Response to Antidepressant Therapy,Major Depressive Disorder | Irritability,False,randomized;parallel,1
+NCT01944293,Ketamine for Suicidality in Bipolar Depression,Bipolar Disorder | Major Depressive Episode | Suicidal Ideation,False,no_mixed_bipolar_schizophrenia,1
+NCT02012218,Brexpiprazole as Adjunctive Therapy With Major Depressive Disorder and an Inadequate Response to Previous Adjunctive Therapy,Major Depressive Disorder (MDD),False,randomized;parallel,1
+NCT02013531,Brexpiprazole (OPC-34712) as an Adjunctive Treatment in Adults With Major Depressive Disorder and Anxiety Symptoms,Major Depressive Disorder | Anxiety,False,randomized;parallel,1
+NCT02013609,"Brexpiprazole (OPC-34712) as an Adjunctive Treatment in Active Adults, 18 to 35 Years Old, With Major Depressive Disorder Who Are in a School or Work Environment",MDD,False,randomized;parallel,1
+NCT02014363,Safety and Efficacy Study Comparing ETS6103 With Amitriptyline in the Treatment of Major Depressive Disorder (MDD),Major Depressive Disorder,True,,1
+NCT02015546,Switching From Generic Selective Serotonin Reuptake Inhibitors (SSRIs) and Selective Serotonin and Norepinephrine Reuptake Inhibitors (SNRIs) to Three Different Dose Initiation Strategies With Vilazodone,Major Depressive Disorder (MDD),True,,1
+NCT02046564,Assess the Efficacy and Safety of ASC-01 in Patients With Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT02078817,Ketamine in Adolescents With Treatment-Resistant Depression,Major Depressive Disorder,False,randomized;parallel,1
+NCT02085135,A Study of Different Titration Schedules of ALKS 5461 in Adults With Major Depressive Disorder (MDD),Major Depressive Disorder,True,,1
+NCT02094898,Ketamine for Depression and Suicide Risk,Depression | Suicide,False,randomized;parallel;explicit_major_depression,1
+NCT02116361,OnabotulinumtoxinA as Treatment for Major Depressive Disorder in Adult Females,"Depressive Disorder, Major",True,,1
+NCT02133001,"A Double-blind Study to Assess the Efficacy and Safety of Intranasal Esketamine for the Rapid Reduction of the Symptoms of Major Depressive Disorder, Including Suicidal Ideation, in Participants Who Are Assessed to be at Imminent Risk for Suicide",Major Depressive Disorder,True,,2
+NCT02139540,Nitrous Oxide as Treatment for Major Depression - a Pilot Study,Depression | Major Depressive Disorder,False,parallel,1
+NCT02141399,A Long-Term Safety Study of ALKS 5461,Major Depressive Disorder,False,randomized;parallel,1
+NCT02149836,Study to Treat Major Depressive Disorder (MDD) With a New Medication,Major Depressive Disorder | Depression,False,randomized;parallel,1
+NCT02158533,A Study of ALKS 5461 for the Treatment of Major Depressive Disorder (MDD) - the FORWARD-4 Study,Major Depressive Disorder,True,,2
+NCT02158546,A Study of ALKS 5461 for the Treatment of Major Depressive Disorder (MDD) - the FORWARD-3 Study,Major Depressive Disorder,True,,1
+NCT02176291,Incomplete Response in Late-Life Depression: Getting to Remission With Buprenorphine,Depression | Major Depressive Disorder,True,,1
+NCT02181231,Buprenorphine Used With Treatment Resistant Depression in Older Adults,Major Depressive Disorder | Depression,True,,1
+NCT02185131,Double-blind Pilot Trial of Mirtazapine for the Treatment of Co-occurring AD/MDD.,Major Depressive Disorder | Alcohol Use Disorder,True,,1
+NCT02191397,"Study to Evaluate the Efficacy, Safety and Tolerability of Bupropion Hydrochloride Extended-release Tablet, and Escitalopram Oxalate Capsule in Subjects With Major Depressive Disorder","Depressive Disorder, Major",True,,1
+NCT02196506,Study of the Safety and Efficacy of Fixed-dose Brexpiprazole (OPC-34712) as Adjunctive Therapy in the Treatment of Adults With Major Depressive Disorder With and Without Anxious Distress,"Depressive Disorder | Depression | Depressive Disorder, Major | Mood Disorders | Mental Disorders",True,,3
+NCT02218008,A Study of ALKS 5461 for the Treatment of Major Depressive Disorder (MDD) - FORWARD-5 Study,Major Depressive Disorder,True,,2
+NCT02285504,Evaluate SAGE-547 in Female Participants With Severe Postpartum Depression,Postpartum Depression,False,randomized;parallel;explicit_major_depression,1
+NCT02358343,A Trial of Sertraline vs. CBT for End-stage Renal Disease Patients With Depression {ASCEND},Depression | End Stage Renal Disease,False,explicit_major_depression,2
+NCT02362412,Study to Evaluate the Effects of Switching Different Strength Forms of FK949E in Bipolar Disorder Patients With Major Depressive Episodes,Bipolar Depression,False,parallel;explicit_major_depression;no_mixed_bipolar_schizophrenia,2
+NCT02372799,Safety and Efficacy of Vilazodone in Pediatric Patients With Major Depressive Disorder (VLZ-MD-22),Major Depressive Disorder,True,,2
+NCT02376257,Improving Therapeutic Learning in Depression: Proof of Concept,Major Depressive Disorder,True,,1
+NCT02389816,A Phase 3 Study of Lu AA21004 in Patients With Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT02395978,A Phase II Study of PDC-1421 Capsule to Evaluate the Safety and Efficacy in Patients With Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT02400346,Evaluation of the Safety of Adjunct Brexpiprazole in Elderly Patients With Major Depressive Disorder and an Inadequate Response to Antidepressant Treatment,Major Depression Disorder,False,randomized;parallel,1
+NCT02418195,"miRNAs, Suicide, and Ketamine - Plasma Exosomal microRNAs as Novel Biomarkers for Suicidality and Treatment Outcome",Major Depressive Disorder,False,randomized,1
+NCT02431806,Safety and Efficacy of Levomilnacipran ER in Adolescent Participants With Major Depressive Disorder,Major Depressive Disorder,True,,2
+NCT02436239,A Study of Vilazodone in Pediatric Patients With Major Depressive Disorder,Major Depressive Disorder,False,randomized;parallel,2
+NCT02458690,eIMPACT Trial: Modernized Collaborative Care to Reduce the Excess CVD Risk of Older Depressed Patients,Depression | Major Depressive Disorder | Dysthymic Disorder | Depressive Symptoms | Cardiovascular Diseases | Heart Diseases | Coronary Artery Disease | Stroke,True,,1
+NCT02461927,Ketamine for the Rapid Treatment of Major Depressive Disorder and Alcohol Use Disorder,Major Depressive Disorder | Alcohol Use Disorder,True,,1
+NCT02473289,An Efficacy and Safety Study of Sirukumab in Participants With Major Depressive Disorder,"Depressive Disorder, Major",True,,1
+NCT02473783,The Serotonin Transporter Availability for Prognosing Major Depressive Disorder (MDD) Treatment and Detecting MDD,Major Depressive Disorder,False,randomized;parallel,1
+NCT02484456,Antidepressant Effects of the Glycine Receptor Antagonist AV-101 (4-chlorokynurenine) in Major Depressive Disorder,Major Depression,False,parallel,5
+NCT02498392,"An Efficacy, Safety and Tolerability Study of JNJ-42165279 in Participants With Major Depressive Disorder With Anxious Distress",Depressive Disorder | Anxiety,False,explicit_major_depression,2
+NCT02507219,Study of Ibuprofen Effects on Brain Function,Major Depressive Disorder,False,parallel,1
+NCT02553915,Omega-3 Fatty Acids for Major Depressive Disorder With High Inflammation: A Personalized Approach,Major Depressive Disorder | Overweight | Inflammation,True,,1
+NCT02600494,Clinical Trial Evaluating ITI-007 (Lumateperone) as a Monotherapy for the Treatment of Bipolar Depression,Bipolar Depression,False,explicit_major_depression;no_mixed_bipolar_schizophrenia,2
+NCT02600507,Clinical Trial Evaluating ITI-007 as an Adjunctive Therapy to Lithium or Valproate for the Treatment of Bipolar Depression,Bipolar Depression,False,explicit_major_depression;no_mixed_bipolar_schizophrenia,1
+NCT02614547,A Study to Evaluate SAGE-547 in Participants With Severe Postpartum Depression,Severe Postpartum Depression,False,explicit_major_depression,1
+NCT02646449,Treatment of Young Adults With Comorbid AUD/MDD: A Pilot Medication Trial,Major Depressive Disorder | Alcohol Use Disorder,True,,1
+NCT02674529,Study of Neural Responses Induced by Antidepressant Effects,Major Depressive Disorder,True,,1
+NCT02709655,Active Reference (Fluoxetine) Fixed-dose Study of Vortioxetine in Paediatric Participants Aged 7 to 11 Years With Major Depressive Disorder (MDD),"Depressive Disorder, Major",True,,2
+NCT02709746,Active Reference (Fluoxetine) Fixed-dose Study of Vortioxetine in Paediatric Patients Aged 12 to 17 Years With Major Depressive Disorder (MDD),"Depressive Disorder, Major",True,,2
+NCT02720198,Levomilnacipran ER vs. Adjunctive Quetiapine for Adults With Inadequate Relief With SSRIs in MDD,Major Depressive Disorder,True,,1
+NCT02722967,Exploratory Trial to Assess the Functionality of an Integrated Call Center for the Digital Medicine System,Schizophrenia | Major Depressive Disorder | Bipolar I Disorder,False,randomized;parallel;no_mixed_bipolar_schizophrenia,1
+NCT02914769,Antidepressant Effects of Ayahuasca: a Randomized Placebo Controlled Trial in Treatment Resistant Depression,Major Depression,True,,1
+NCT02932943,A Study of Rapastinel as Adjunctive Therapy in Major Depressive Disorder (RAP-MD-01),"Depressive Disorder, Major",True,,1
+NCT02942004,A Study to Evaluate Efficacy and Safety of SAGE-547 in Participants With Severe Postpartum Depression (547-PPD-202B),Postpartum Depression,False,explicit_major_depression,1
+NCT02942017,A Study to Evaluate Safety and Efficacy of SAGE-547 in Participants With Moderate Postpartum Depression (547-PPD-202C),Postpartum Depression,False,explicit_major_depression,1
+NCT02943564,A Study of Rapastinel as Adjunctive Therapy in Major Depressive Disorder (RAP-MD-02),"Depressive Disorder, Major",True,,1
+NCT02943577,A Study of Rapastinel as Adjunctive Therapy in Major Depressive Disorder (RAP-MD-03),"Depressive Disorder, Major",True,,1
+NCT02951988,A Study of Rapastinel as Adjunctive Therapy in the Prevention of Relapse in Patients With Major Depressive Disorder,"Depressive Disorder, Major",True,,2
+NCT02974010,Sequential Therapy for the Treatment of Severe Bipolar Depression.,"Bipolar Depression | Suicidal Ideas | Suicidal Ideation | Suicide, Attempted",False,parallel;explicit_major_depression;no_mixed_bipolar_schizophrenia,1
+NCT02978326,A Study to Evaluate SAGE-217 in Participants With Severe Postpartum Depression,Postpartum Depression,False,explicit_major_depression,2
+NCT03000530,A Study to Evaluate SAGE-217 in Participants With Moderate to Severe Major Depressive Disorder,Major Depression,True,,1
+NCT03002077,Long-term Safety Study of Rapastinel as Adjunctive Therapy in Patients With Major Depressive Disorder,"Depressive Disorder, Major",False,randomized;parallel,1
+NCT03018340,Study to Evaluate the Efficacy and Safety of Adjunctive Pimavanserin in Major Depressive Disorder (CLARITY),Adjunctive Treatment of Major Depressive Disorder,True,,1
+NCT03039192,"54135419SUI3001: A Study to Evaluate the Efficacy and Safety of Intranasal Esketamine in Addition to Comprehensive Standard of Care for the Rapid Reduction of the Symptoms of Major Depressive Disorder, Including Suicidal Ideation, in Adult Participants Assessed to be at Imminent Risk for Suicide","Depressive Disorder, Major",True,,1
+NCT03043560,Study to Treat Major Depressive Disorder With a New Medication,Depressive Disorder | Anhedonia,False,explicit_major_depression,1
+NCT03051256,"Safety, Tolerability, PK Profile, and Symptom Response of a 7-Day Dosing With 25 mg or 50 mg Daily of REL-1017 in MDD","Depressive Disorder, Major | Depressive Disorder, Treatment-Resistant",True,,1
+NCT03053362,THINC-it Vortioxetine - Sensitivity to Change,Major Depressive Disorder | Cognitive Change,False,randomized,1
+NCT03097133,"54135419SUI3002: A Study to Evaluate the Efficacy and Safety of Intranasal Esketamine in Addition to Comprehensive Standard of Care for the Rapid Reduction of the Symptoms of Major Depressive Disorder, Including Suicidal Ideation, in Adult Participants Assessed to be at Imminent Risk for Suicide","Depressive Disorder, Major",True,,1
+NCT03113968,ELEKT-D: Electroconvulsive Therapy (ECT) vs. Ketamine in Patients With Treatment Resistant Depression (TRD),Treatment Resistant Depression | Electroconvulsive Therapy | ECT | Ketamine | Psychiatric Disorder | Depression | Major Depressive Disorder | Major Depressive Episode | Unipolar Depression,True,,1
+NCT03181529,Effects of Psilocybin in Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT03185819,"Study to Evaluate the Efficacy and Safety of 3 Fixed Doses of Intranasal Esketamine in Addition to Comprehensive Standard of Care for the Rapid Reduction of the Symptoms of Major Depressive Disorder, Including Suicidal Ideation, in Pediatric Participants Assessed to be at Imminent Risk for Suicide","Depressive Disorder, Major",True,,2
+NCT03188185,A Study of ALKS 5461 for Treatment Refractory Major Depressive Disorder (MDD),Major Depressive Disorder,True,,2
+NCT03193398,BTRX-246040 Administered Once Daily to Patients With Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT03227224,A Study to Evaluate the Efficacy and Safety of JNJ-42847922 as Adjunctive Therapy to Antidepressants in Adult Participants With Major Depressive Disorder Who Have Responded Inadequately to Antidepressant Therapy,"Depressive Disorder, Major",True,,2
+NCT03249376,Lumateperone Monotherapy for the Treatment of Bipolar Depression Conducted Globally,Bipolar Depression,False,explicit_major_depression;no_mixed_bipolar_schizophrenia,1
+NCT03283670,Inhaled Nitrous Oxide for Treatment-Resistant Depression: Optimizing Dosing Strategies,"Depressive Disorder, Major | Depressive Disorder, Treatment-Resistant",False,parallel,3
+NCT03321526,"A Study to Compare the Efficacy, Safety, and Tolerability of JNJ-42847922 Versus Quetiapine Extended-Release as Adjunctive Therapy to Antidepressants in Adult Participants With Major Depressive Disorder Who Have Responded Inadequately to Antidepressant Therapy","Depressive Disorder, Major",True,,2
+NCT03429075,Psilocybin vs Escitalopram for Major Depressive Disorder: Comparative Mechanisms,"Depressive Disorder, Major",True,,1
+NCT03433339,Spinal Cord Stimulation for the Treatment of Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT03446846,A Study to Evaluate the Efficacy and Safety of MIN-117 in Adult Patients With Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT03489304,Zaleplon in HIV Patients With Depression,HIV/AIDS | Clinical Depression,False,randomized;parallel;explicit_major_depression,1
+NCT03505905,A Neurosteroid Intervention for Menopausal and Perimenopausal Depression,Major Depressive Disorder | Menopause | Perimenopause,False,parallel,2
+NCT03538691,"A Trial to Evaluate the Efficacy, Safety & Tolerability of Brexpiprazole in the Maintenance Treatment of Adults With Major Depressive Disorder",Major Depressive Disorder,True,,3
+NCT03543410,A Clinical Study to Test the Effectiveness of an Investigational Drug to Treat People That Have Major Depressive Episodes When They Have Bipolar 1 Depression,Depressive Episode | Bipolar 1 Depression,False,explicit_major_depression;no_mixed_bipolar_schizophrenia,1
+NCT03559192,A Study to Explore the Efficacy of JNJ-67953964 in the Treatment of Depression,"Depressive Disorder, Major",True,,2
+NCT03569475,"Efficacy, Safety, and Tolerability of Levomilnacipran ER in Pediatric Patients (7-17 Years) With Major Depressive Disorder",Major Depressive Disorder,True,,2
+NCT03586427,Zelquistinel in the Treatment of Major Depressive Disorder,"Depressive Disorder, Major",True,,1
+NCT03595579,Assessing Symptomatic Clinical Episodes in Depression,Major Depressive Disorder,True,,1
+NCT03672175,A Study to Evaluate the Efficacy of SAGE-217 in the Treatment of Adult Participants With Major Depressive Disorder,Major Depressive Disorder,True,,3
+NCT03692910,A Study to Evaluate SAGE-217 in Participants With Bipolar I/II Disorder With a Current Major Depressive Episode,Bipolar Disorder I | Bipolar Disorder II | Major Depressive Episode,False,randomized;parallel;no_mixed_bipolar_schizophrenia,1
+NCT03697603,A Study of Brexpiprazole in Patients With Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT03726658,Zelquistinel in the Treatment of Adults With Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT03737474,A Long-Term Study of Brexpiprazole in Patients With Major Depressive Disorder,Major Depressive Disorder,False,randomized;parallel,1
+NCT03738215,"Efficacy, Safety and Tolerability of Cariprazine as an Adjunctive Treatment to Antidepressant Therapy (ADT) in Patients With Major Depressive Disorder (MDD) Who Have Had an Inadequate Response to Antidepressants Alone",Major Depressive Disorder,True,,2
+NCT03739203,"The Objective of This Study is to Evaluate the Efficacy, Safety and Tolerability of Cariprazine as an Adjunctive Treatment to Antidepressant Therapy (ADT) in Patients With Major Depressive Disorder (MDD) Who Have Had an Inadequate Response to Antidepressants Alone",Major Depressive Disorder,True,,2
+NCT03756129,Proof of Concept Study Evaluating the Efficacy and Safety of MIJ821 in Patients With Treatment-resistant Depression,"Depressive Disorder, Treatment-Resistant",False,explicit_major_depression,1
+NCT03822416,Treating Smokers With Mental Illness,Smoking Cessation | Cigarette Smoking | Schizophrenia | Psychotic Disorders | Major Depressive Disorder | Bipolar Disorder I | Bipolar II Disorder | Mental Illness,False,no_mixed_bipolar_schizophrenia,1
+NCT03864614,A Study to Evaluate SAGE-217 in Adult Participants With Major Depressive Disorder (MDD),Major Depressive Disorder,False,randomized;parallel,1
+NCT03866174,A Study of Psilocybin for Major Depressive Disorder (MDD),"Depressive Disorder, Major",True,,1
+NCT03913013,Technology Enhanced Family Treatment,Mood Disorders | Bipolar Disorder | Major Depression,False,no_mixed_bipolar_schizophrenia,1
+NCT03968159,Adjunctive Pimavanserin in Subjects With Major Depressive Disorder and Inadequate Response to Antidepressant Treatment,Adjunctive Treatment of Major Depressive Disorder,True,,1
+NCT04019704,A Trial of AXS-05 in Patients With Major Depressive Disorder,Depression | Major Depressive Disorder,True,,1
+NCT04039022,Open-Label Safety Study of AXS-05 in Subjects With Depression,Major Depressive Disorder | Treatment Resistant Depression | Depression,False,randomized;parallel,1
+NCT04080752,A Study of JNJ-61393215 in the Treatment of Depression,Major Depressive Disorder With Anxious Distress,True,,1
+NCT04103892,A Study of CLE-100 (Oral Esketamine) in Addition to Standard Antidepressant Drug for Major Depressive Disorder - CLEO Study,Adjunctive Treatment of Major Depressive Disorder,True,,1
+NCT04116528,Opiate Suicide Study in Patients With Major Depression,Major Depressive Disorder,True,,1
+NCT04121091,"Pramipexole to Target ""Anhedonic Depression""","Depression, Bipolar | Depression, Unipolar | Dysthymia | Anhedonia",False,randomized;parallel;explicit_major_depression;no_mixed_bipolar_schizophrenia,1
+NCT04177706,Ketamine for the Treatment of Opioid Use Disorder and Depression,Depression | Opioid-use Disorder | Opioid Abuse,False,explicit_major_depression,1
+NCT04221230,Study in Major Depressive Disorder With NMRA-335140 (BTRX-335140) vs Placebo,Major Depressive Disorder,True,,1
+NCT04244253,A Phase 2 Trial of OPC-64005 for Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT04285515,Clinical Trial Evaluating Lumateperone Monotherapy in the Treatment of Bipolar Depression or Major Depressive Disorder,Bipolar Depression | Major Depressive Disorder,False,no_mixed_bipolar_schizophrenia,1
+NCT04338321,"A Long-term Comparison of Esketamine Nasal Spray Versus Quetiapine Extended Release, Both in Combination With a Selective Serotonin Reuptake Inhibitor/Serotonin-Norepinephrine Reuptake Inhibitor, in Participants With Treatment Resistant Major Depressive Disorder","Depressive Disorder, Major",True,,1
+NCT04345471,A Study of MD-120 in Patients With Depression,Major Depressive Disorder,True,,1
+NCT04395183,5-HTP and Creatine for Depression,Major Depressive Disorder,True,,1
+NCT04437485,eIMPACT-DM Pilot Trial: Depression Treatment to Reduce Diabetes Risk,Depression | Major Depressive Disorder | Dysthymic Disorder | Depressive Symptoms | Type 2 Diabetes | PreDiabetes | Insulin Resistance,True,,1
+NCT04442490,A Study to Evaluate the Efficacy of Sage-217 in the Treatment of Adult Participants With Major Depressive Disorder (MDD),"Depressive Disorder, Major",True,,1
+NCT04442503,A Study to Evaluate the Efficacy and Safety of SAGE-217 in Participants With Severe Postpartum Depression (PPD),"Depression, Postpartum",False,explicit_major_depression,1
+NCT04476030,A Comparative Study of Sage-217 Plus an Antidepressant (ADT) Versus Placebo Plus an ADT in Adults With Major Depressive Disorder,"Depressive Disorder, Major",True,,1
+NCT04479852,A Study of the Safety and Efficacy of SP-624 in the Treatment of Adults With Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT04504253,A Pilot Study of Creatine Monohydrate as an Augmenting Agent for ECT in Persons With Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT04521478,A Study to Test the Effect of Different Doses of BI 1358894 and Quetiapine in People With Depression,"Depressive Disorder, Major",True,,1
+NCT04533529,A Study of Seltorexant as Adjunctive Therapy to Antidepressants in Adult and Elderly Participants With Major Depressive Disorder With Insomnia Symptoms Who Have Responded Inadequately to Antidepressant and Long-term Safety Extension Treatment With Seltorexant,"Depressive Disorder, Major",True,,4
+NCT04688164,A Study to Assess the Efficacy and Safety of REL-1017 as Adjunctive Treatment for Major Depressive Disorder (MDD),Major Depressive Disorder,True,,1
+NCT04855760,Safety of REL-1017 for Major Depressive Disorder,Major Depressive Disorder,False,randomized;parallel,1
+NCT04916548,Repeated Neurocognitive Measurements in Depressed Patients,"Depression, Unipolar",False,randomized;parallel;explicit_major_depression,1
+NCT04979910,Targeting IL-17A for Treatment-Resistant Depression,Major Depressive Disorder,False,randomized;parallel,1
+NCT04985942,Clinical Trial of Lumateperone as Adjunctive Therapy in the Treatment of Patients With Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT05061706,Multicenter Study of Lumateperone as Adjunctive Therapy in the Treatment of Patients With Major Depressive Disorder,Major Depressive Disorder,True,,1
+NCT05061719,An Open-label Study of Lumateperone as Adjunctive Therapy in the Treatment of Patients With Major Depressive Disorder,Major Depressive Disorder,False,randomized;parallel,1
+NCT05081167,A Study to Assess the Efficacy and Safety of REL-1017 as Monotherapy for Major Depressive Disorder (MDD),Major Depressive Disorder,True,,1
+NCT05165394,Study to Evaluate the Efficacy and Safety of Once-Weekly Oral NBI-1065846 in the Treatment of Anhedonia in MDD,Anhedonia | Major Depressive Disorder,True,,1
+NCT05168735,Ketamine + Mindfulness for Depression,"Depression, Unipolar",False,explicit_major_depression,1
+NCT05439603,ANC-501 in the Treatment of Adults With Major Depressive Disorder,Major Depressive Disorder,False,randomized;parallel,1
+NCT05454410,"Study of Efficacy, Safety, Tolerability and Pharmacokinetics of MIJ821 in Participants With Treatment- Resistant Depression (TRD)",Treatment-Resistant Depression,False,explicit_major_depression,1
+NCT05455684,A Study of Aticaprant as Adjunctive Therapy in Adult Participants With Major Depressive Disorder (MDD) With Moderate-to-severe Anhedonia and Inadequate Response to Current Antidepressant Therapy,"Depressive Disorder, Major | Anhedonia",True,,1
+NCT05550532,A Study of Aticaprant 10 Milligrams (mg) as Adjunctive Therapy in Adult Participants With MDD With Moderate-to-severe Anhedonia and Inadequate Response to Current Antidepressant Therapy,"Depressive Disorder, Major | Anhedonia",True,,1
+NCT05680727,Individualized Functional Connectivity Targeting in aiTBS for Depression,"Depressive Disorder, Major | Depression | Mood Disorders | Mental Disorder | Psychiatric Disorder",True,,1
+NCT05686408,Study to Evaluate TNX-601 ER Monotherapy Versus Placebo in Patients With Major Depressive Disorder (MDD),"Depression | Depressive Disorder | Depressive Symptoms | Depressive Disorder, Major | Depressive Episode | Depression Severe",True,,1
+NCT06126497,Study Evaluating Safety and Efficacy of Ropanicant in MDD Patients,Major Depressive Disorder,True,,1
+NCT06235905,Open-Label of SPN-820 in Adults With Major Depressive Disorder,Major Depressive Disorder,False,randomized;parallel,1
+NCT06280235,A Study to Test Different Doses of BI 1569912 in People With Depression Who Take Anti-depressive Medicine,"Depressive Disorder, Major",True,,1
+NCT06309277,A Clinical Study to Evaluate of Single and Multiple Oral Doses of GM-1020 in Patients With MDD,Major Depressive Disorder,False,parallel,1
+NCT06340958,A Study of CLE-100 (Oral Esketamine) as an Adjunctive Treatment to Standard Antidepressants for Major Depressive Disorder,Adjunctive Treatment of Major Depressive Disorder (MDD),True,,1
+NCT06558344,A Study to Test Different Doses of BI 1569912 in People With Depression,"Depressive Disorder, Major",True,,1
