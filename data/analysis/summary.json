@@ -1,0 +1,79 @@
+{
+  "candidate_count": 335,
+  "eligible_trials": 201,
+  "usable": {
+    "n": 82,
+    "started": 20949,
+    "completed": 17674,
+    "pooled_attrition": 0.1563320444889971,
+    "median": 0.1366057951283038,
+    "q1": 0.0854257510419427,
+    "q3": 0.187370992534036
+  },
+  "sensitivity_without_zero": {
+    "n": 81,
+    "started": 20879,
+    "completed": 17674,
+    "pooled_attrition": 0.15350352028353847,
+    "median": 0.1327433628318584,
+    "q1": 0.08495145631067957,
+    "q3": 0.18357487922705318
+  },
+  "usable_arms": 221,
+  "single_period_arms": 403,
+  "reason_rows": 1896,
+  "paired_trials": 38,
+  "pair_median_difference_pp": -0.2437106918239007,
+  "pair_median_absolute_pp": 3.5204427761085233,
+  "pair_min_pp": -20.000000000000007,
+  "pair_max_pp": 25.0,
+  "pair_directions": {
+    "experimental higher": 14,
+    "comparator higher": 19,
+    "equal": 5
+  },
+  "enrollment_differs_from_started": 11,
+  "zero_completion_anomalies": [
+    "NCT00149643"
+  ],
+  "reporting_counts": {
+    "participant_flow": 201,
+    "completion_counts_present": 201,
+    "reason_table_present": 160,
+    "reason_counts_present": 160,
+    "outcome_module_present": 201,
+    "numeric_primary_results": 199,
+    "single_period": 150,
+    "exact_arm_mapping": 95,
+    "usable_attrition": 82
+  },
+  "primary_outcome_rows": 330,
+  "unique_primary_titles": 306,
+  "primary_scale_counts": {
+    "HAM-D/HDRS": 44,
+    "MADRS": 117,
+    "Other/unclear": 169
+  },
+  "paired_numeric_primary_trials": 38,
+  "candidate_madrs_trials": 14,
+  "candidate_madrs_outcomes": 14,
+  "candidate_timeframes": {
+    "Randomization (Week 8) to end of treatment (Week 16)": 2,
+    "Baseline to Week 6": 1,
+    "Baseline and Week 8": 1,
+    "8 weeks after the start of the sertraline treatment period (Baseline), 6 weeks after the start of the double-blind period (Last Observation Carried Forward [LOCF])": 1,
+    "Baseline and 3 Weeks": 2,
+    "Week 8": 1,
+    "8 weeks (or last available observation).": 1,
+    "Assessed at week 1, 2, 3, 4, 5 and 6 (averaged over the entire 6-week treatment period)": 1,
+    "Baseline; Day 43 post-dose": 1,
+    "6 weeks": 1,
+    "Baseline to Week 4": 1,
+    "29 days": 1
+  },
+  "reconciled_reason_arms": 152,
+  "raw_snapshot": "2026-09-13",
+  "source_processing_date": "2026-09-11",
+  "python": "3.9.6",
+  "numpy": "2.0.2"
+}

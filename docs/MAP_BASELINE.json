@@ -1,0 +1,12 @@
+{
+  "backup_sha256": {
+    "index.html": "4447d1c98f9a763c628a376f112fd634fabb6d5ec43db94929ac3768a085914e",
+    "data.json": "314a8e2ab04bd76bb4dd2ff1c276677671681e20d286850ac0ef6d445ff6fdea",
+    "style.css": "a544f44fb5875b52cbe26d5412fd586069f89fb0371940efb4e4effd7a763fda",
+    "eligibility.json": "1ac0803311ee699931c748790858f227e0bbec16654e8e05fc596c1d22f393eb",
+    "app.js": "48eaab7616663001b5f7bfd44b029f5960f7cbc36b9d06b4acfa5581850906c0",
+    "vendor/LICENSE-d3.txt": "3e6849627f74ff73c257a3ae1efb574015d94fc1035c05ec3c15805165efcbc4",
+    "vendor/d3.v7.min.js": "f2094bbf6141b359722c4fe454eb6c4b0f0e42cc10cc7af921fc158fceb86539"
+  },
+  "note": "Analytical baseline remains docs/NARRATIVE_BASELINE.json."
+}

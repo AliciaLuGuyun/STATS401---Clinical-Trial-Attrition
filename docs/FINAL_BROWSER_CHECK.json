@@ -1,0 +1,40 @@
+{
+  "result": "PASS",
+  "edition": "coordinated-map-2026-09-28",
+  "browser_version": "153.0.8010.53",
+  "source_sha256": {
+    "final/index.html": "70ad59efc1dd92a183e40899b25728f7d1d1f92dbbd727eb7e0b5f0f17d1facc",
+    "final/app.js": "93ff6a0dec5137e9816bf33c07ddd48b3cc6f2f0de53085a678cadb7b8c98adf",
+    "final/style.css": "be61f1d66e2bf4ff245fd7dc1fc15440aaa5a8824bfb2602451334463772a04a",
+    "final/data.json": "314a8e2ab04bd76bb4dd2ff1c276677671681e20d286850ac0ef6d445ff6fdea",
+    "final/eligibility.json": "1ac0803311ee699931c748790858f227e0bbec16654e8e05fc596c1d22f393eb"
+  },
+  "map_points": 38,
+  "all_map_coordinates_match_verified_exports": true,
+  "selection_views": [
+    "map",
+    "panel",
+    "overall distribution",
+    "gap distribution",
+    "dumbbell",
+    "matrix"
+  ],
+  "participant_bars_source_checked": true,
+  "hover_does_not_select": true,
+  "search_click_keyboard_persistence": true,
+  "nonpaired_never_zero_filled": true,
+  "sorting_and_secondary_controls": true,
+  "desktop_adjacent_panel": true,
+  "mobile_widths": [
+    390,
+    768
+  ],
+  "mobile_map_first": true,
+  "prose_metric": "Visible paragraph words, including below-fold copy; closed disclosures excluded; same default selected trial.",
+  "previous_visible_prose_words": 984,
+  "current_visible_prose_words": 77,
+  "prose_reduction_percent": 92.17479674796748,
+  "backup_loads": true,
+  "javascript_errors": [],
+  "failed_assets": []
+}

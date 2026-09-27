@@ -1,0 +1,11 @@
+variable,omit_zero_completion_anomaly,n,missing_or_excluded,spearman_rho
+calendar_span_days,False,39,43,0.04271255060728745
+calendar_span_days,True,39,43,0.04271255060728745
+enrollment,False,82,0,-0.005818827148206303
+enrollment,True,81,1,0.006443670199658456
+started,False,82,0,-0.0033094739491395177
+started,True,81,1,0.009047065181946898
+completion_year,False,80,2,-0.27775865984795445
+completion_year,True,79,3,-0.2597758465110403
+site_count,False,79,3,-0.04637291932936723
+site_count,True,78,4,-0.022569735863480222

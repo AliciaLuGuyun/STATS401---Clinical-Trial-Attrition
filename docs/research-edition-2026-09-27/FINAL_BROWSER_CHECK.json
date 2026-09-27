@@ -1,0 +1,26 @@
+{
+  "result": "PASS",
+  "browser_version": "153.0.8010.53",
+  "source_sha256": {
+    "final/index.html": "98e0c59907b30e85d894728433ff47b49665f28ca602b78d65839944fac0c422",
+    "final/app.js": "018580639b159d3a1b08434d70aaf476420cfd0c1af3a87eceb09729d015d705",
+    "final/style.css": "f7e8d364d30eaabfa418c1d9762e63c445cbacc571faac4ae57f75c973eb0bbe",
+    "final/data.json": "314a8e2ab04bd76bb4dd2ff1c276677671681e20d286850ac0ef6d445ff6fdea"
+  },
+  "initial_counts": {
+    "distribution": 82,
+    "pairs": 38,
+    "reporting": 201
+  },
+  "keyboard_selection": true,
+  "linked_highlighting": true,
+  "filters_and_empty_states": true,
+  "pair_sort_and_comparator_filter": true,
+  "reporting_review_filter": true,
+  "persistent_selection": true,
+  "model_sensitivity": true,
+  "reason_denominators": true,
+  "mobile_page_overflow": false,
+  "javascript_errors": [],
+  "failed_assets": []
+}

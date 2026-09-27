@@ -4,6 +4,25 @@ Visualizing Participant Attrition in Randomized Depression Studies · STATS401 �
 
 We examine variation in registry-reported non-completion, within-trial arm differences and original reasons for leaving. The intended audience is clinical researchers, biostatistics students and readers evaluating retention/reporting. The original [proposal](proposal.md) is preserved.
 
+## Coordinated visual analysis (September 28)
+
+The coordinated D3 analysis is in **[final/index.html](final/index.html)**. A large 38-trial Attrition Map combines overall non-completion with absolute between-arm differences; an adjacent selected-trial panel shows actual STARTED/completed counts. Three compact supporting views provide the 82-trial distribution, 38-pair gap distribution and verified evidence progression. The preceding editorial edition is preserved at **[editorial-2026-09-28/](editorial-2026-09-28/)**, and the original research edition at **[research-2026-09-27/](research-2026-09-27/)**. The redesigned page uses the existing GitHub Pages site at **[the final project](https://alicialuguyun.github.io/STATS401---Clinical-Trial-Attrition/final/)**; the root interim page remains available. See [FINAL_PROJECT_PROGRESS.md](FINAL_PROJECT_PROGRESS.md) for definitions, audit history and remaining scientific/course work.
+
+From this repository root, using the existing environment:
+
+```sh
+.venv/bin/python scripts/deepen.py
+.venv/bin/python scripts/validate_deep.py
+.venv/bin/python scripts/validate_story.py
+python3 -m http.server 8000
+```
+
+Open **http://localhost:8000/final/**. Click or keyboard-select a trial in the map, either distribution, ranked comparison or reporting matrix; search by NCT ID, title or intervention. All views share one persistent selection. The dumbbell, model, reporting matrix, source records and methods expand on demand. The 201→82→38→14 nesting is verified by unique NCT IDs; the 14 are review candidates, not harmonized treatment effects. D3 7.9.0 is bundled locally; no npm build or CDN is needed. Existing CSVs are in `data/analysis/`; `final/data.json` is generated, not edited by hand. Running `scripts/build_page.py` still rebuilds the preserved interim root page; it does not build or overwrite `final/`.
+
+Analysis/rebuild needs the original local raw snapshot plus the committed interim tables. A clone without raw data can still serve the derived `final/data.json`  but cannot reproduce the exact historical raw-to-table audit by downloading today's registry records.
+
+Optional browser verification: with Playwright available to Node and Google Chrome installed, run `node scripts/check_final.cjs` while the local server is running. `SITE_URL` may override the local URL. It checks real interactions and saves screenshots/results under `/private/tmp/` on this macOS workspace. Browser tooling is optional and separate from the Python/site dependencies.
+
 ## Interim page
 
 **Submission link: [Final Project GitHub Page](https://alicialuguyun.github.io/STATS401---Clinical-Trial-Attrition/).**
