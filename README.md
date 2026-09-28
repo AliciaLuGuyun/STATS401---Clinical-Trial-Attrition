@@ -6,22 +6,28 @@ We examine variation in registry-reported non-completion, within-trial arm diffe
 
 ## Coordinated visual analysis (September 28)
 
-The coordinated D3 analysis is in **[final/index.html](final/index.html)**. A large 38-trial Attrition Map combines overall non-completion with absolute between-arm differences; an adjacent selected-trial panel shows actual STARTED/completed counts. Three compact supporting views provide the 82-trial distribution, 38-pair gap distribution and verified evidence progression. The preceding editorial edition is preserved at **[editorial-2026-09-28/](editorial-2026-09-28/)**, and the original research edition at **[research-2026-09-27/](research-2026-09-27/)**. The redesigned page uses the existing GitHub Pages site at **[the final project](https://alicialuguyun.github.io/STATS401---Clinical-Trial-Attrition/final/)**; the root interim page remains available. See [FINAL_PROJECT_PROGRESS.md](FINAL_PROJECT_PROGRESS.md) for definitions, audit history and remaining scientific/course work.
+The **[five-view/index.html](five-view/index.html)** now implements the frozen five-view architecture: **Attrition Map, Parallel-Coordinates Trial Explorer, Selected-Trial Participant Flow Sankey, Paired-Arm Dumbbell Comparison, and Reporting / Evidence Matrix**. The map is the hero, a wide brushed explorer connects trial characteristics, and selected-trial count flow sits beside the map. The lower comparison and matrix have bounded scrolling. Methods and original records remain on demand.
+
+**The five-view edition has its own [Pages URL](https://alicialuguyun.github.io/STATS401---Clinical-Trial-Attrition/five-view/).** The previous `/final/` page and root interim page are preserved unchanged. The preceding published map edition is preserved in commit `b4e31963505d3073e49adb88a0f1254c2f1bfe9f`; the earlier [editorial](editorial-2026-09-28/) and [research](research-2026-09-27/) backups also remain intact. The existing [GitHub Pages URL](https://alicialuguyun.github.io/STATS401---Clinical-Trial-Attrition/final/) still serves that preceding published edition. See [the accepted feasibility audit](COMPLEX_VIS_FEASIBILITY_AUDIT.md) and [progress history](FINAL_PROJECT_PROGRESS.md).
 
 From this repository root, using the existing environment:
 
 ```sh
 .venv/bin/python scripts/deepen.py
+.venv/bin/python scripts/validate.py
 .venv/bin/python scripts/validate_deep.py
 .venv/bin/python scripts/validate_story.py
+cp final/data.json final/eligibility.json five-view/
 python3 -m http.server 8000
 ```
 
-Open **http://localhost:8000/final/**. Click or keyboard-select a trial in the map, either distribution, ranked comparison or reporting matrix; search by NCT ID, title or intervention. All views share one persistent selection. The dumbbell, model, reporting matrix, source records and methods expand on demand. The 201→82→38→14 nesting is verified by unique NCT IDs; the 14 are review candidates, not harmonized treatment effects. D3 7.9.0 is bundled locally; no npm build or CDN is needed. Existing CSVs are in `data/analysis/`; `final/data.json` is generated, not edited by hand. Running `scripts/build_page.py` still rebuilds the preserved interim root page; it does not build or overwrite `final/`.
+Open **http://localhost:8000/five-view/**. Drag across numeric axes or use the keyboard-accessible exact-range form; simultaneous brushes intersect with phase/sponsor filters. Search, click or keyboard-select a trial to update all applicable views. Selection persists independently of subset membership. The Sankey uses that one paired trial's counts; missing pairs and the one missing year are never zero-filled. Gap mode switches between absolute and signed pp; the map always retains its absolute-gap x-axis.
 
-Analysis/rebuild needs the original local raw snapshot plus the committed interim tables. A clone without raw data can still serve the derived `final/data.json`  but cannot reproduce the exact historical raw-to-table audit by downloading today's registry records.
+D3 7.9.0 is bundled locally. No npm build, new dependency or CDN is required. `five-view/dashboard-data.js` contains pure display transformations and subset predicates, not new analysis. Existing CSVs and `final/data.json` remain byte-identical. The explicit copy above synchronizes only the two validated data payloads into the new route; it does not change either page implementation. `scripts/build_page.py` still rebuilds only the original root interim page.
 
-Optional browser verification: with Playwright available to Node and Google Chrome installed, run `node scripts/check_final.cjs` while the local server is running. `SITE_URL` may override the local URL. It checks real interactions and saves screenshots/results under `/private/tmp/` on this macOS workspace. Browser tooling is optional and separate from the Python/site dependencies.
+Analysis/rebuild needs the original local raw snapshot plus the committed interim tables. A clone without raw data can still serve the derived `final/data.json` but cannot reproduce the exact historical raw-to-table audit by downloading today's registry records.
+
+Run `node scripts/validate_dashboard.cjs` for count-conservation and subset mathematics (Node only). Browser verification: with Playwright available to Node and Google Chrome installed, run `node scripts/check_dashboard.cjs` while the local server is running. `SITE_URL` may override the local URL. It checks real interactions and saves screenshots/results under `/private/tmp/` on this macOS workspace. Browser tooling is optional and separate from the Python/site dependencies.
 
 ## Interim page
 

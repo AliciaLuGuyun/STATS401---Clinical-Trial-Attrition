@@ -1,0 +1,36 @@
+{
+  "result": "PASS",
+  "edition": "frozen-five-view-dashboard",
+  "primary_views": 5,
+  "parallel_population": 38,
+  "axes": [
+    "STARTED log2",
+    "overall attrition percent",
+    "absolute/signed gap pp",
+    "completion year"
+  ],
+  "live_sankeys_checked": 38,
+  "all_map_coordinates_checked": true,
+  "real_pointer_multi_axis_brushing": true,
+  "mathematical_intersections_and_missing_year": true,
+  "search_selection_and_row_reveal": true,
+  "nonpaired_not_zero_filled": true,
+  "sorts_matrix_and_reason_controls": true,
+  "keyboard_and_reset": true,
+  "widths": [
+    1440,
+    1024,
+    768,
+    390
+  ],
+  "javascript_errors": [],
+  "failed_assets": [],
+  "source_sha256": {
+    "five-view/index.html": "dde7ea7c20546133cda53020f2f1a3616f2d1e4ee02514c0121a99818f2897b9",
+    "five-view/app.js": "350b111e44f12c2d28fdd2aa01e8ebedf5abb106773f258fea668171996fb9bd",
+    "five-view/style.css": "f87cf21ed23d8186d9625c180f4107858c4158e37614d24f572a59dc34d71176",
+    "five-view/dashboard-data.js": "e92ade3d07a80180d886dcf0160652cea1d7220d1e058733695c3a696c0b1145",
+    "five-view/data.json": "314a8e2ab04bd76bb4dd2ff1c276677671681e20d286850ac0ef6d445ff6fdea",
+    "five-view/eligibility.json": "1ac0803311ee699931c748790858f227e0bbec16654e8e05fc596c1d22f393eb"
+  }
+}
