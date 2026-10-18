@@ -1,0 +1,2 @@
+/* Isolated supplementary view; existing dashboard state is unchanged. */
+(()=>{const frame=document.getElementById('dynamic-network-frame');window.addEventListener('message',event=>{if(event.origin!==location.origin||event.source!==frame.contentWindow||event.data?.type!=='stats401-network-height')return;const h=Number(event.data.height);if(Number.isFinite(h)&&h>0)frame.style.height=Math.min(6000,Math.max(700,h))+'px';});})();
